@@ -1,6 +1,9 @@
 # warrenwoodhouse
 Archive for my website.
 
+# TEMPLATE
+Template for the readme can be found at https://github.com/warrenwoodhouse/warrenwoodhouse/blob/master/readme-template.md
+
 # LICENSE AGREEMENT
 You can find the license agreement at https://warrenwoodhouse.fandom.com/wiki/Terms#WL
 
