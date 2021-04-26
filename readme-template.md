@@ -14,4 +14,4 @@ You can find support at https://warrenwoodhouse.fandom.com/wiki/Forum:Support
 * Subscribe on YouTube: https://youtube.com/user/warrenwoodhouse
 * Follow on Twitter: https://twitter.com/warrenwoodhouse
 * Follow on Warren Woodhouse Blogs: https://warrenwoodhouse.fandom.com/wiki/Blog
-* More: https://warrenwoodhouse.fandom.com/wiki/Template:Header?useskin=oasis
+* More: https://warrenwoodhouse.fandom.com/wiki/Template:Header?action=toggle_view_desktop
