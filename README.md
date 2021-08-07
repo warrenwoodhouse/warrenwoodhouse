@@ -4,20 +4,20 @@ Hello! My name is Warren Woodhouse and welcome to my GitHub profile. For more in
 # ABOUT
 I have Autism. I enjoy playing on video games, playing on my guitar, watching films, reading books & taking photos.
 
-# RECENTLY UPDATED REPOSITORIES
+# RECENT CHANGES TO MY GITHUB
 [CLICK HERE](https://github.com/warrenwoodhouse?tab=overview&from=2021-01-01&to=2021-12-31) to see the full list of updates in 2021.
 
 # README TEMPLATE
-The template for the README file found on various repositories can be found by [CLICKING HERE](https://github.com/warrenwoodhouse/warrenwoodhouse/blob/master/readme-template.md).
+The template for the README file found on various repositories can be found by [CLICKING HERE](https://github.com/warrenwoodhouse/warrenwoodhouse/blob/master/readmetemplate.md).
 
 # LICENSE AGREEMENT
 You can find the license agreement by [CLICKING HERE](https://warrenwoodhouse.fandom.com/license).
 
-# WHAT IS IN THE PACKAGE
+# WHAT YOU WILL FIND ON MY GITHUB
 My GitHub profile contains repositories such as archived content from all of my websites, mods that I've made for video games, PDFs, wallpapers, cursors, favicons, fonts and more.
 
 # SUPPORT
-You can find support for my works by [CLICKING HERE](https://warrenwoodhouse.fandom.com/support).
+You can find support by [CLICKING HERE](https://warrenwoodhouse.fandom.com/support).
 
 # KEEP IN TOUCH
 * [Subscribe on YouTube](https://youtube.com/user/warrenwoodhouse)
