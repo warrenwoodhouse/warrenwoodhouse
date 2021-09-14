@@ -7,6 +7,12 @@ I have Autism. I enjoy playing on video games, playing on my guitar, watching fi
 # RECENT CHANGES TO MY GITHUB
 [CLICK HERE](https://github.com/warrenwoodhouse?tab=overview&from=2021-01-01&to=2021-12-31) to see the full list of updates in 2021.
 
+# PINNED REPOSITORIES
+* [Music](https://github.com/warrenwoodhouse/music)
+* [Game Maps](https://github.com/warrenwoodhouse/gamemaps)
+* [Fonts](https://github.com/warrenwoodhouse/fonts)
+* [Cursors](https://github.com/warrenwoodhouse/cursors)
+
 # README TEMPLATE
 The template for the README file found on various repositories can be found by [CLICKING HERE](https://github.com/warrenwoodhouse/warrenwoodhouse/blob/master/readmetemplate.md).
 
