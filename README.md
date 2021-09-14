@@ -12,6 +12,10 @@ I have Autism. I enjoy playing on video games, playing on my guitar, watching fi
 * [Game Maps](https://github.com/warrenwoodhouse/gamemaps)
 * [Fonts](https://github.com/warrenwoodhouse/fonts)
 * [Cursors](https://github.com/warrenwoodhouse/cursors)
+* [PDFs](https://github.com/warrenwoodhouse/pdfs)
+* [Favicons](https://github.com/warrenwoodhouse/favicons)
+* [Photos](https://github.com/warrenwoodhouse/photos)
+* [Game Saves](https://github.com/warrenwoodhouse/gamesaves)
 
 # README TEMPLATE
 The template for the README file found on various repositories can be found by [CLICKING HERE](https://github.com/warrenwoodhouse/warrenwoodhouse/blob/master/readmetemplate.md).
