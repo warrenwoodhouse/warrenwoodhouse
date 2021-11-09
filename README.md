@@ -4,6 +4,23 @@ Hello! My name is Warren Woodhouse and welcome to my GitHub profile. For more in
 # ABOUT
 I have Autism. I enjoy playing on video games, playing on my guitar, watching films, reading books & taking photos.
 
+# COMING SOON TO MY GITHUB
+* Boomerang (Trick) for use on THAW Tony Hawk's American Wasteland on the PS2
+* Fingerflip Pogo (Trick) for use on THAW Tony Hawk's American Wasteland on the PS2
+* The Warren (Trick) for use on THAW Tony Hawk's American Wasteland on the PS2
+* Graphic (Graphic) for use on THAW Tony Hawk's American Wasteland on the PS2
+* Graphic 2 (Graphic) for use on THAW Tony Hawk's American Wasteland on the PS2
+* Warren Park (Custom Park) for use on THPS3 Tony Hawk's Pro Skater 3 on the PS1
+* PS1 Game Saves
+* PS2 Game Saves
+* PS3 Game Saves
+* PS4 Game Saves
+* PS3 Dynamic Themes
+* PS3 Static Wallpapers
+* PS4 Dynamic Themes
+* PS4 Static Wallpapers
+* XBOX 360 Static Wallpapers
+
 # RECENT CHANGES TO MY GITHUB
 [CLICK HERE](https://github.com/warrenwoodhouse?tab=overview&from=2021-01-01&to=2021-12-31) to see the full list of updates in 2021.
 
