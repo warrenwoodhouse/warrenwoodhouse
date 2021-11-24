@@ -28,12 +28,13 @@ I have Autism. I enjoy playing on video games, playing on my guitar, watching fi
 [CLICK HERE](https://github.com/warrenwoodhouse?tab=overview&from=2021-01-01&to=2021-12-31) to see the full list of updates in 2021.
 
 # GAME MODS
-[CLICK HERE](https://warrenwoodhouse.fandom.com/mods) to see the full list of Game Mods.
+[CLICK HERE](https://github.com/warrenwoodhouse/mods#GAME_MODS) to see the full list of Game Mods.
 
 # BLOGS
 [CLICK HERE](https://warrenwoodhouse.fandom.com/blogs) to see the full list of Blogs.
 
 # PINNED REPOSITORIES
+* [Mods](https://github.com/warrenwoodhouse/mods)
 * [Music](https://github.com/warrenwoodhouse/music)
 * [Game Maps](https://github.com/warrenwoodhouse/gamemaps)
 * [Fonts](https://github.com/warrenwoodhouse/fonts)
