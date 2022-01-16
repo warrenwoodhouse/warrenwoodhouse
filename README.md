@@ -22,7 +22,7 @@ I have Autism. I enjoy playing on video games, playing on my guitar, watching fi
 * XBOX 360 Static Wallpapers
 
 # RECENT ISSUES ON MY GITHUB
-* [Liberty City Metro Map #1 - GTA3](https://github.com/warrenwoodhouse/gta3/issues/1) (help wanted)
+* [Liberty City Metro Map #1 - GTA3](https://github.com/warrenwoodhouse/gta3/issues/1) (help wanted) (RESOLVED)
 
 # RECENT CHANGES ON MY GITHUB
 [CLICK HERE](https://github.com/warrenwoodhouse?tab=overview&from=2021-01-01&to=2021-12-31) to see the full list of updates in 2021.
