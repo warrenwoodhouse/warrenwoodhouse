@@ -33,6 +33,14 @@ I have Autism. I enjoy playing on video games, playing on my guitar, watching fi
 # BLOGS
 [CLICK HERE](https://warrenwoodhouse.fandom.com/blogs) to see the full list of Blogs.
 
+# WEBSITES MISUSING MY DATA FROM MY GITHUB USING GITHUB API
+These are all clones of my GitHub and are misusing my copyright policy and license agreement, both of which are found on my website.
+These websites are misusing my data without any consent or approval.
+
+* [InnoMinds GitHub Clone of my GitHub profile and repos](https://github.innominds.com/warrenwoodhouse)
+* [Workers Dev GitHub Clone of my GitHub profile and repos](https://git.vcmq.workers.dev/warrenwoodhouse)
+* [GitHub Help GitHub Clone of my GitHub profile and repos](https://githubhelp.com/warrenwoodhouse)
+
 # PINNED REPOSITORIES
 * [Mods](https://github.com/warrenwoodhouse/mods)
 * [Music](https://github.com/warrenwoodhouse/music)
