@@ -1,5 +1,5 @@
 # warrenwoodhouse
-Hello! My name is Warren Woodhouse and welcome to my GitHub profile. For more information about me please [CLICK HERE](https://warrenwoodhouse.fandom.com/wiki/User:Warrenwoodhouse).
+Hello! My name is Warren Woodhouse and welcome to my GitHub profile. For more information about me please [CLICK HERE](https://warrenwoodhouse.tumblr.com/about).
 
 # ABOUT
 I have Autism. I enjoy playing on video games, playing on my guitar, watching films, reading books & taking photos.
@@ -23,15 +23,17 @@ I have Autism. I enjoy playing on video games, playing on my guitar, watching fi
 
 # RECENT ISSUES ON MY GITHUB
 * [Liberty City Metro Map #1 - GTA3](https://github.com/warrenwoodhouse/gta3/issues/1) (help wanted) (RESOLVED)
+* [Outdated Links - Fonts](https://github.com/warrenwoodhouse/fonts/labels/outdated%20links) (RESOLVED: Contents are archived)
+* [Infringement - Fonts](https://github.com/warrenwoodhouse/fonts/labels/infringement) (ONGOING DISPUTES)
 
 # RECENT CHANGES ON MY GITHUB
-[CLICK HERE](https://github.com/warrenwoodhouse?tab=overview&from=2022-01-01&to=2022-12-31) to see the full list of updates in 2022.
+[CLICK HERE](https://github.com/warrenwoodhouse?tab=overview&from=2023-01-01&to=2023-12-31) to see the full list of updates in 2023.
 
 # GAME MODS
 [CLICK HERE](https://github.com/warrenwoodhouse/mods#game-mods) to see the full list of Game Mods.
 
 # BLOGS
-[CLICK HERE](https://warrenwoodhouse.fandom.com/blogs) to see the full list of Blogs.
+[CLICK HERE](https://warrenwoodhouse.tumblr.com/blogs) to see the full list of Blogs.
 
 # WEBSITES MISUSING MY DATA FROM MY GITHUB USING GITHUB API
 These are all clones of my GitHub and are misusing my copyright policy and license agreement, both of which are found on my website.
@@ -56,17 +58,17 @@ These websites are misusing my data without any consent or approval.
 The template for the README file found on various repositories can be found by [CLICKING HERE](https://github.com/warrenwoodhouse/warrenwoodhouse/blob/master/readmetemplate.md).
 
 # LICENSE AGREEMENT
-You can find the license agreement by [CLICKING HERE](https://warrenwoodhouse.fandom.com/license).
+You can find the license agreement by [CLICKING HERE](https://warrenwoodhouse.tumblr.com/terms).
 
 # WHAT YOU WILL FIND ON MY GITHUB
 My GitHub profile contains repositories such as archived content from all of my websites, mods that I've made for video games, PDFs, wallpapers, cursors, favicons, fonts and more.
 
 # SUPPORT
-You can find support by [CLICKING HERE](https://warrenwoodhouse.fandom.com/support).
+You can find support by [CLICKING HERE](https://warrenwoodhouse.tumblr.com/ask).
 
 # KEEP IN TOUCH
 * [Subscribe on YouTube](https://youtube.com/user/warrenwoodhouse)
 * [Follow on Twitter](https://twitter.com/warrenwoodhouse)
-* [Follow on Warren Woodhouse Blogs](https://warrenwoodhouse.fandom.com/blog)
+* [Follow on Warren Woodhouse Blogs](https://warrenwoodhouse.tumblr.com/blogs)
 * [Follow on GIPHY](https://giphy.com/channel/warrenwoodhouse)
-* [More](https://warrenwoodhouse.fandom.com/wiki/Template:Header?useskin=oasis)
+* [More](https://warrenwoodhouse.tumblr.com/follow)
