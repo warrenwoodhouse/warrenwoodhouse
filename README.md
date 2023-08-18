@@ -2,7 +2,20 @@
 Hello! My name is Warren Woodhouse and welcome to my GitHub profile. For more information about me please [CLICK HERE](https://warrenwoodhouse.tumblr.com/about).
 
 # ABOUT
-I have Autism. I enjoy playing on video games, playing on my guitar, watching films, reading books & taking photos.
+I have Autism. I enjoy playing on video games, playing on my guitar, playing on my piano, watching films, reading books & taking photos.
+
+# PAGES
+* [Homepage](https://warrenwoodhouse.github.io/warrenwoodhouse)
+* [About Me](https://warrenwoodhouse.tumblr.com/profile)
+* [Blog](https://warrenwoodhouse.tumblr.com/)
+* [T-Codes](https://warrenwoodhouse.github.io/codes)
+** [Colour Chart](https://warrenwoodhouse.github.io/codes/colourchart)
+* [Comments](https://warrenwoodhouse.github.io/warrenwoodhouse/comments)
+* [Videos](https://youtube.com/user/warrenwoodhouse)
+* [Music](https://warrenwoodhouse.tumblr.com/tagged/music)
+* [Artwork](https://warrenwoodhouse.artstation.com/)
+* [TrueTrophies](https://truetrophies.com/gamer/warren-woodhouse)
+* [Photos](https://warrenwoodhouse.tumblr.com/tagged/photos)
 
 # COMING SOON TO MY GITHUB
 * Boomerang (Trick) for use on THAW Tony Hawk's American Wasteland on the PS2
@@ -34,6 +47,13 @@ I have Autism. I enjoy playing on video games, playing on my guitar, watching fi
 
 # BLOGS
 [CLICK HERE](https://warrenwoodhouse.tumblr.com/blogs) to see the full list of Blogs.
+
+# GITHUB PAGES
+* [Warren Woodhouse](https://warrenwoodhouse.github.io/warrenwoodhouse)
+* [T-Codes](https://warrenwoodhouse.github.io/codes)
+
+# GITHUB PROJECTS
+* None at the moment
 
 # WEBSITES MISUSING MY DATA FROM MY GITHUB USING GITHUB API
 These are all clones of my GitHub and are misusing my copyright policy and license agreement, both of which are found on my website.
@@ -68,7 +88,7 @@ You can find support by [CLICKING HERE](https://warrenwoodhouse.tumblr.com/ask).
 
 # KEEP IN TOUCH
 * [Subscribe on YouTube](https://youtube.com/user/warrenwoodhouse)
-* [Follow on Twitter](https://twitter.com/warrenwoodhouse)
+* [Follow on Twitter / X](https://twitter.com/warrenwoodhouse)
 * [Follow on Warren Woodhouse Blogs](https://warrenwoodhouse.tumblr.com/blogs)
 * [Follow on GIPHY](https://giphy.com/channel/warrenwoodhouse)
 * [More](https://warrenwoodhouse.tumblr.com/follow)
