@@ -9,7 +9,7 @@ I have Autism. I enjoy playing on video games, playing on my guitar, playing on 
 * [About Me](https://warrenwoodhouse.tumblr.com/profile)
 * [Blog](https://warrenwoodhouse.tumblr.com/)
 * [T-Codes](https://warrenwoodhouse.github.io/codes)
-** [Colour Chart](https://warrenwoodhouse.github.io/codes/colourchart)
+* [Colour Chart](https://warrenwoodhouse.github.io/codes/colourchart)
 * [Comments](https://warrenwoodhouse.github.io/warrenwoodhouse/comments)
 * [Videos](https://youtube.com/user/warrenwoodhouse)
 * [Music](https://warrenwoodhouse.tumblr.com/tagged/music)
