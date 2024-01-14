@@ -5,6 +5,8 @@ Hello! My name is Warren Woodhouse and welcome to my GitHub profile. For more in
 I have Autism. I enjoy playing on video games, playing on my guitar, playing on my piano, watching films, reading books & taking photos.
 
 # PAGES
+* [Official Website](https://warrenwoodhouse.tumblr.com/)
+* [Archive](https://warrenwoodhouse.tumblr.com/archive)
 * [Homepage](https://warrenwoodhouse.github.io/warrenwoodhouse)
 * [About Me](https://warrenwoodhouse.tumblr.com/profile)
 * [Blog](https://warrenwoodhouse.tumblr.com/)
@@ -13,7 +15,7 @@ I have Autism. I enjoy playing on video games, playing on my guitar, playing on 
 * [Comments](https://warrenwoodhouse.github.io/warrenwoodhouse/comments)
 * [Videos](https://youtube.com/user/warrenwoodhouse)
 * [Music](https://warrenwoodhouse.tumblr.com/tagged/music)
-* [Artwork](https://warrenwoodhouse.artstation.com/)
+* [Artwork](https://warrenwoodhouse.tumblr.com/tagged/artwork)
 * [TrueTrophies](https://truetrophies.com/gamer/warren-woodhouse)
 * [Photos](https://warrenwoodhouse.tumblr.com/tagged/photos)
 
@@ -40,7 +42,11 @@ I have Autism. I enjoy playing on video games, playing on my guitar, playing on 
 * [Infringement - Fonts](https://github.com/warrenwoodhouse/fonts/labels/infringement) (ONGOING DISPUTES)
 
 # RECENT CHANGES ON MY GITHUB
-[CLICK HERE](https://github.com/warrenwoodhouse?tab=overview&from=2023-01-01&to=2023-12-31) to see the full list of updates in 2023.
+[CLICK HERE](https://github.com/warrenwoodhouse?tab=overview&from=2024-01-01&to=2024-12-31) to see the full list of updates in 2024.
+
+# PAST CHANGES ON MY GITHUB
+* [2024](https://github.com/warrenwoodhouse?tab=overview&from=2024-01-01&to=2024-12-31)
+* [2023](https://github.com/warrenwoodhouse?tab=overview&from=2023-01-01&to=2023-12-31)
 
 # GAME MODS
 [CLICK HERE](https://github.com/warrenwoodhouse/mods#game-mods) to see the full list of Game Mods.
@@ -51,6 +57,8 @@ I have Autism. I enjoy playing on video games, playing on my guitar, playing on 
 # GITHUB PAGES
 * [Warren Woodhouse](https://warrenwoodhouse.github.io/warrenwoodhouse)
 * [T-Codes](https://warrenwoodhouse.github.io/codes)
+* [Colour Chart](https://warrenwoodhouse.github.io/codes/colourchart)
+* [Comments](https://warrenwoodhouse.github.io/warrenwoodhouse/comments)
 
 # GITHUB PROJECTS
 * None at the moment
@@ -88,6 +96,7 @@ You can find support by [CLICKING HERE](https://warrenwoodhouse.tumblr.com/ask).
 
 # KEEP IN TOUCH
 * [Subscribe on YouTube](https://youtube.com/user/warrenwoodhouse)
+* [Follow on Tumblr](https://warrenwoodhouse.tumblr.com/)
 * [Follow on Twitter / X](https://twitter.com/warrenwoodhouse)
 * [Follow on Warren Woodhouse Blogs](https://warrenwoodhouse.tumblr.com/blogs)
 * [Follow on GIPHY](https://giphy.com/channel/warrenwoodhouse)
