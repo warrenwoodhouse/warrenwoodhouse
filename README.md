@@ -1,11 +1,12 @@
 # warrenwoodhouse
-Hello! My name is Warren Woodhouse and welcome to my GitHub profile. For more information about me please [CLICK HERE](https://warrenwoodhouse.tumblr.com/about).
+Hello! My name is Warren Woodhouse and welcome to my GitHub profile. For more information about me please [CLICK HERE](https://warrenwoodhouse.tumblr.com/profile).
 
 # ABOUT
 I have Autism. I enjoy playing on video games, playing on my guitar, playing on my piano, watching films, reading books & taking photos.
 
 # PAGES
 * [Official Website](https://warrenwoodhouse.tumblr.com/)
+* [Podcasts](https://youtube.com/user/warrenwoodhouse/podcasts)
 * [Archive](https://warrenwoodhouse.tumblr.com/archive)
 * [Homepage](https://warrenwoodhouse.github.io/warrenwoodhouse)
 * [About Me](https://warrenwoodhouse.tumblr.com/profile)
@@ -100,4 +101,4 @@ You can find support by [CLICKING HERE](https://warrenwoodhouse.tumblr.com/ask).
 * [Follow on Twitter / X](https://twitter.com/warrenwoodhouse)
 * [Follow on Warren Woodhouse Blogs](https://warrenwoodhouse.tumblr.com/blogs)
 * [Follow on GIPHY](https://giphy.com/channel/warrenwoodhouse)
-* [More](https://warrenwoodhouse.tumblr.com/follow)
+* [More](https://warrenwoodhouse.tumblr.com/tagged/follow)
