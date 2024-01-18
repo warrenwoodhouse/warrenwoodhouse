@@ -72,6 +72,17 @@ These websites are misusing my data without any consent or approval.
 * [Workers Dev GitHub Clone of my GitHub profile and repos](https://git.vcmq.workers.dev/warrenwoodhouse)
 * [GitHub Help GitHub Clone of my GitHub profile and repos](https://githubhelp.com/warrenwoodhouse)
 
+# FILES ON GITHUB THAT ARE SHARING MY DATA WITHOUT MY CONSENT OR APPROVAL
+Update the list when new files are discovered, when files are removed by the uploader or when files are taken down by GitHub in accordance with their DMCA Policy and Privacy Policy.
+
+* [crunchbase.txt - Master - Markov-Chains - bradjasper - GitHub](https://raw.githubusercontent.com/bradjasper/Markov-Chains/master/crunchbase.txt) (Text Document)
+
+# FILES ELSEWHERE ONLINE THAT ARE SHARING MY DATA WITH MY CONSENT AND APPROVAL
+Update the list when necessary.
+
+* [Aenigmate Productions - Listings - Fonts - FontMeme](https://fontmeme.com/fonts/aenigmate-productions-listing) (Font Developer Page)
+* [Warren Woodhouse - Channels - GIPHY - Meta](https://giphy.com/warrenwoodhouse)
+
 # PINNED REPOSITORIES
 * [Mods](https://github.com/warrenwoodhouse/mods)
 * [Music](https://github.com/warrenwoodhouse/music)
