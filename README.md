@@ -4,6 +4,10 @@ Hello! My name is Warren Woodhouse and welcome to my GitHub profile. For more in
 # ABOUT
 I have Autism. I enjoy playing on video games, playing on my guitar, playing on my piano, watching films, reading books & taking photos.
 
+# GITHUB STREAKS
+[![GitHub Streak](https://streak-stats.demolab.com?user=warrenwoodhouse&date_format=j%20M%5B%20Y%5D&background=FF000000&border=FF000000&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideNums=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&excludeDaysLabel=FF0000)](https://git.io/streak-stats)
+<sub>Widget made using [GitHub Streak](https://streak-stats.demolab.com/demo/) by [DemoLab](https://www.demolab.com/)</sub>
+
 # PAGES
 * [Official Website](https://warrenwoodhouse.tumblr.com/)
 * [Podcasts](https://youtube.com/user/warrenwoodhouse/podcasts)
