@@ -11,17 +11,18 @@ README File for the package goes here.
 Recent Changes for the package goes here.
 
 # LICENSE AGREEMENT
-You can find the license agreement by [CLICKING HERE](https://warrenwoodhouse.fandom.com/license).
+You can find the license agreement by [CLICKING HERE](https://warrenwoodhouse.blogspot.com/search/label/license).
 
 # WHAT IS IN THE PACKAGE
 Contents List for the package goes here.
 
 # SUPPORT
-You can find support by [CLICKING HERE](https://warrenwoodhouse.fandom.com/support).
+You can find support by [CLICKING HERE](https://warrenwoodhouse.blogspot.com/p/support.html).
 
 # KEEP IN TOUCH
 * [Subscribe on YouTube](https://youtube.com/user/warrenwoodhouse)
+* [Official Website](https://warrenwoodhouse.blogspot.com/)
 * [Follow on Twitter](https://twitter.com/warrenwoodhouse)
-* [Follow on Warren Woodhouse Blogs](https://warrenwoodhouse.fandom.com/blog)
+* [Follow on Warren Woodhouse Blogs](https://warrenwoodhouse.blogspot.com/search/label/blogs)
 * [Follow on GIPHY](https://giphy.com/channel/warrenwoodhouse)
-* [More](https://warrenwoodhouse.fandom.com/wiki/Template:Header?useskin=oasis)
+* [More](https://warrenwoodhouse.blogspot.com/search/label/follow)
