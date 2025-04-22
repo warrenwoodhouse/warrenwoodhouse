@@ -1,5 +1,5 @@
 # warrenwoodhouse
-Hello! My name is Warren Woodhouse and welcome to my GitHub profile. For more information about me please [CLICK HERE](https://warrenwoodhouse.tumblr.com/profile).
+Hello! My name is Warren Woodhouse and welcome to my GitHub profile. For more information about me please [CLICK HERE](https://warrenwoodhouse.blogspot.com/p/about.html).
 
 # ABOUT
 I have Autism. I enjoy playing on video games, playing on my guitar, playing on my piano, watching films, reading books & taking photos.
@@ -9,20 +9,20 @@ I have Autism. I enjoy playing on video games, playing on my guitar, playing on 
 <sub>Widget made using [GitHub Streak](https://streak-stats.demolab.com/demo/) by [DemoLab](https://www.demolab.com/)</sub>
 
 # PAGES
-* [Official Website](https://warrenwoodhouse.tumblr.com/)
+* [Official Website](https://warrenwoodhouse.blogspot.com/)
 * [Podcasts](https://youtube.com/user/warrenwoodhouse/podcasts)
-* [Archive](https://warrenwoodhouse.tumblr.com/archive)
+* [Archive](https://warrenwoodhouse.blogspot.com/#archive)
 * [Homepage](https://warrenwoodhouse.github.io/warrenwoodhouse)
-* [About Me](https://warrenwoodhouse.tumblr.com/profile)
-* [Blog](https://warrenwoodhouse.tumblr.com/)
+* [About Me](https://warrenwoodhouse.blogspot.com/p/about.html)
+* [Blog](https://warrenwoodhouse.blogspot.com/)
 * [T-Codes](https://warrenwoodhouse.github.io/codes)
 * [Colour Chart](https://warrenwoodhouse.github.io/codes/colourchart)
 * [Comments](https://warrenwoodhouse.github.io/warrenwoodhouse/comments)
 * [Videos](https://youtube.com/user/warrenwoodhouse)
-* [Music](https://warrenwoodhouse.tumblr.com/tagged/music)
-* [Artwork](https://warrenwoodhouse.tumblr.com/tagged/artwork)
+* [Music](https://warrenwoodhouse.blogspot.com/search/label/music)
+* [Artwork](https://warrenwoodhouse.blogspot.com/search/label/artwork)
 * [TrueTrophies](https://truetrophies.com/gamer/warren-woodhouse)
-* [Photos](https://warrenwoodhouse.tumblr.com/tagged/photos)
+* [Photos](https://warrenwoodhouse.blogspot.com/search/label/photos)
 
 # COMING SOON TO MY GITHUB
 * Boomerang (Trick) for use on THAW Tony Hawk's American Wasteland on the PS2
@@ -47,9 +47,10 @@ I have Autism. I enjoy playing on video games, playing on my guitar, playing on 
 * [Infringement - Fonts](https://github.com/warrenwoodhouse/fonts/labels/infringement) (ONGOING DISPUTES)
 
 # RECENT CHANGES ON MY GITHUB
-[CLICK HERE](https://github.com/warrenwoodhouse?tab=overview&from=2024-01-01&to=2024-12-31) to see the full list of updates in 2024.
+[CLICK HERE](https://github.com/warrenwoodhouse?tab=overview&from=2025-01-01&to=2025-12-31) to see the full list of updates in 2025.
 
 # PAST CHANGES ON MY GITHUB
+* [2025](https://github.com/warrenwoodhouse?tab=overview&from=2025-01-01&to=2025-12-31)
 * [2024](https://github.com/warrenwoodhouse?tab=overview&from=2024-01-01&to=2024-12-31)
 * [2023](https://github.com/warrenwoodhouse?tab=overview&from=2023-01-01&to=2023-12-31)
 
@@ -57,7 +58,7 @@ I have Autism. I enjoy playing on video games, playing on my guitar, playing on 
 [CLICK HERE](https://github.com/warrenwoodhouse/mods#game-mods) to see the full list of Game Mods.
 
 # BLOGS
-[CLICK HERE](https://warrenwoodhouse.tumblr.com/blogs) to see the full list of Blogs.
+[CLICK HERE](https://warrenwoodhouse.blogspot.com/search/label/blogs) to see the full list of Blogs.
 
 # GITHUB PAGES
 * [Warren Woodhouse](https://warrenwoodhouse.github.io/warrenwoodhouse)
@@ -102,18 +103,18 @@ Update the list when necessary.
 The template for the README file found on various repositories can be found by [CLICKING HERE](https://github.com/warrenwoodhouse/warrenwoodhouse/blob/master/readmetemplate.md).
 
 # LICENSE AGREEMENT
-You can find the license agreement by [CLICKING HERE](https://warrenwoodhouse.tumblr.com/terms).
+You can find the license agreement by [CLICKING HERE](https://warrenwoodhouse.blogspot.com/search/label/terms).
 
 # WHAT YOU WILL FIND ON MY GITHUB
 My GitHub profile contains repositories such as archived content from all of my websites, mods that I've made for video games, PDFs, wallpapers, cursors, favicons, fonts and more.
 
 # SUPPORT
-You can find support by [CLICKING HERE](https://warrenwoodhouse.tumblr.com/ask).
+You can find support by [CLICKING HERE](https://warrenwoodhouse.blogspot.com/p/support.html).
 
 # KEEP IN TOUCH
 * [Subscribe on YouTube](https://youtube.com/user/warrenwoodhouse)
-* [Follow on Tumblr](https://warrenwoodhouse.tumblr.com/)
+* [Follow on Blogger](https://warrenwoodhouse.blogspot.com/)
 * [Follow on Twitter / X](https://twitter.com/warrenwoodhouse)
-* [Follow on Warren Woodhouse Blogs](https://warrenwoodhouse.tumblr.com/blogs)
+* [Follow on Warren Woodhouse Blogs](https://warrenwoodhouse.blogspot.com/search/label/blogs)
 * [Follow on GIPHY](https://giphy.com/channel/warrenwoodhouse)
-* [More](https://warrenwoodhouse.tumblr.com/tagged/follow)
+* [More](https://warrenwoodhouse.blogspot.com/search/label/follow)
