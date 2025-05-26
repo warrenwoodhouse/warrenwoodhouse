@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="https://a9.com/-/spec/opensearch/1.1/" xmlns:moz="https://www.mozilla.org/2006/browser/search/">
+<ShortName>Warren Woodhouse</ShortName>
+<Description>Search Warren Woodhouse</Description>
+<InputEncoding>UTF-8</InputEncoding>
+<Image width="16" height="16" type="image/x-icon">https://raw.githubusercontent.com/warrenwoodhouse/favicons/releases/download/v1/favicon.ico</Image>
+<Url type="text/html" method="GET" template="https://warrenwoodhouse.blogspot.com/search?q={searchTerms}"/>
+<moz:SearchForm>https://warrenwoodhouse.blogspot.com/search?q={searchTerms}</moz:SearchForm>
+</OpenSearchDescription>
