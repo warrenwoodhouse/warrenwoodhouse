@@ -1,0 +1,24 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 18.5//EN
+N:;;;;
+EMAIL;type=INTERNET;type=HOME;type=pref:warrenwoodhouse@googlegroups.com
+item1.URL;type=pref:https://warrenwoodhouse.blogspot.com/p/contact.html
+item1.X-ABLabel:Contact Form
+item2.URL:https://warrenwoodhouse.blogspot.com/p/forums.html
+item2.X-ABLabel:Forums
+item3.URL:https://warrenwoodhouse.blogspot.com/search/label/artwork
+item3.X-ABLabel:Artwork
+item4.URL:https://warrenwoodhouse.blogspot.com/search/label/photos
+item4.X-ABLabel:Photos
+item5.URL:https://warrenwoodhouse.blogspot.com/search/label/music
+item5.X-ABLabel:Music
+item6.URL:https://youtube.com/user/warrenwoodhouse
+item6.X-ABLabel:Videos
+item7.URL:https://warrenwoodhouse.blogspot.com/
+item7.X-ABLabel:BLOG
+item8.URL:https://warrenwoodhouse.blogspot.com/p/about.html
+item8.X-ABLabel:PROFILE
+item9.URL:https://warrenwoodhouse.blogspot.com/
+item9.X-ABLabel:Home Page
+END:VCARD
