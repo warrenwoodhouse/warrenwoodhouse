@@ -1,6 +1,8 @@
 # warrenwoodhouse
 Hello! My name is Warren Woodhouse and welcome to my GitHub profile. For more information about me please [CLICK HERE](https://warrenwoodhouse.blogspot.com/p/about.html).
 
+[CLICK HERE](https://github.com/warrenwoodhouse/warrenwoodhouse/blob/master/RELEASE-NOTES.md) to read the Release Notes/Changelog for my GitHub.
+
 # ABOUT
 I have Autism. I enjoy playing on video games, playing on my guitar, playing on my piano, watching films, reading books & taking photos.
 
@@ -11,18 +13,18 @@ I have Autism. I enjoy playing on video games, playing on my guitar, playing on 
 # PAGES
 * [Official Website](https://warrenwoodhouse.blogspot.com/)
 * [Podcasts](https://youtube.com/user/warrenwoodhouse/podcasts)
-* [Archive](https://warrenwoodhouse.blogspot.com/#archive)
+* [Archive](https://warrenwoodhouse.blogspot.com/archive)
 * [Homepage](https://warrenwoodhouse.github.io/warrenwoodhouse)
-* [About Me](https://warrenwoodhouse.blogspot.com/p/about.html)
+* [About Me](https://warrenwoodhouse.blogspot.com/about)
 * [Blog](https://warrenwoodhouse.blogspot.com/)
 * [T-Codes](https://warrenwoodhouse.github.io/codes)
 * [Colour Chart](https://warrenwoodhouse.github.io/codes/colourchart)
 * [Comments](https://warrenwoodhouse.github.io/warrenwoodhouse/comments)
 * [Videos](https://youtube.com/user/warrenwoodhouse)
-* [Music](https://warrenwoodhouse.blogspot.com/search/label/music)
-* [Artwork](https://warrenwoodhouse.blogspot.com/search/label/artwork)
+* [Music](https://warrenwoodhouse.blogspot.com/music)
+* [Artwork](https://warrenwoodhouse.blogspot.com/artwork)
 * [TrueTrophies](https://truetrophies.com/gamer/warren-woodhouse)
-* [Photos](https://warrenwoodhouse.blogspot.com/search/label/photos)
+* [Photos](https://warrenwoodhouse.blogspot.com/photos)
 
 # COMING SOON TO MY GITHUB
 * Boomerang (Trick) for use on THAW Tony Hawk's American Wasteland on the PS2
@@ -42,12 +44,24 @@ I have Autism. I enjoy playing on video games, playing on my guitar, playing on 
 * XBOX 360 Static Wallpapers
 
 # RECENT ISSUES ON MY GITHUB
+> [!TIP]
+> If you want to help out with correcting mistakes in issues oppended to the forums and bug reports in my community, please [CLICK HERE](https://github.com/warrenwoodhouse/forums/issues)
+
 * [Liberty City Metro Map #1 - GTA3](https://github.com/warrenwoodhouse/gta3/issues/1) (help wanted) (RESOLVED)
 * [Outdated Links - Fonts](https://github.com/warrenwoodhouse/fonts/labels/outdated%20links) (RESOLVED: Contents are archived)
 * [Infringement - Fonts](https://github.com/warrenwoodhouse/fonts/labels/infringement) (ONGOING DISPUTES)
 
 # RECENT CHANGES ON MY GITHUB
-[CLICK HERE](https://github.com/warrenwoodhouse?tab=overview&from=2025-01-01&to=2025-12-31) to see the full list of updates in 2025.
+> [!IMPORTANT]
+> This section includes important updates of recently uploaded content.
+
+[CLICK HERE](https://github.com/warrenwoodhouse?tab=overview&from=2026-01-01&to=2026-12-31) to see the full list of updates in 2026.
+
+```
+git status
+git add
+git commit
+```
 
 # PAST CHANGES ON MY GITHUB
 * [2025](https://github.com/warrenwoodhouse?tab=overview&from=2025-01-01&to=2025-12-31)
@@ -58,7 +72,7 @@ I have Autism. I enjoy playing on video games, playing on my guitar, playing on 
 [CLICK HERE](https://github.com/warrenwoodhouse/mods#game-mods) to see the full list of Game Mods.
 
 # BLOGS
-[CLICK HERE](https://warrenwoodhouse.blogspot.com/search/label/blogs) to see the full list of Blogs.
+[CLICK HERE](https://warrenwoodhouse.blogspot.com/blogs) to see the full list of Blogs.
 
 # GITHUB PAGES
 * [Warren Woodhouse](https://warrenwoodhouse.github.io/warrenwoodhouse)
@@ -103,18 +117,18 @@ Update the list when necessary.
 The template for the README file found on various repositories can be found by [CLICKING HERE](https://github.com/warrenwoodhouse/warrenwoodhouse/blob/master/readmetemplate.md).
 
 # LICENSE AGREEMENT
-You can find the license agreement by [CLICKING HERE](https://warrenwoodhouse.blogspot.com/search/label/terms).
+You can find the license agreement by [CLICKING HERE](https://warrenwoodhouse.blogspot.com/terms).
 
 # WHAT YOU WILL FIND ON MY GITHUB
 My GitHub profile contains repositories such as archived content from all of my websites, mods that I've made for video games, PDFs, wallpapers, cursors, favicons, fonts and more.
 
 # SUPPORT
-You can find support by [CLICKING HERE](https://warrenwoodhouse.blogspot.com/p/support.html).
+You can find support by [CLICKING HERE](https://warrenwoodhouse.blogspot.com/support).
 
 # KEEP IN TOUCH
 * [Subscribe on YouTube](https://youtube.com/user/warrenwoodhouse)
 * [Follow on Blogger](https://warrenwoodhouse.blogspot.com/)
 * [Follow on Twitter / X](https://twitter.com/warrenwoodhouse)
-* [Follow on Warren Woodhouse Blogs](https://warrenwoodhouse.blogspot.com/search/label/blogs)
+* [Follow on Warren Woodhouse Blogs](https://warrenwoodhouse.blogspot.com/blogs)
 * [Follow on GIPHY](https://giphy.com/channel/warrenwoodhouse)
-* [More](https://warrenwoodhouse.blogspot.com/search/label/follow)
+* [More](https://warrenwoodhouse.blogspot.com/follow)
