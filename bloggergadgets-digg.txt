@@ -1,0 +1,9 @@
+This gadget/widget is no longer available for use.
+
+<div id="digg-widget-1285441800062">
+<a href="http://digg.com/users/warrenwoodhouse">See more stories dugg by warrenwoodhouse on Digg.com</a>
+<a href="http://digg.com/search?q=site:site:facebook.com/warrenwoodhouse">See more site:facebook.com/warrenwoodhouse stories on Digg.com</a>
+</div>
+<script type="text/javascript">
+(function() { var s, s1, diggWidget = {id: "digg-widget-1285441800062", layout: 1, colors: {hdrBg: "#ffffff", hdrTxt: "#ff0000", tabBg: "#ffffff", tabTxt: "#cd0000", tabOnTxt: "#ff0000", bdyBg: "#ffffff", stryBrdr: "#ff0000", lnk: "#cd0000", descTxt: "#999999", subHd: "#999999"}, title: "Warren Woodhouse", width: 240, requests: [{t: "warrenwoodhouse", p: {count: "5", method: "user.getDugg", username: "warrenwoodhouse"}}, {t: "site:facebook.com/warrenwoodhouse", p: {count: "5", sort: "promote_date-desc", method: "story.getPopular", domain: "site:facebook.com/warrenwoodhouse"}}], hide: {}, display: "tabbed"}; if (window.DiggWidget) { if (typeof DiggWidget == 'function') { new DiggWidget(diggWidget); } else { DiggWidget.push(diggWidget); } } else { DiggWidget = [diggWidget]; s = document.createElement('SCRIPT'); s.type = 'text/javascript'; s.async = true; s.src = 'http://widgets.digg.com/widgets.js'; s1 = document.getElementsByTagName('SCRIPT')[0]; s1.parentNode.insertBefore(s, s1); } })();
+</script>
