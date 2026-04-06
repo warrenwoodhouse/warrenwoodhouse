@@ -26,6 +26,19 @@ I have Autism. I enjoy playing on video games, playing on my guitar, playing on 
 * [TrueTrophies](https://truetrophies.com/gamer/warren-woodhouse)
 * [Photos](https://warrenwoodhouse.blogspot.com/photos)
 
+# ZIP FILES NOW AVAILABLE
+These ZIP Files are now available to download. These are available for free for personal use only. Should you wish to use them for commercial uses, please inform me directly by [CLICKING HERE](https://warrenwoodhouse.blogspot.com/contact).
+
+* [Dotty Theme - Blogger Templates](https://github.com/warrenwoodhouse/bloggertemplates/blob/main/bloggertemplates-bywarrenwoodhouse-dotty.zip)
+* [Blogging on a Sunday Morning Theme - Blogger Templates](https://github.com/warrenwoodhouse/bloggertemplates/blob/main/bloggertemplates-bywarrenwoodhouse-bloggingonasundaymorning.zip)
+* [Will Turner Theme - Blogger Templates](https://github.com/warrenwoodhouse/bloggertemplates/blob/main/bloggertemplates-bywarrenwoodhouse-willturner.zip)
+* [Will Turner 2004 Theme - Blogger Templates](https://github.com/warrenwoodhouse/bloggertemplates/blob/main/bloggertemplates-bywarrenwoodhouse-willturner2004.zip)
+* [Mods & Creations - The Sims (PC)](https://github.com/warrenwoodhouse/thesims/archive/refs/tags/v1.zip)
+* [Custom Maps - Far Cry 2 (PS3)](https://github.com/warrenwoodhouse/farcry2/archive/refs/tags/v1.zip)
+* [SHAREfactory Stickers - SHAREfactory (PS4)](https://github.com/warrenwoodhouse/sharefactorystickers/archive/refs/tags/v1.zip)
+* [Warren Woodhouse Theme - Google Chrome Themes](https://github.com/warrenwoodhouse/googlechromethemes/releases/download/warrenwoodhousegooglechrometheme/ZIPs_ByWarrenWoodhouse_GoogleChromeThemes_WarrenWoodhouseOfficialGoogleChromeTheme.zip)
+* [Warren Park - Tony Hawk's Pro Skater 4 (PS1)](https://github.com/warrenwoodhouse/thps4/archive/refs/tags/warrenpark.zip)
+
 # COMING SOON TO MY GITHUB
 * Boomerang (Trick) for use on THAW Tony Hawk's American Wasteland on the PS2
 * Fingerflip Pogo (Trick) for use on THAW Tony Hawk's American Wasteland on the PS2
@@ -56,12 +69,6 @@ I have Autism. I enjoy playing on video games, playing on my guitar, playing on 
 > This section includes important updates of recently uploaded content.
 
 [CLICK HERE](https://github.com/warrenwoodhouse?tab=overview&from=2026-01-01&to=2026-12-31) to see the full list of updates in 2026.
-
-```
-git status
-git add
-git commit
-```
 
 # PAST CHANGES ON MY GITHUB
 * [2025](https://github.com/warrenwoodhouse?tab=overview&from=2025-01-01&to=2025-12-31)
