@@ -29,10 +29,10 @@ I have Autism. I enjoy playing on video games, playing on my guitar, playing on 
 # ZIP FILES NOW AVAILABLE
 These ZIP Files are now available to download. These are available for free for personal use only. Should you wish to use them for commercial uses, please inform me directly by [CLICKING HERE](https://warrenwoodhouse.blogspot.com/contact).
 
-* [Dotty Theme - Blogger Templates](https://github.com/warrenwoodhouse/bloggertemplates/blob/main/bloggertemplates-bywarrenwoodhouse-dotty.zip)
-* [Blogging on a Sunday Morning Theme - Blogger Templates](https://github.com/warrenwoodhouse/bloggertemplates/blob/main/bloggertemplates-bywarrenwoodhouse-bloggingonasundaymorning.zip)
-* [Will Turner Theme - Blogger Templates](https://github.com/warrenwoodhouse/bloggertemplates/blob/main/bloggertemplates-bywarrenwoodhouse-willturner.zip)
-* [Will Turner 2004 Theme - Blogger Templates](https://github.com/warrenwoodhouse/bloggertemplates/blob/main/bloggertemplates-bywarrenwoodhouse-willturner2004.zip)
+* [Dotty Theme - Blogger Templates](https://raw.githubusercontent.com/warrenwoodhouse/bloggertemplates/main/bloggertemplates-bywarrenwoodhouse-willturner.zip)
+* [Blogging on a Sunday Morning Theme - Blogger Templates](https://raw.githubusercontent.com/warrenwoodhouse/bloggertemplates/main/bloggertemplates-bywarrenwoodhouse-bloggingonasundaymorning.zip)
+* [Will Turner Theme - Blogger Templates](https://raw.githubusercontent.com/warrenwoodhouse/bloggertemplates/main/bloggertemplates-bywarrenwoodhouse-willturner.zip)
+* [Will Turner 2004 Theme - Blogger Templates](https://raw.githubusercontent.com/warrenwoodhouse/bloggertemplates/main/bloggertemplates-bywarrenwoodhouse-willturner2004.zip)
 * [Mods & Creations - The Sims (PC)](https://github.com/warrenwoodhouse/thesims/archive/refs/tags/v1.zip)
 * [Custom Maps - Far Cry 2 (PS3)](https://github.com/warrenwoodhouse/farcry2/archive/refs/tags/v1.zip)
 * [SHAREfactory Stickers - SHAREfactory (PS4)](https://github.com/warrenwoodhouse/sharefactorystickers/archive/refs/tags/v1.zip)
