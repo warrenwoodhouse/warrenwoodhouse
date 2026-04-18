@@ -26,6 +26,15 @@ I have Autism. I enjoy playing on video games, playing on my guitar, playing on 
 * [TrueTrophies](https://truetrophies.com/gamer/warren-woodhouse)
 * [Photos](https://warrenwoodhouse.blogspot.com/photos)
 
+# JOIN THE COMMUNITY
+[CLICK HERE](https://github.com/warrenwoodhouse/forums/issues) to join the community to discuss, contribute and share ideas regarding my products.
+
+# REPORT A BUG
+[CLICK HERE](https://github.com/warrenwoodhouse/forums/issues/new/choose) to report a bug with my products.
+
+# SUBMIT A PULL REQUEST
+[CLICK HERE](https://github.com/warrenwoodhouse/warrenwoodhouse/compare) to submit a pull request for the entire archive of my products.
+
 # ZIP FILES NOW AVAILABLE
 These ZIP Files are now available to download. These are available for free for personal use only. Should you wish to use them for commercial uses, please inform me directly by [CLICKING HERE](https://warrenwoodhouse.blogspot.com/contact).
 
