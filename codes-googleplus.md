@@ -1,3 +1,6 @@
+This code is deprecated.
+
+```
 <text>Google+ Follow Gadget</text>
 <li>
 <div class="g-plusone" data-annotation="none" data-href="https://warrenwoodhouse.blogspot.com/"></div>
@@ -41,3 +44,4 @@
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
   })();
 </script></li>
+```
