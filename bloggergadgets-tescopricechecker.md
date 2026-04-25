@@ -4,7 +4,7 @@
 3. Head to the sidebar and select Add Gadget, then type the following code from the code section below into a new HTML/JavaScript Gadget section
 4. Save and view your site to see it in action
 
-code
+# code
 ```
 <div>
 <div id="search-container-tesco">
