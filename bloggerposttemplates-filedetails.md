@@ -1,0 +1,23 @@
+```
+{{FileDetails
+|file_name=
+|file_url=
+|file_type=
+|summary=
+|description=
+|source=
+|article=
+|portion_used=
+|low_resolution=
+|purpose_of_use=
+|replaceable=
+|other_information=
+|licensing=
+|file_history=
+|file_usage=
+|metadata=
+|unique_id_of_original_document=
+|software_used=
+}}
+Template by [https://warrenwoodhouse.blogspot.com/wiki/Warren_Woodhouse_Wiki Warren Woodhouse Wiki] on Blogger.
+```
