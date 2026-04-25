@@ -1,2 +1,6 @@
+This code is deprecated.
+
+```
 <!-- Subscribe to FeedBurner Feed Gadget -->
 <script src="https://feeds.feedburner.com/youtube/warrenwoodhouse?format=sigpro" type="text/javascript" ></script><noscript><p>Subscribe to RSS headline updates from: <a href="https://feeds.feedburner.com/youtube/warrenwoodhouse"></a><br/>Powered by FeedBurner</p> </noscript></ul>
+```
