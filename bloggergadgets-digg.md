@@ -1,5 +1,6 @@
 This gadget/widget is no longer available for use. This code is deprecated.
 
+# code
 ```
 <div id="digg-widget-1285441800062">
 <a href="http://digg.com/users/warrenwoodhouse">See more stories dugg by warrenwoodhouse on Digg.com</a>
