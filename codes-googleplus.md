@@ -1,5 +1,6 @@
 This code is deprecated.
 
+# code
 ```
 <text>Google+ Follow Gadget</text>
 <li>
