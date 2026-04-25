@@ -1,5 +1,6 @@
-This gadget/widget is no longer available for use.
+This gadget/widget is no longer available for use. This code is deprecated.
 
+```
 <div style="position:relative;width:240px;height:240px;background-image:url(http://domains.live.com/OpenSignupImages/OpenMembership240x240.jpg);overflow:hidden;">
   <div style="height:100%;width:100%;overflow:hidden">
     <table align="left" border="0px" cellpadding="5px" cellspacing="0px" style="table-layout:fixed;word-wrap:break-word;">
@@ -23,3 +24,4 @@ This gadget/widget is no longer available for use.
     </div>
   </div>
 </div>
+```
