@@ -1,3 +1,10 @@
+# Instructions
+1. Visit blogger.com, login and then select your blog
+2. On your admin dashboard for your blog, head to the dropdown menu in the top left of the screen and right-click the link to Layout and open it in another tab
+3. Head to the sidebar and select Add Gadget, then type the following code from the code section below into a new HTML/JavaScript Gadget section
+4. Save and view your site to see it in action
+
+code
 ```
 <div>
 <div id="search-container-tesco">
