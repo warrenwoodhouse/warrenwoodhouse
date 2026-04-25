@@ -1,3 +1,4 @@
+```
 <div id="actionbar" dir="ltr" style="display: none;"
 			class="actnbr-pub-minileven actnbr-has-follow actnbr-has-actions">
 		<ul>
@@ -98,3 +99,4 @@ window.addEventListener( "DOMContentLoaded", function( event ) {
 	document.body.appendChild( script );
 } );
 </script>
+```
