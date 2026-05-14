@@ -1,0 +1,110 @@
+A collection of outdated codes that I've used on Blogger
+  
+  <head>
+  <!-- Pop Up Banner by Warren Woodhouse -->
+  <!-- More codes at warrenwoodhouse.blogspot.com/codes -->
+  <meta content='Pop Up Banner' description='Pop Up Banner works like a notification banner at the top of a site.' type='widget' widget-designer='Google'/>
+    <style>
+body {font-family: Arial, Helvetica, sans-serif;}
+
+.callout {
+  position: fixed top;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+  middle: 0px;
+  margin-left: 0px;
+  width: 100%; /* Full width */
+}
+
+.callout-header {
+  padding: 25px 15px;
+  background: #ff0000;
+  font-size: 20px;
+  color: white;
+  text-align: center;
+}
+
+.callout-container {
+  padding: 16px;
+  background-color: transparent;
+  color: #ff0000;
+}
+
+.closebtn {
+  position: absolute;
+  top: 5px;
+  right: 15px;
+  color: white;
+  font-size: 30px;
+  cursor: pointer;
+}
+
+.closebtn:hover {
+  color: #cd0000;
+}
+</style>
+          <div class='callout'>
+  <div class='callout-header' text-align='center'>WELCOME TO WARREN WOODHOUSE</div>
+  <span class='closebtn' onclick='this.parentElement.style.display=&apos;none&apos;;'>&#215;</span>
+  <div class='callout-container'>
+    <p>Please <a href='https://warrenwoodhouse.blogspot.com/terms'>CLICK HERE</a> to read the Terms &amp; Conditions. Close this box if it is in your way.</p>
+  </div>
+</div>
+
+  <!-- App Banner by Warren Woodhouse -->
+  <!-- More codes at warrenwoodhouse.blogspot.com/codes -->
+  <meta content='App Banner' description='App Banner for allowing people to download your app. Styled like the Google App notice app banner.' type='widget' widget-designer='Google'/>
+  <style>
+body {font-family: Arial, Helvetica, sans-serif;}
+
+.app {
+  position: sticky top;
+  overflow: hidden;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+  middle: 0px;
+  margin-left: 0px;
+  text-color: white;
+  width: 100%; /* Full width */
+}
+
+.app-header {
+  padding: 25px 15px;
+  background: #4884f4;
+  font-size: 20px;
+  color: white;
+  text-color: white;
+  text-align: center;
+}
+
+.app-container {
+  padding: 16px;
+  background-color: transparent;
+  color: #4884f4;
+}
+
+.app-closebtn {
+  position: absolute;
+  top: 5px;
+  right: 15px;
+  color: white;
+  text-color: white;
+  font-size: 30px;
+  cursor: pointer;
+}
+
+.app-closebtn:hover {
+  color: #121212;
+}
+</style>
+     <div class='app'>
+  <div class='app-header'><h2><a href='https://warrenwoodhouse.blogspot.com/app' text-color='white'>GET THE APP</a></h2></div>
+  <span class='app-closebtn' onclick='this.parentElement.style.display=&apos;none&apos;;'>&#215;</span>
+  <div class='app-container'>
+    <p/>
+      </div>
+</div>
+  </head>
+  
