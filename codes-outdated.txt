@@ -1,6 +1,40 @@
-A collection of outdated codes that I've used on Blogger
-  
+A collection of outdated codes that I've used on Blogger.
+
+~~~~
+
   <head>
+  <!-- Fixed Buttons by Warren Woodhouse -->
+  <!-- More codes at warrenwoodhouse.blogspot.com/codes -->
+<meta content='Fixed Buttons - Code 1' description='Fixed Buttons showcases buttons on the site that are fixed to the side of the screen, they never leave your side, so you can quickly access them.' type='widget' widget-designer='Warren Woodhouse' widget-url='https://warrenwoodhouse.blogspot.com/widgets/fixedbuttons'/>
+<style type='text/css'>#fixedbutton {
+    position: fixed;
+    bottom: 0px;
+    right: 0px; 
+}
+
+#warrenwoodhouse {
+    position: fixed;
+    top: 0px;
+    left: 0px; 
+}
+
+#contact {
+    position: fixed;
+    middle: 0px;
+    right: 0px;
+}
+</style>
+</head>
+<body>
+<!-- Fixed Buttons - Code 2 -->
+<a href='#top'><img alt='Back To Top' border='0' height='66px' id='fixedbutton' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUvfLxADl9RdEq_nyFIdnANgrEsoJkXk41QEPux0YqqbFBKN1HaSYXF5aGsRORzuwUGXcXea-R7RUQeBeI-JEl3ky-5LxrtWccI7rROiWPIwxsDCGTXl2meJcFVaGe724AGvpvMPNWEsLjvQpuu4cH2iOhXpD-3nxORJmVUueJ83KUUvRpI4xMG4MH4Dg/s1600/Untitled.png' title='Back To Top' width='66px'/></a>
+<a href='https://warrenwoodhouse.blogspot.com/'><img alt='Warren Woodhouse' border='0' height='88px' id='warrenwoodhouse' src='https://github.com/warrenwoodhouse/favicons/releases/download/v1/favicon.ico' title='Warren Woodhouse' width='88px'/></a>
+<a href='contact'><img alt='Contact' border='0' height='66px' id='contact' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlUUma3xLcZYJJWM5EYEeUAG3idkZhmR6KrSLpqUwDwpQlLu7rtZEPE1n5YCfEUHiVbSwq85vlZwzxOQT_bsmdlrt_hjIBgnav6FAq2xkBfXxBgtH5a2XVFBFjJGprMVB1W9QY_FCzX82XFl4-I1WJ9jCZVb_YbkPUQBQlG5kx3a0KGY-MZbLxZ78KX7s/s1600/Untitled.png' title='Contact' width='66px'/></a>
+</body>
+
+~~~~
+
+<head>
   <!-- Pop Up Banner by Warren Woodhouse -->
   <!-- More codes at warrenwoodhouse.blogspot.com/codes -->
   <meta content='Pop Up Banner' description='Pop Up Banner works like a notification banner at the top of a site.' type='widget' widget-designer='Google'/>
@@ -51,7 +85,11 @@ body {font-family: Arial, Helvetica, sans-serif;}
     <p>Please <a href='https://warrenwoodhouse.blogspot.com/terms'>CLICK HERE</a> to read the Terms &amp; Conditions. Close this box if it is in your way.</p>
   </div>
 </div>
+</head>
 
+~~~~
+
+<head>
   <!-- App Banner by Warren Woodhouse -->
   <!-- More codes at warrenwoodhouse.blogspot.com/codes -->
   <meta content='App Banner' description='App Banner for allowing people to download your app. Styled like the Google App notice app banner.' type='widget' widget-designer='Google'/>
