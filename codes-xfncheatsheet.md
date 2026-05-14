@@ -1,7 +1,9 @@
-XFN Data
+XFN Data Cheatsheet
   
-# Link Relationships
-* me: <code><a href="link" rel="me"/></a></code>
+# Identity
+* me: ```example: <a href="link" rel="me"/></a>```
+
+# Friendship
 * contact
 * acquaintance
 * friend
@@ -22,7 +24,12 @@ XFN Data
 * colleague
 
 # Gaming
-add data here
+* me
+* met-in-game
+* met-in-real-life
 
-# RSS Feeds
+# RSS Feeds, Web Slices & Web Chunks
 * entry-content
+
+# Data
+* alternate
