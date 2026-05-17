@@ -85,7 +85,9 @@ These ZIP Files are now available to download. These are available for free for 
 * [2023](https://github.com/warrenwoodhouse?tab=overview&from=2023-01-01&to=2023-12-31)
 
 # GAME MODS
-[CLICK HERE](https://github.com/warrenwoodhouse/mods#game-mods) to see the full list of Game Mods.
+[CLICK HERE](https://warrenwoodhouse.blogspot.com/mods) to see the full list of Game Mods.
+
+[CLICK HERE](https://github.com/warrenwoodhouse/mods#game-mods) to see the repository on my GitHub.
 
 # BLOGS
 [CLICK HERE](https://warrenwoodhouse.blogspot.com/blogs) to see the full list of Blogs.
@@ -97,7 +99,12 @@ These ZIP Files are now available to download. These are available for free for 
 * [Comments](https://warrenwoodhouse.github.io/warrenwoodhouse/comments)
 
 # GITHUB PROJECTS
-* None at the moment
+* [PiNgStR](https://github.com/warrenwoodhouse/pingstr)
+* [FeedMaker](https://github.com/warrenwoodhouse/feed)
+* [SliceMaker](https://github.com/warrenwoodhouse/slice)
+* [Blogger Templates](https://github.com/warrenwoodhouse/bloggertemplates)
+* [MapThis!](https://github.com/warrenwoodhouse/maps)
+* PhotoFlame (currently in development)
 
 # WEBSITES MISUSING MY DATA FROM MY GITHUB USING GITHUB API
 These are all clones of my GitHub and are misusing my copyright policy and license agreement, both of which are found on my website.
