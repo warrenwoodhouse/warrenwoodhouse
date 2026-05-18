@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<feed xml:lang="en-us" xmlns="http://www.w3.org/2005/Atom">
+<title type="text">Warren Woodhouse</title>
+<subtitle type="text">Warren Woodhouse</subtitle>
+<rights type="text">Copyright Warren Woodhouse (warrenwoodhouse.webs.com/copyright)</rights>
+<updated>2016-08-21T12:30:00Z</updated>
+<link rel="alternate" href="http://warrenwoodhouse.webs.com/blog" />
+<link rel="self" href="http://warrenwoodhouse.webs.com/blog/feeds/posts/default/index.xml" />
+<entry>
+<title type="text">Video Game Interactive Maps</title>
+<summary type="text">I love playing video games and blogging alot. As any gamer, I really enjoy using interactive maps...</summary>
+<published>2016-08-19T22:15:00</published>
+<updated>2016-08-19T22:15:00</updated>
+<author>
+<name>Warren Woodhouse</name>
+</author>
+<link rel="alternate" href="http://warrenwoodhouse.webs.com/2016/08/19/videogameinteractivemaps" />
+<category term="blog" />
+<category term="gaming" />
+</entry>
+<entry>
+<title type="text">No Official Rio 2016 Olympic Google Logo This Year</title>
+<summary type="text">The one thing I absolutely love Google about is there stylized versions of the Google logo in the style of the events at the Olympic games...</summary>
+<published>2016-08-19T21:11:00</published>
+<updated>2016-08-19T21:11:00</updated>
+<author>
+<name>Warren Woodhouse</name>
+</author>
+<link rel="alternate" href="http://warrenwoodhouse.webs.com/2016/08/19/noofficialrio2016olympicgooglelogothisyear" />
+<category term="blog" />
+<category term="reviews" />
+</entry>
+<entry>
+<title type="text">Theme Songs</title>
+<summary type="text">I'll update the list on this blog with new theme songs and info when I find them...</summary>
+<published>2016-08-18T17:25:00</published>
+<updated>2016-08-18T17:25:00</updated>
+<author>
+<name>Warren Woodhouse</name>
+</author>
+<link rel="alternate" href="http://warrenwoodhouse.webs.com/2016/08/18/themesongs" />
+<category term="blog" />
+</entry>
+<entry>
+<title type="text">My Favourite Short Films</title>
+<summary type="text">Here is a list, shown below, of my favourite short films. I'll update this post with new videos if and when I find them...</summary>
+<published>2016-08-18T17:15:00</published>
+<updated>2016-08-18T17:15:00</updated>
+<author>
+<name>Warren Woodhouse</name>
+</author>
+<link rel="alternate" href="http://warrenwoodhouse.webs.com/2016/08/18/myfavouriteshortfilms" />
+<category term="blog" />
+</entry>
+</feed>
+</xml>
