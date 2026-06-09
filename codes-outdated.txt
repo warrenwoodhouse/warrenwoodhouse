@@ -1,6 +1,7 @@
 A collection of outdated codes that I've used on Blogger.
 
-~~~~
+
+~~~~ Fixed Buttons ~~~~
 
   <head>
   <!-- Fixed Buttons by Warren Woodhouse -->
@@ -32,7 +33,8 @@ A collection of outdated codes that I've used on Blogger.
 <a href='contact'><img alt='Contact' border='0' height='66px' id='contact' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlUUma3xLcZYJJWM5EYEeUAG3idkZhmR6KrSLpqUwDwpQlLu7rtZEPE1n5YCfEUHiVbSwq85vlZwzxOQT_bsmdlrt_hjIBgnav6FAq2xkBfXxBgtH5a2XVFBFjJGprMVB1W9QY_FCzX82XFl4-I1WJ9jCZVb_YbkPUQBQlG5kx3a0KGY-MZbLxZ78KX7s/s1600/Untitled.png' title='Contact' width='66px'/></a>
 </body>
 
-~~~~
+
+~~~~ Pop Up Banner ~~~~
 
 <head>
   <!-- Pop Up Banner by Warren Woodhouse -->
@@ -87,7 +89,8 @@ body {font-family: Arial, Helvetica, sans-serif;}
 </div>
 </head>
 
-~~~~
+
+~~~~ App Banner ~~~~
 
 <head>
   <!-- App Banner by Warren Woodhouse -->
@@ -145,8 +148,9 @@ body {font-family: Arial, Helvetica, sans-serif;}
       </div>
 </div>
   </head>
-  
-~~~~
+
+
+~~~~ Tumblr Share Button ~~~~
 
 <!-- Add tumblr share button here
 
@@ -154,7 +158,8 @@ data-posttype="link" data-tags="warrenwoodhouse,bookmarks,bookmark,links,link" d
 
 --/>
 
-~~~~
+
+~~~~ Featured Posts ~~~~
 
 <div id="featuredbwidget">
 <script type='text/javascript'>
@@ -170,3 +175,89 @@ featuredID:"#featuredbwidget"
 function featuredbwidget(a){(function(e){var h={listURL:"",featuredNum:3,featuredID:"",feathumbSize:1200,interval:5000,autoplay:false,loadingFeatured:"nextfeatured",pBlank:"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinYweCDA0aAbyG9X_oa8PEleKRI4KWjuQ7DLXkQ3enT52lNbCNmtBJRuIjRkxpMKAzJQq09z9-Sr27WHn1vpA8Dtfow-P8Ck32PUR1oiJGAZZmBXN-cW8GVZFuzer_SQNR4Tb4moYCuu_KFu_V1ZoGaLg4iRD4LVUBv3p7aJ6o9-J71-fJdtOYKuhpNEw/s350/IMG_0700.png",byMonth:["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Okt","Nov","Dec"],listbyLabel:false};h=e.extend({},h,a);var g=e(h.featuredID);var d=h.featuredNum*200;g.html('<div class="featslider"><ul class="featured-widget-list"></ul><div class="feat-buttons"><a href="#" class="feat-prev">previous</a><a href="#" class="feat-next">next</a></div></div>');var f=function(w){var q,k,m,u,x,p,t,v,r,l="",s=w.feed.entry;for(var o=0;o<s.length;o++){for(var n=0;n<s[o].link.length;n++){if(s[o].link[n].rel=="alternate"){q=s[o].link[n].href;break}}if("media$thumbnail" in s[o]){u=s[o].media$thumbnail.url.replace('s72', 's600')}else{u=h.pBlank.replace(/\/s[0-9]+(\-c|\/)/,"/s"+h.feathumbSize+"$1")}k=s[o].title.$t;r=s[o].published.$t.substring(0,10);m=s[o].author[0].name.$t;x=r.substring(0,4);p=r.substring(5,7);t=r.substring(8,10);v=h.byMonth[parseInt(p,10)-1];l+='<li><a href="'+q+'"><div class="featuredbg"></div><img class="featuredthumb" src="'+u+'"/><h5>'+k+'</h5></a><div class="featured-meta"><span class="fdate"><span class="fday">'+t+'</span> <span class="fmonth">'+v+'</span> <span class="fyear">'+x+'</span></span> - <span class="fauthor">'+m+"</span></div></li>"}e("ul",g).append(l).addClass(h.loadingFeatured)};var c=function(){e(h.featuredID+" .feat-next").click()};var b=function(){e.get((h.listURL===""?window.location.protocol+"//"+window.location.host:h.listURL)+"/feeds/posts/summary"+(h.listbyLabel===false?"":"/-/"+h.listbyLabel)+"?max-results="+h.featuredNum+"&orderby=published&alt=json-in-script",f,"jsonp");setTimeout(function(){e(h.featuredID+" .feat-prev").click(function(){e(h.featuredID+" .featslider li:first").before(e(h.featuredID+" .featslider li:last"));return false});e(h.featuredID+" .feat-next").click(function(){e(h.featuredID+" .featslider li:last").after(e(h.featuredID+" .featslider li:first"));return false});if(h.autoplay){var i=h.interval;var j=setInterval(c,i);e(h.featuredID+" .featslider li:first").before(e(h.featuredID+" .featslider li:last"));e(h.featuredID+" .featslider").hover(function(){clearInterval(j)},function(){j=setInterval(c,i)})}e("ul",g).removeClass(h.loadingFeatured)},d)};e(document).ready(b)})(jQuery)};
 //]]>
 </script></div></ul>
+
+
+~~~~ Disqus Comment Board ~~~~
+
+<b:widget id='HTML3' locked='false' mobile='yes' title='Comments' type='HTML' version='1'>
+              <b:widget-settings>
+                <b:widget-setting name='content'><![CDATA[<!-- Disqus Gadget -->
+<!-- Disqus Widget -->
+<!-- Disqus comments gadget -->
+<div id="comments"></div><div id="disqus_thread"></div>
+
+<script type='text/javascript'>
+                var disqus_shortname = &#39;warrenwoodhouse&#39;;
+                var disqus_blogger_current_url = &quot;<data:blog.canonicalUrl/>&quot;;
+                if (!disqus_blogger_current_url.length) {
+                    disqus_blogger_current_url = &quot;<data:blog.url/>&quot;;
+                }
+                var disqus_blogger_homepage_url = &quot;<data:blog.homepageUrl/>&quot;;
+                var disqus_blogger_canonical_homepage_url = &quot;<data:blog.canonicalHomepageUrl/>&quot;;
+            </script>
+<style type='text/css'>
+                    ##comments {display:none;}
+                </style>
+                <script type='text/javascript'>
+                    (function() {
+                        var bloggerjs = document.createElement(&#39;script&#39;);
+                        bloggerjs.type = &#39;text/javascript&#39;;
+                        bloggerjs.async = true;
+                        bloggerjs.src = &#39;http://&#39;+disqus_shortname+&#39;.disqus.com/blogger_item.js&#39;;
+                        (document.getElementsByTagName(&#39;head&#39;)[0] || document.getElementsByTagName(&#39;body&#39;)[0]).appendChild(bloggerjs);
+                    })();
+                </script>
+<style type='text/css'>
+                    .post-comment-link { visibility: hidden; }
+                </style>
+                <script type='text/javascript'>
+                (function() {
+                    var bloggerjs = document.createElement(&#39;script&#39;);
+                    bloggerjs.type = &#39;text/javascript&#39;;
+                    bloggerjs.async = true;
+                    bloggerjs.src = &#39;http://&#39;+disqus_shortname+&#39;.disqus.com/blogger_index.js&#39;;
+                    (document.getElementsByTagName(&#39;head&#39;)[0] || document.getElementsByTagName(&#39;body&#39;)[0]).appendChild(bloggerjs);
+                })();
+                </script>]]></b:widget-setting>
+              </b:widget-settings>
+              <b:includable id='main'>
+            <script type='text/javascript'>
+                var disqus_shortname = &#39;warrenwoodhouse&#39;;
+                var disqus_blogger_current_url = &quot;<data:blog.canonicalUrl/>&quot;;
+                if (!disqus_blogger_current_url.length) {
+                    disqus_blogger_current_url = &quot;<data:blog.url/>&quot;;
+                }
+                var disqus_blogger_homepage_url = &quot;<data:blog.homepageUrl/>&quot;;
+                var disqus_blogger_canonical_homepage_url = &quot;<data:blog.canonicalHomepageUrl/>&quot;;
+            </script>
+            <b:if cond='data:blog.pageType == &quot;item&quot;'>
+                <style type='text/css'>
+                    #comments {display:none;}
+                </style>
+                <script type='text/javascript'>
+                    (function() {
+                        var bloggerjs = document.createElement(&#39;script&#39;);
+                        bloggerjs.type = &#39;text/javascript&#39;;
+                        bloggerjs.async = true;
+                        bloggerjs.src = &#39;http://&#39;+disqus_shortname+&#39;.disqus.com/blogger_item.js&#39;;
+                        (document.getElementsByTagName(&#39;head&#39;)[0] || document.getElementsByTagName(&#39;body&#39;)[0]).appendChild(bloggerjs);
+                    })();
+                </script>
+            </b:if>
+                <style type='text/css'>
+                    .post-comment-link { visibility: hidden; }
+                </style>
+                <script type='text/javascript'>
+                (function() {
+                    var bloggerjs = document.createElement(&#39;script&#39;);
+                    bloggerjs.type = &#39;text/javascript&#39;;
+                    bloggerjs.async = true;
+                    bloggerjs.src = &#39;http://&#39;+disqus_shortname+&#39;.disqus.com/blogger_index.js&#39;;
+                    (document.getElementsByTagName(&#39;head&#39;)[0] || document.getElementsByTagName(&#39;body&#39;)[0]).appendChild(bloggerjs);
+                })();
+                </script>
+        </b:includable>
+            </b:widget>
+          </b:section>
+        </div>
+        </div>
