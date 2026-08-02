@@ -1,0 +1,354 @@
+```
+<!-- Widget Name: Clockpunk Clock Widget -->
+<!-- Widget Author: Warren Woodhouse -->
+<!-- Widget Documentation: https://warrenwoodhouse.blogspot.com/widgets/clockpunkclock -->
+<head>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@700&display=swap');
+
+        body {
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            background-color: #1a1a1a;
+            background-image: radial-gradient(circle, #2c2520 0%, #000000 100%);
+            font-family: 'Cinzel', serif;
+            color: #d4af37;
+        }
+
+        /* The main clock container */
+        .clock-container {
+            position: relative;
+            width: 400px;
+            height: 400px;
+            border-radius: 50%;
+            background: linear-gradient(145deg, #b87333, #5c3a21); /* Copper */
+            box-shadow: 
+                0 0 30px rgba(0,0,0,0.8),
+                inset 0 0 20px rgba(255, 255, 255, 0.2),
+                inset 10px 10px 30px rgba(0,0,0,0.5);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border: 8px solid #3b2f2f;
+        }
+
+        /* Decorative Background Gears */
+        .gear {
+            position: absolute;
+            border-radius: 50%;
+            background: radial-gradient(circle, #8b7355, #4a3c31);
+            border: 4px dashed #a08050;
+            box-shadow: 2px 2px 10px rgba(0,0,0,0.5);
+            z-index: 1;
+        }
+        .gear::after {
+            content: '';
+            position: absolute;
+            top: 25%;
+            left: 25%;
+            width: 50%;
+            height: 50%;
+            background: #1a1a1a;
+            border-radius: 50%;
+            box-shadow: inset 0 0 10px rgba(0,0,0,0.8);
+        }
+
+        .gear-1 {
+            width: 150px;
+            height: 150px;
+            top: 20px;
+            left: 20px;
+            animation: spin 10s linear infinite;
+        }
+        .gear-2 {
+            width: 100px;
+            height: 100px;
+            bottom: 40px;
+            right: 30px;
+            background: radial-gradient(circle, #b87333, #6a3c1e);
+            border-color: #d4af37;
+            animation: spin-reverse 7s linear infinite;
+        }
+        .gear-3 {
+            width: 80px;
+            height: 80px;
+            bottom: 120px;
+            left: 50px;
+            border-color: #888;
+            background: radial-gradient(circle, #aaa, #444);
+            animation: spin 5s linear infinite;
+        }
+
+        /* The Clock Face */
+        .clock-face {
+            position: relative;
+            width: 340px;
+            height: 340px;
+            border-radius: 50%;
+            background: radial-gradient(circle, #f4e7c3 0%, #c5a880 70%, #8c6b4a 100%); /* Aged parchment */
+            box-shadow: inset 0 0 40px rgba(0,0,0,0.6);
+            z-index: 2;
+        }
+
+        /* Roman Numerals */
+        .numeral {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            text-align: center;
+            font-size: 28px;
+            font-weight: bold;
+            color: #3e2723;
+            text-shadow: 1px 1px 2px rgba(255,255,255,0.3), -1px -1px 2px rgba(0,0,0,0.5);
+            transform-origin: center;
+        }
+        .numeral span {
+            display: inline-block;
+        }
+
+        /* Clock Hands Container */
+        .hands-container {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 3;
+        }
+
+        .hand {
+            position: absolute;
+            bottom: 50%;
+            left: 50%;
+            transform-origin: bottom center;
+            border-radius: 50% 50% 0 0;
+            box-shadow: 2px 2px 5px rgba(0,0,0,0.5);
+            transition: transform 0.05s cubic-bezier(0.4, 2.08, 0.55, 0.44); /* Springy mechanical tick */
+        }
+
+        .hour-hand {
+            width: 12px;
+            height: 90px;
+            background: linear-gradient(to right, #2a1f1a, #5c3a21, #2a1f1a);
+            margin-left: -6px;
+        }
+
+        .minute-hand {
+            width: 8px;
+            height: 130px;
+            background: linear-gradient(to right, #4a3c31, #8b7355, #4a3c31);
+            margin-left: -4px;
+        }
+
+        .second-hand {
+            width: 4px;
+            height: 150px;
+            background: linear-gradient(to right, #b42b2b, #ff4c4c, #b42b2b); /* Rusty red */
+            margin-left: -2px;
+        }
+        /* Counterweight for second hand */
+        .second-hand::after {
+            content: '';
+            position: absolute;
+            bottom: -30px;
+            left: -2px;
+            width: 8px;
+            height: 30px;
+            background: inherit;
+            border-radius: 4px;
+        }
+
+        /* Center Pin */
+        .center-nut {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 24px;
+            height: 24px;
+            background: radial-gradient(circle, #e6b800, #b87333);
+            border-radius: 50%;
+            transform: translate(-50%, -50%);
+            box-shadow: 0 0 8px rgba(0,0,0,0.8), inset 0 0 5px rgba(255,255,255,0.5);
+            z-index: 4;
+            border: 2px solid #2a1f1a;
+        }
+
+        /* Animations */
+        @keyframes spin { 100% { transform: rotate(360deg); } }
+        @keyframes spin-reverse { 100% { transform: rotate(-360deg); } }
+
+        /* UI Controls */
+        .controls {
+            margin-top: 40px;
+            z-index: 10;
+        }
+
+        button {
+            background: linear-gradient(to bottom, #d4af37, #b87333);
+            border: 2px solid #5c3a21;
+            color: #1a1a1a;
+            font-family: 'Cinzel', serif;
+            font-size: 16px;
+            font-weight: bold;
+            padding: 10px 24px;
+            border-radius: 4px;
+            cursor: pointer;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.5), inset 0 1px 3px rgba(255,255,255,0.6);
+            transition: all 0.2s;
+        }
+        button:hover {
+            background: linear-gradient(to bottom, #e6c855, #c98444);
+        }
+        button:active {
+            transform: translateY(2px);
+            box-shadow: 0 1px 2px rgba(0,0,0,0.5);
+        }
+
+    </style>
+</head>
+<body>
+
+    <div class="clock-container">
+        <!-- Exposed mechanical gears -->
+        <div class="gear gear-1"></div>
+        <div class="gear gear-2"></div>
+        <div class="gear gear-3"></div>
+
+        <div class="clock-face" id="clock-face">
+            <!-- Numerals generated by JS -->
+            
+            <div class="hands-container">
+                <div class="hand hour-hand" id="hour"></div>
+                <div class="hand minute-hand" id="minute"></div>
+                <div class="hand second-hand" id="second"></div>
+                <div class="center-nut"></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="controls">
+        <button id="sound-toggle">Wind Clock (Enable Sound)</button>
+    </div>
+
+    <script>
+        // 1. Generate Roman Numerals around the clock face
+        const clockFace = document.getElementById('clock-face');
+        const numerals = ['XII', 'I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X', 'XI'];
+        
+        numerals.forEach((num, index) => {
+            const numDiv = document.createElement('div');
+            numDiv.className = 'numeral';
+            // Rotate the container to the correct angle
+            const angle = index * 30; 
+            numDiv.style.transform = `rotate(${angle}deg)`;
+            
+            const span = document.createElement('span');
+            span.innerText = num;
+            // Counter-rotate the text so it stays upright
+            span.style.transform = `rotate(${-angle}deg)`;
+            // Position it near the edge
+            span.style.marginTop = '15px'; 
+            
+            numDiv.appendChild(span);
+            // Insert before hands container to keep layers correct
+            clockFace.insertBefore(numDiv, clockFace.lastElementChild);
+        });
+
+        // 2. Audio Synthesiser for Clockpunk Ticking Sound
+        let audioCtx;
+        let soundEnabled = false;
+
+        document.getElementById('sound-toggle').addEventListener('click', function() {
+            if (!audioCtx) {
+                // Initialise Web Audio API
+                audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+            }
+            if (audioCtx.state === 'suspended') {
+                audioCtx.resume();
+            }
+            soundEnabled = !soundEnabled;
+            this.innerText = soundEnabled ? "Mute Clock" : "Wind Clock (Enable Sound)";
+        });
+
+        function playMechanicalTick() {
+            if (!soundEnabled || !audioCtx) return;
+
+            // Oscillator 1: High metallic click
+            const osc = audioCtx.createOscillator();
+            const gain = audioCtx.createGain();
+            osc.connect(gain);
+            gain.connect(audioCtx.destination);
+            
+            osc.type = 'triangle';
+            osc.frequency.setValueAtTime(1200, audioCtx.currentTime); // High pitch metallic start
+            osc.frequency.exponentialRampToValueAtTime(100, audioCtx.currentTime + 0.05); // Quick decay
+            
+            gain.gain.setValueAtTime(0.3, audioCtx.currentTime);
+            gain.gain.exponentialRampToValueAtTime(0.01, audioCtx.currentTime + 0.05);
+            
+            osc.start();
+            osc.stop(audioCtx.currentTime + 0.05);
+
+            // Oscillator 2: Lower mechanical "thud" for body
+            const osc2 = audioCtx.createOscillator();
+            const gain2 = audioCtx.createGain();
+            osc2.connect(gain2);
+            gain2.connect(audioCtx.destination);
+            
+            osc2.type = 'square';
+            osc2.frequency.setValueAtTime(150, audioCtx.currentTime); 
+            osc2.frequency.exponentialRampToValueAtTime(40, audioCtx.currentTime + 0.03); 
+            
+            gain2.gain.setValueAtTime(0.1, audioCtx.currentTime);
+            gain2.gain.exponentialRampToValueAtTime(0.01, audioCtx.currentTime + 0.03);
+            
+            osc2.start();
+            osc2.stop(audioCtx.currentTime + 0.03);
+        }
+
+        // 3. Clock Logic
+        const hourHand = document.getElementById('hour');
+        const minuteHand = document.getElementById('minute');
+        const secondHand = document.getElementById('second');
+
+        function updateClock() {
+            const now = new Date();
+            const hours = now.getHours();
+            const minutes = now.getMinutes();
+            const seconds = now.getSeconds();
+
+            // Calculate angles
+            // 360deg / 60sec = 6deg per sec
+            const secondsDegrees = (seconds * 6); 
+            // 360deg / 60min = 6deg per min + smooth transition from seconds
+            const minutesDegrees = (minutes * 6) + (seconds * 0.1); 
+            // 360deg / 12hours = 30deg per hour + smooth transition from minutes
+            const hoursDegrees = (hours % 12 * 30) + (minutes * 0.5); 
+
+            // Apply rotations
+            secondHand.style.transform = `rotate(${secondsDegrees}deg)`;
+            minuteHand.style.transform = `rotate(${minutesDegrees}deg)`;
+            hourHand.style.transform = `rotate(${hoursDegrees}deg)`;
+
+            // Fix transition bug when passing 12 o'clock (0 degrees)
+            if (seconds === 0) {
+                secondHand.style.transition = 'none';
+            } else {
+                secondHand.style.transition = 'transform 0.05s cubic-bezier(0.4, 2.08, 0.55, 0.44)';
+            }
+
+            // Play the tick sound on the second update
+            playMechanicalTick();
+        }
+
+        // Initialise clock position immediately, then update every second
+        updateClock();
+        setInterval(updateClock, 1000);
+    </script>
+</body>
+```
