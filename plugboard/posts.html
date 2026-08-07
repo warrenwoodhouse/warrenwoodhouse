@@ -11,8 +11,9 @@
     <h2>Submission Received</h2>
     
     <div class="result-card">
-        <p><strong>Full Name:</strong> <span id="displayName"></span></p>
-        <p><strong>Email:</strong> <span id="displayEmail"></span></p>
+        <p><strong>Website Icon:</strong> <span id="displaybutton"></span></p>
+        <p><strong>Website Name:</strong> <span id="displayusername"></span></p>
+        <p><strong>Website URL:</strong> <span id="displaywebsite"></span></p>
     </div>
 
     <p><a href="index.html">← Back to the Plugboard</a></p>
@@ -22,12 +23,14 @@
         const urlParams = new URLSearchParams(window.location.search);
 
         // Retrieve values by their 'name' attributes from index.html
+        const button = urlParams.get('button');
         const username = urlParams.get('username');
-        const email = urlParams.get('email');
+        const website = urlParams.get('website');
 
         // Render the values onto the page
-        document.getElementById('displayName').textContent = username || 'Not provided';
-        document.getElementById('displayEmail').textContent = email || 'Not provided';
+        document.getElementById('displaybutton').textContent = button || 'Not provided';
+        document.getElementById('displayusername').textContent = username || 'Not provided';
+        document.getElementById('displaywebsite').textContent = website || 'Not provided';
     </script>
 </body>
 </html>
