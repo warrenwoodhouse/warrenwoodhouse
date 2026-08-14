@@ -1,5 +1,3 @@
-<marquee behavior="scroll" direction="left" scrollamount="20" scrolldelay="100" style="background-color: #ffcc00;"><font color="black"><b><font size="10">Article without a link | <a href="https://warrenwoodhouse.blogspot.com/">Article with a link</a></font></b></font></marquee>
-
 # code
 ```
 <body><marquee behavior="scroll" direction="left" scrollamount="20" scrolldelay="100" style="background-color: #ffcc00;"><font color="black"><b><font size="10">Article without a link | <a href="https://warrenwoodhouse.blogspot.com/">Article with a link</a></font></b></font></marquee></body>
