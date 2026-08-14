@@ -1,6 +1,15 @@
-<div><script><marquee behavior="scroll" bgcolor="#FFFFFF" direction="left" font-color="#FF0000"><a href="/p/p1.html"><h3>Page 1</h3></a> | <a href="/p/p2.html"><h3>Page 2</h3></a> | <a href="/p/p3.html"><h3>Page 3</h3></a> | <a href="/p/p4.html"><h3>Page 4</h3></a> | <a href="/p/p5.html"><h3>Page 5</h3></a> | <a href="/p/p6.html"><h3>Page 6</h3></a></marquee></script></div>
+<marquee behavior="scroll" direction="left" scrollamount="20" scrolldelay="100" style="background-color: #ffcc00;"><font color="black"><b><font size="10">Article without a link | <a href="https://warrenwoodhouse.blogspot.com/">Article with a link</a></font></b></font></marquee>
 
 # code
 ```
-<body><div><script><marquee behavior="scroll" bgcolor="#FFFFFF" direction="left" font-color="#FF0000"><a href="/p/p1.html"><h3>Page 1</h3></a> | <a href="/p/p2.html"><h3>Page 2</h3></a> | <a href="/p/p3.html"><h3>Page 3</h3></a> | <a href="/p/p4.html"><h3>Page 4</h3></a> | <a href="/p/p5.html"><h3>Page 5</h3></a> | <a href="/p/p6.html"><h3>Page 6</h3></a></marquee></script></div></body>
+<body><marquee behavior="scroll" direction="left" scrollamount="20" scrolldelay="100" style="background-color: #ffcc00;"><font color="black"><b><font size="10">Article without a link | <a href="https://warrenwoodhouse.blogspot.com/">Article with a link</a></font></b></font></marquee></body>
 ```
+
+# data
+* font size: changes the font size
+* font color: changes the font colour
+* style="background-color: hex code;": changes the background colour for the marquee
+* scrolldelay: adds a delay for the articles in millisecond increments
+* scrollamount: adds how fast or how slow the text will scroll. The higher the number will result in text scrolling faster and lower numbers will result in text scrolling slower
+* direction: the direction in which the text will move in the marquee
+* behavior: tells the marquee how to use the data, should it remain still or scroll
