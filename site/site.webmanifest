@@ -1,0 +1,58 @@
+{
+  "short_name": "Warren",
+  "name": "Open the app",
+  "icons": [
+    {
+      "src": "https://warrenwoodhouse.blogspot.com/favicon.ico",
+      "type": "image/ico",
+      "sizes": "100x100"
+    },
+    {
+      "src": "https://warrenwoodhouse.blogspot.com/favicon.ico",
+      "type": "image/ico",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://warrenwoodhouse.blogspot.com/favicon.ico",
+      "type": "image/ico",
+      "sizes": "512x512"
+    }
+  ],
+  "id": "/?m=0",
+  "start_url": "https://warrenwoodhouse.blogspot.com/",
+  "background_color": "#FF0000",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#FF0000",
+  "shortcuts": [
+    {
+      "name": "Show me the latest Codes",
+      "short_name": "Code",
+      "description": "View the latest Codes",
+      "url": "https://warrenwoodhouse.blogspot.com/codes",
+      "icons": [{ "src": "https://warrenwoodhouse.blogspot.com/favicon.ico", "type:" "image/ico", "sizes": "192x192" }]
+    },
+    {
+      "name": "Show me the latest Game Guide",
+      "short_name": "Game Guide",
+      "description": "View the latest Game Guide",
+      "url": "https://warrenwoodhouse.blogspot.com/gameguides",
+      "icons": [{ "src": "https://warrenwoodhouse.blogspot.com/favicon.ico", "type:" "image/ico", "sizes": "192x192" }]
+    }
+  ],
+  "description": "Warren Woodhouse Official Website. Packed with tons of codes, widgets, games, game guides, gaming stuff, photos, music, fonts and more. Check it out!!",
+  "screenshots": [
+    {
+      "src": "https://warrenwoodhouse.blogspot.com/favicon.ico",
+      "type": "image/ico",
+      "sizes": "540x720",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "https://warrenwoodhouse.blogspot.com/favicon.ico",
+      "type": "image/ico",
+      "sizes": "720x540",
+      "form_factor": "wide"
+    }
+  ]
+}
