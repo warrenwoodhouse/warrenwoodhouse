@@ -35,9 +35,16 @@ I have Autism. I enjoy playing on video games, playing on my guitar, playing on 
 # SUBMIT A PULL REQUEST
 [CLICK HERE](https://github.com/warrenwoodhouse/warrenwoodhouse/compare) to submit a pull request for the entire archive of my products.
 
-# ZIP FILES NOW AVAILABLE
+# REPOSITORY TEMPLATES
+These templates can be copied so you can continue coding on your own repository.
+
+* [Sidebar](https://github.com/warrenwoodhouse/sidebar)
+* [Slice](https://github.com/warrenwoodhouse/slice)
+
+# ZIP FILES
 These ZIP Files are now available to download. These are available for free for personal use only. Should you wish to use them for commercial uses, please inform me directly by [CLICKING HERE](https://warrenwoodhouse.blogspot.com/contact).
 
+* [Alan Wake Theme - Blogger Templates](https://raw.githubusercontent.com/warrenwoodhouse/bloggertemplates/main/bloggertemplates-bywarrenwoodhouse-alanwake.zip)
 * [Dotty Theme - Blogger Templates](https://raw.githubusercontent.com/warrenwoodhouse/bloggertemplates/main/bloggertemplates-bywarrenwoodhouse-willturner.zip)
 * [Blogging on a Sunday Morning Theme - Blogger Templates](https://raw.githubusercontent.com/warrenwoodhouse/bloggertemplates/main/bloggertemplates-bywarrenwoodhouse-bloggingonasundaymorning.zip)
 * [Will Turner Theme - Blogger Templates](https://raw.githubusercontent.com/warrenwoodhouse/bloggertemplates/main/bloggertemplates-bywarrenwoodhouse-willturner.zip)
