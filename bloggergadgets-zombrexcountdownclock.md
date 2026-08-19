@@ -5,3 +5,5 @@
 <iframe src="https://warrenwoodhouse.github.io/warrenwoodhouse/clocks/zombrex/" allowtransparency="true" frameborder="0" width="550" height="550"></iframe>
 <p><small>Widget By: <a href="https://warrenwoodhouse.blogspot.com/codes">T-Codes</a> on <a href="https://warrenwoodhouse.blogspot.com/">Warren Woodhouse</a></small></p>
 ```
+
+[CLICK HERE](https://warrenwoodhouse.github.io/warrenwoodhouse/clocks/zombrex/) to see this clock in use.
