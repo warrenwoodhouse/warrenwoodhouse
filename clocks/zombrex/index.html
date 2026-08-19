@@ -90,32 +90,32 @@
 </div>
 
 <script>
-    // Set timer for 24 hours in seconds
-    let totalSeconds = 24 * 60 * 60;
-
     function updateTimer() {
-        // Calculate hours, minutes, and seconds
-        let hours = Math.floor(totalSeconds / 3600);
-        let minutes = Math.floor((totalSeconds % 3600) / 60);
-        let seconds = totalSeconds % 60;
+        // Get current time
+        const now = new Date();
+        
+        // Calculate the next midnight
+        const nextMidnight = new Date(now);
+        nextMidnight.setHours(24, 0, 0, 0); 
+        
+        // Find the difference in milliseconds, then convert to seconds
+        const diffInSeconds = Math.floor((nextMidnight - now) / 1000);
 
-        // Pad with leading zeros if necessary
+        // Calculate hours, minutes, and seconds
+        let hours = Math.floor(diffInSeconds / 3600);
+        let minutes = Math.floor((diffInSeconds % 3600) / 60);
+        let seconds = diffInSeconds % 60;
+
+        // Pad with leading zeros if necessary (e.g., 9 becomes "09")
         hours = hours < 10 ? '0' + hours : hours;
         minutes = minutes < 10 ? '0' + minutes : minutes;
         seconds = seconds < 10 ? '0' + seconds : seconds;
 
         // Display the result
         document.getElementById('countdown').innerText = `${hours}:${minutes}:${seconds}`;
-
-        // Tick down or reset
-        if (totalSeconds > 0) {
-            totalSeconds--;
-        } else {
-            totalSeconds = 24 * 60 * 60; // Reset to 24 hours
-        }
     }
 
-    // Initialize the timer and set it to update every second (1000 ms)
+    // Initialize the timer immediately, then update it every second
     updateTimer();
     setInterval(updateTimer, 1000);
 </script>
