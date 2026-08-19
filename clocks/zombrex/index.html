@@ -1,0 +1,123 @@
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Zombrex Repeatable Clock Widget - Widgets - Warren Woodhouse</title>
+<style>
+    body {
+        background-color: #000; /* To make the banner pop */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    }
+
+    .banner {
+        background-color: #2b2b2b; /* Dark grey background */
+        display: flex;
+        align-items: center;
+        padding: 15px 40px;
+        border-top: 2px solid #1a1a1a;
+        border-bottom: 2px solid #1a1a1a;
+        width: 100%;
+        max-width: 800px;
+        box-sizing: border-box;
+    }
+
+    .text-container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        text-align: right;
+        flex-grow: 1;
+        padding-right: 20px;
+    }
+
+    .title {
+        color: #e0e0e0;
+        font-size: 28px;
+        font-weight: 300;
+        letter-spacing: 1px;
+        margin-bottom: -5px;
+        text-shadow: 1px 1px 2px #000;
+    }
+
+    .subtitle {
+        color: #999;
+        font-size: 18px;
+        font-weight: 400;
+        text-shadow: 1px 1px 2px #000;
+    }
+
+    .chevron {
+        color: #555;
+        font-size: 40px;
+        font-weight: 100;
+        padding: 0 20px;
+        text-shadow: 1px 1px 2px #000;
+        transform: scaleY(1.5); /* Stretches the chevron slightly to match */
+    }
+
+    .timer-container {
+        display: flex;
+        align-items: center;
+        min-width: 150px;
+    }
+
+    .timer {
+        color: #d0d0d0;
+        font-size: 38px;
+        font-weight: 400;
+        letter-spacing: 2px;
+        text-shadow: 1px 1px 2px #000;
+    }
+</style>
+</head>
+<body>
+
+<div class="banner">
+    <div class="text-container">
+        <div class="title">GOT YOUR ZOMBREX?</div>
+        <div class="subtitle">Time your next injection</div>
+    </div>
+    <div class="chevron">&gt;</div>
+    <div class="timer-container">
+        <div class="timer" id="countdown">24:00:00</div>
+    </div>
+</div>
+
+<script>
+    // Set timer for 24 hours in seconds
+    let totalSeconds = 24 * 60 * 60;
+
+    function updateTimer() {
+        // Calculate hours, minutes, and seconds
+        let hours = Math.floor(totalSeconds / 3600);
+        let minutes = Math.floor((totalSeconds % 3600) / 60);
+        let seconds = totalSeconds % 60;
+
+        // Pad with leading zeros if necessary
+        hours = hours < 10 ? '0' + hours : hours;
+        minutes = minutes < 10 ? '0' + minutes : minutes;
+        seconds = seconds < 10 ? '0' + seconds : seconds;
+
+        // Display the result
+        document.getElementById('countdown').innerText = `${hours}:${minutes}:${seconds}`;
+
+        // Tick down or reset
+        if (totalSeconds > 0) {
+            totalSeconds--;
+        } else {
+            totalSeconds = 24 * 60 * 60; // Reset to 24 hours
+        }
+    }
+
+    // Initialize the timer and set it to update every second (1000 ms)
+    updateTimer();
+    setInterval(updateTimer, 1000);
+</script>
+
+</body>
+</html>
