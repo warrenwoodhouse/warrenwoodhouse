@@ -132,7 +132,7 @@
         
         // REPLACE THIS with your desired YouTube Playlist ID
         // (The string of characters after "list=" in a YouTube URL)
-        var playlistId = 'PL82A0F8CE927C6287'; // Example: Mass Effect Soundtrack
+        var playlistId = 'PLdSVyIXfBubIriX0wu1ngapn7y8WDH7Iz'; // Example: Mass Effect Soundtrack
 
         // 2. This function creates an <iframe> (and YouTube player) after the API code downloads.
         function onYouTubeIframeAPIReady() {
@@ -145,6 +145,7 @@
                     autoplay: 0,
                     controls: 0,
                     showinfo: 0,
+                    disablekb: 1,
                     modestbranding: 1
                 },
                 events: {
