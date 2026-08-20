@@ -1,0 +1,192 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>SYSTEM // OMNI-TOOL AUDIO SUBROUTINE // THEME SONGS LIBRARY</title>
+    <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --omni-orange: #ff5500;
+            --paragon-blue: #00aaff;
+            --bg-dark: #0a0a0c;
+            --panel-bg: rgba(20, 20, 25, 0.85);
+        }
+
+        body {
+            background-color: var(--bg-dark);
+            background-image: radial-gradient(circle at center, #1a1a24 0%, #0a0a0c 100%);
+            color: var(--omni-orange);
+            font-family: 'Rajdhani', sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .player-container {
+            background: var(--panel-bg);
+            border: 1px solid var(--omni-orange);
+            padding: 30px;
+            width: 400px;
+            box-shadow: 0 0 15px rgba(255, 85, 0, 0.2), inset 0 0 20px rgba(255, 85, 0, 0.1);
+            position: relative;
+            /* Mass Effect style angled corners */
+            clip-path: polygon(0 0, 100% 0, 100% calc(100% - 20px), calc(100% - 20px) 100%, 0 100%);
+        }
+
+        .player-container::before {
+            content: "N7";
+            position: absolute;
+            top: 10px;
+            right: 15px;
+            color: #d11;
+            font-weight: bold;
+            font-size: 24px;
+            text-shadow: 2px 2px 0px #fff;
+            letter-spacing: -2px;
+        }
+
+        h2 {
+            margin: 0 0 5px 0;
+            font-size: 24px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            border-bottom: 2px solid var(--omni-orange);
+            padding-bottom: 10px;
+            text-shadow: 0 0 8px var(--omni-orange);
+        }
+
+        .status {
+            font-size: 14px;
+            margin-bottom: 20px;
+            color: #ccc;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .controls {
+            display: flex;
+            gap: 10px;
+            justify-content: space-between;
+        }
+
+        button {
+            background: transparent;
+            color: var(--omni-orange);
+            border: 1px solid var(--omni-orange);
+            padding: 10px 15px;
+            font-family: 'Rajdhani', sans-serif;
+            font-weight: 700;
+            font-size: 16px;
+            text-transform: uppercase;
+            cursor: pointer;
+            transition: all 0.2s ease-in-out;
+            flex: 1;
+            clip-path: polygon(0 0, 100% 0, 100% calc(100% - 8px), calc(100% - 8px) 100%, 0 100%);
+        }
+
+        button:hover {
+            background: var(--omni-orange);
+            color: var(--bg-dark);
+            box-shadow: 0 0 10px var(--omni-orange);
+        }
+
+        button:active {
+            transform: scale(0.95);
+        }
+
+        /* Hide the actual YouTube player */
+        #youtube-player {
+            position: absolute;
+            top: -9999px;
+            left: -9999px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="player-container">
+        <h2>Audio Terminal</h2>
+        <div class="status" id="track-status">SYSTEM IDLE...</div>
+        
+        <div class="controls">
+            <button onclick="prevVideo()">◀ Prev</button>
+            <button onclick="playVideo()">Play</button>
+            <button onclick="pauseVideo()">Pause</button>
+            <button onclick="nextVideo()">Next ▶</button>
+        </div>
+    </div>
+
+    <!-- Hidden YouTube IFrame will be injected here -->
+    <div id="youtube-player"></div>
+
+    <script>
+        // 1. Load the YouTube IFrame Player API code asynchronously.
+        var tag = document.createElement('script');
+        tag.src = "https://www.youtube.com/iframe_api";
+        var firstScriptTag = document.getElementsByTagName('script')[0];
+        firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+        var player;
+        
+        // REPLACE THIS with your desired YouTube Playlist ID
+        // (The string of characters after "list=" in a YouTube URL)
+        var playlistId = 'PL82A0F8CE927C6287'; // Example: Mass Effect Soundtrack
+
+        // 2. This function creates an <iframe> (and YouTube player) after the API code downloads.
+        function onYouTubeIframeAPIReady() {
+            player = new YT.Player('youtube-player', {
+                height: '1',
+                width: '1',
+                playerVars: {
+                    listType: 'playlist',
+                    list: 'PLdSVyIXfBubIriX0wu1ngapn7y8WDH7Iz',
+                    autoplay: 0,
+                    controls: 0,
+                    showinfo: 0,
+                    modestbranding: 1
+                },
+                events: {
+                    'onReady': onPlayerReady,
+                    'onStateChange': onPlayerStateChange
+                }
+            });
+        }
+
+        function onPlayerReady(event) {
+            document.getElementById('track-status').innerText = 'CONNECTION ESTABLISHED. READY.';
+        }
+
+        function onPlayerStateChange(event) {
+            const statusText = document.getElementById('track-status');
+            if (event.data == YT.PlayerState.PLAYING) {
+                statusText.innerText = 'PLAYING AUDIO DATAPAD...';
+                statusText.style.color = 'var(--paragon-blue)';
+                statusText.style.textShadow = '0 0 8px var(--paragon-blue)';
+            } else if (event.data == YT.PlayerState.PAUSED) {
+                statusText.innerText = 'PLAYBACK PAUSED.';
+                statusText.style.color = '#ccc';
+                statusText.style.textShadow = 'none';
+            }
+        }
+
+        // Custom Control Functions
+        function playVideo() {
+            if (player && player.playVideo) player.playVideo();
+        }
+
+        function pauseVideo() {
+            if (player && player.pauseVideo) player.pauseVideo();
+        }
+
+        function nextVideo() {
+            if (player && player.nextVideo) player.nextVideo();
+        }
+
+        function prevVideo() {
+            if (player && player.previousVideo) player.previousVideo();
+        }
+    </script>
+</body>
+</html>
