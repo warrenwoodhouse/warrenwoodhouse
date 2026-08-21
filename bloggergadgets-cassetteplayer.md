@@ -3,8 +3,7 @@ Replace “PLAYLIST_ID” with your own playlist id from your own YouTube channe
 
 # code
 ```
-<!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
