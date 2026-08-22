@@ -1,0 +1,23 @@
+importArticles({
+    type: "style",
+    article: "DM.css"
+});
+
+importArticles({
+    type: "style",
+    articles: [
+        "MediaWiki:Example.css",
+        "u:dev:MediaWiki:External_include.css"
+     ]
+});
+
+importArticles({
+    type: "script",
+    articles: [
+        "MediaWiki:Example.js",
+        "u:dev:MediaWiki:External_include.js"
+     ]
+}, {
+    type: "style",
+    article: "MediaWiki:Common.css"
+});
