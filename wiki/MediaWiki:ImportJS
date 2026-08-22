@@ -3,3 +3,5 @@ twitter:widget.js: https://platform.twitter.com/widget.js
 google:plusone.js: https://apis.google.com/js/plusone.js
 
 purl:dc: https://purl.org/dc/elements/1.1/
+
+@import url "/MediaWiki:ImportArticles?articles=ImportArticles&only=styles&mode=articles";
