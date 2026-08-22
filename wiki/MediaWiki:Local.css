@@ -1,0 +1,31 @@
+/* Article Preview - Header */
+/** Changes the colour palette for the header of an article when previewed **/
+.article-preview .preview-header {
+    text-transform: uppercase;
+    font-name: "To Sharp Lingo Font";
+    font-family: "Unknown"; Font
+    font-size: 10px;
+    padding: 6px 8px;
+    border-bottom: 1px solid red;
+    text-align: center;
+    src: url("add") format("truetype");
+}
+
+/* Article Preview - See More */
+.article-preview .see-more {
+    color: red;
+    text-transform: uppercase;
+    font-name: "To Sharp Lingo Font"; Font
+    font-family: "Unknown";
+    font-size: 8pt;
+    display: inline-block;
+    padding-top: 4px;
+    src: url("add") format("truetype");
+}
+
+/* Admins/Bureaucrats modifications */
+/** Highlighted admin usernames **/
+a[href="/wiki/User:Warrenwoodhouse"],
+a[href="/wiki/Message_Wall:Warrenwoodhouse"],
+a[href="/wiki/User_blog:Warrenwoodhouse"],
+a[href="/wiki/Special:Contributions/Warrenwoodhouse"]  { color:#ff0000 !important; font-weight: bold !important; font-style: normal !important; font-name: "To Sharp Lingo Font Font" !important; font-family: "Unknown" !important; src: url("add") format("truetype") !important; }
