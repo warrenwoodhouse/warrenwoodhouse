@@ -40,6 +40,7 @@ These templates can be copied so you can continue coding on your own repository.
 
 * [Sidebar](https://github.com/warrenwoodhouse/sidebar)
 * [Slice](https://github.com/warrenwoodhouse/slice)
+* [Checklist](https://github.com/warrenwoodhouse/checklist)
 
 # ZIP FILES
 These ZIP Files are now available to download. These are available for free for personal use only. Should you wish to use them for commercial uses, please inform me directly by [CLICKING HERE](https://warrenwoodhouse.blogspot.com/contact).
