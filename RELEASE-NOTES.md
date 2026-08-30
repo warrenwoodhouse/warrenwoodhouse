@@ -12,7 +12,11 @@ Released on 9th June 2026
 
 ## Refactoring - 23.3
 
-No refactoring issues
+No refactoring required
+
+## Bugs - 23.3
+
+None
 
 ## Bug fixes - 23.3
 
@@ -32,6 +36,10 @@ Released on 1st May 2026
 No new features added
 
 ## Refactoring - 23.2
+
+No refactoring required
+
+## Bugs - 23.2
 
 * [Major issue with Invisible Column which still needs to be addressed](https://github.com/warrenwoodhouse/forums/issues/31) (Help Wanted; Bug; Technical Issue)
 
@@ -53,6 +61,10 @@ Released on 1st January 2026
 * Added new pages to my blog
 
 ## Refactoring - 23.1
+
+No refactoring required
+
+## Bugs - 23.1
 
 * [Major issue with Invisible Column which still needs to be addressed](https://github.com/warrenwoodhouse/forums/issues/31) (Help Wanted; Bug; Technical Issue)
 
