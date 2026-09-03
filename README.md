@@ -3,14 +3,31 @@ Hello! My name is Warren Woodhouse and welcome to my GitHub profile. For more in
 
 [CLICK HERE](https://github.com/warrenwoodhouse/warrenwoodhouse/blob/master/RELEASE-NOTES.md) to read the Release Notes/Changelog for my GitHub.
 
-# ABOUT
+# About
 I have Autism. I enjoy playing on video games, playing on my guitar, playing on my piano, watching films, reading books & taking photos.
 
-# GITHUB STREAKS
+# GitHub Streaks
 [![GitHub Streak](https://streak-stats.demolab.com?user=warrenwoodhouse&date_format=j%20M%5B%20Y%5D&background=FF000000&border=FF000000&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideNums=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&excludeDaysLabel=FF0000)](https://git.io/streak-stats)
 <sub>Widget made using [GitHub Streak](https://streak-stats.demolab.com/demo/) by [DemoLab](https://www.demolab.com/)</sub>
 
-# PAGES
+# Creations
+* [FeedMaker](https://warrenwoodhouse.github.io/feedmaker)
+* [SliceMaker](https://warrenwoodhouse.github.io/slice)
+* [Blogger Templates](https://warrenwoodhouse.github.io/bloggertemplates)
+* [Audio Player Widgets](https://github.com/warrenwoodhouse/warrenwoodhouse/tree/master/audioplayers)
+* [Clock Widgets](https://github.com/warrenwoodhouse/warrenwoodhouse/tree/master/clocks)
+* [80s Cassette Player Widget](https://github.com/warrenwoodhouse/warrenwoodhouse/blob/master/bloggergadgets-cassetteplayer.md)
+* [Tesco Price Checker Widget](https://github.com/warrenwoodhouse/warrenwoodhouse/blob/master/bloggergadgets-tescopricechecker.md)
+* [Interactive & Static Maps](https://warrenwoodhouse.github.io/maps)
+* [Games](https://warrenwoodhouse.github.io/games)
+* [Favicons](https://github.com/warrenwoodhouse/favicons)
+* [Cursors](https://github.com/warrenwoodhouse/cursors)
+* [Autosave Checklist](https://github.com/warrenwoodhouse/checklist)
+* [LARP and Game Board Character Sheet](https://github.com/warrenwoodhouse/charactersheet)
+* [Sidebar](https://github.com/warrenwoodhouse/sidebar)
+* [Fonts](https://github.com/warrenwoodhouse/fonts)
+
+# Pages
 * [Official Website](https://warrenwoodhouse.blogspot.com/)
 * [Podcasts](https://youtube.com/user/warrenwoodhouse/podcasts)
 * [Archive](https://warrenwoodhouse.blogspot.com/archive)
@@ -26,23 +43,23 @@ I have Autism. I enjoy playing on video games, playing on my guitar, playing on 
 * [TrueTrophies](https://truetrophies.com/gamer/warren-woodhouse)
 * [Photos](https://warrenwoodhouse.blogspot.com/photos)
 
-# JOIN THE COMMUNITY
+# Join the Community
 [CLICK HERE](https://github.com/warrenwoodhouse/forums/issues) to join the community to discuss, contribute and share ideas regarding my products.
 
-# REPORT A BUG
+# Report a Bug
 [CLICK HERE](https://github.com/warrenwoodhouse/forums/issues/new/choose) to report a bug with my products.
 
-# SUBMIT A PULL REQUEST
+# Submit a Pull Request
 [CLICK HERE](https://github.com/warrenwoodhouse/warrenwoodhouse/compare) to submit a pull request for the entire archive of my products.
 
-# REPOSITORY TEMPLATES
+# Repository Templates
 These templates can be copied so you can continue coding on your own repository.
 
 * [Sidebar](https://github.com/warrenwoodhouse/sidebar)
 * [Slice](https://github.com/warrenwoodhouse/slice)
 * [Checklist](https://github.com/warrenwoodhouse/checklist)
 
-# ZIP FILES
+# ZIP Files
 These ZIP Files are now available to download. These are available for free for personal use only. Should you wish to use them for commercial uses, please inform me directly by [CLICKING HERE](https://warrenwoodhouse.blogspot.com/contact).
 
 * [Fallout TV Series Theme - Blogger Templates](https://raw.githubusercontent.com/warrenwoodhouse/bloggertemplates/main/bloggertemplates-bywarrenwoodhouse-fallouttvseries.zip)
@@ -57,7 +74,7 @@ These ZIP Files are now available to download. These are available for free for 
 * [Warren Woodhouse Theme - Google Chrome Themes](https://github.com/warrenwoodhouse/googlechromethemes/releases/download/warrenwoodhousegooglechrometheme/ZIPs_ByWarrenWoodhouse_GoogleChromeThemes_WarrenWoodhouseOfficialGoogleChromeTheme.zip)
 * [Warren Park - Tony Hawk's Pro Skater 4 (PS1)](https://github.com/warrenwoodhouse/thps4/archive/refs/tags/warrenpark.zip)
 
-# COMING SOON TO MY GITHUB
+# Coming Soon
 * Boomerang (Trick) for use on THAW Tony Hawk's American Wasteland on the PS2
 * Fingerflip Pogo (Trick) for use on THAW Tony Hawk's American Wasteland on the PS2
 * The Warren (Trick) for use on THAW Tony Hawk's American Wasteland on the PS2
@@ -74,7 +91,7 @@ These ZIP Files are now available to download. These are available for free for 
 * PS4 Static Wallpapers
 * XBOX 360 Static Wallpapers
 
-# RECENT ISSUES ON MY GITHUB
+# Issues
 > [!TIP]
 > If you want to help out with correcting mistakes in issues oppended to the forums and bug reports in my community, please [CLICK HERE](https://github.com/warrenwoodhouse/forums/issues)
 
@@ -82,40 +99,41 @@ These ZIP Files are now available to download. These are available for free for 
 * [Outdated Links - Fonts](https://github.com/warrenwoodhouse/fonts/labels/outdated%20links) (RESOLVED: Contents are archived)
 * [Infringement - Fonts](https://github.com/warrenwoodhouse/fonts/labels/infringement) (ONGOING DISPUTES)
 
-# RECENT CHANGES ON MY GITHUB
+# Changes
+## Recent - Changes
 > [!IMPORTANT]
 > This section includes important updates of recently uploaded content.
 
 [CLICK HERE](https://github.com/warrenwoodhouse?tab=overview&from=2026-01-01&to=2026-12-31) to see the full list of updates in 2026.
 
-# PAST CHANGES ON MY GITHUB
+## Past - Changes
 * [2025](https://github.com/warrenwoodhouse?tab=overview&from=2025-01-01&to=2025-12-31)
 * [2024](https://github.com/warrenwoodhouse?tab=overview&from=2024-01-01&to=2024-12-31)
 * [2023](https://github.com/warrenwoodhouse?tab=overview&from=2023-01-01&to=2023-12-31)
 
-# GAME MODS
+# Game Mods
 [CLICK HERE](https://warrenwoodhouse.blogspot.com/mods) to see the full list of Game Mods.
 
 [CLICK HERE](https://github.com/warrenwoodhouse/mods#game-mods) to see the repository on my GitHub.
 
-# BLOGS
+# Blogs
 [CLICK HERE](https://warrenwoodhouse.blogspot.com/blogs) to see the full list of Blogs.
 
-# GITHUB PAGES
+# GitHub Pages
 * [Warren Woodhouse](https://warrenwoodhouse.github.io/warrenwoodhouse)
 * [T-Codes](https://warrenwoodhouse.github.io/codes)
 * [Colour Chart](https://warrenwoodhouse.github.io/codes/colourchart)
 * [Comments](https://warrenwoodhouse.github.io/warrenwoodhouse/comments)
 
-# GITHUB PROJECTS
+# GitHub Projects
 * [PiNgStR](https://github.com/warrenwoodhouse/pingstr)
-* [FeedMaker](https://github.com/warrenwoodhouse/feed)
+* [FeedMaker](https://github.com/warrenwoodhouse/feedmaker)
 * [SliceMaker](https://github.com/warrenwoodhouse/slice)
 * [Blogger Templates](https://github.com/warrenwoodhouse/bloggertemplates)
 * [MapThis!](https://github.com/warrenwoodhouse/maps)
 * PhotoFlame (currently in development)
 
-# WEBSITES MISUSING MY DATA FROM MY GITHUB USING GITHUB API
+# Websites Misusing my Data from my GitHub using GitHub API
 These are all clones of my GitHub and are misusing my copyright policy and license agreement, both of which are found on my website.
 These websites are misusing my data without any consent or approval.
 
@@ -123,18 +141,18 @@ These websites are misusing my data without any consent or approval.
 * [Workers Dev GitHub Clone of my GitHub profile and repos](https://git.vcmq.workers.dev/warrenwoodhouse)
 * [GitHub Help GitHub Clone of my GitHub profile and repos](https://githubhelp.com/warrenwoodhouse)
 
-# FILES ON GITHUB THAT ARE SHARING MY DATA WITHOUT MY CONSENT OR APPROVAL
+# Files on GitHub that are sharing my Data without my Consent or Approval
 Update the list when new files are discovered, when files are removed by the uploader or when files are taken down by GitHub in accordance with their DMCA Policy and Privacy Policy.
 
 * [crunchbase.txt - Master - Markov-Chains - bradjasper - GitHub](https://raw.githubusercontent.com/bradjasper/Markov-Chains/master/crunchbase.txt) (Text Document)
 
-# FILES ELSEWHERE ONLINE THAT ARE SHARING MY DATA WITH MY CONSENT AND APPROVAL
+# Files Elsewhere Online that are sharing my Data with my Consent and Approval
 Update the list when necessary.
 
 * [Aenigmate Productions - Listings - Fonts - FontMeme](https://fontmeme.com/fonts/aenigmate-productions-listing) (Font Developer Page)
 * [Warren Woodhouse - Channels - GIPHY - Meta](https://giphy.com/warrenwoodhouse)
 
-# PINNED REPOSITORIES
+# Pinned Repositories
 * [Mods](https://github.com/warrenwoodhouse/mods)
 * [Music](https://github.com/warrenwoodhouse/music)
 * [Game Maps](https://github.com/warrenwoodhouse/gamemaps)
@@ -145,19 +163,19 @@ Update the list when necessary.
 * [Photos](https://github.com/warrenwoodhouse/photos)
 * [Game Saves](https://github.com/warrenwoodhouse/gamesaves)
 
-# README TEMPLATE
+# README Template
 The template for the README file found on various repositories can be found by [CLICKING HERE](https://github.com/warrenwoodhouse/warrenwoodhouse/blob/master/readmetemplate.md).
 
-# LICENSE AGREEMENT
+# License Agreement
 You can find the license agreement by [CLICKING HERE](https://warrenwoodhouse.blogspot.com/terms).
 
-# WHAT YOU WILL FIND ON MY GITHUB
+# What You Will Find on my GitHub
 My GitHub profile contains repositories such as archived content from all of my websites, mods that I've made for video games, PDFs, wallpapers, cursors, favicons, fonts and more.
 
-# SUPPORT
+# Support
 You can find support by [CLICKING HERE](https://warrenwoodhouse.blogspot.com/support).
 
-# KEEP IN TOUCH
+# Keep in Touch
 * [Subscribe on YouTube](https://youtube.com/user/warrenwoodhouse)
 * [Follow on Blogger](https://warrenwoodhouse.blogspot.com/)
 * [Follow on Twitter / X](https://twitter.com/warrenwoodhouse)
