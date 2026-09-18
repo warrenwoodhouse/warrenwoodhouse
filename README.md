@@ -11,19 +11,24 @@ I have Autism. I enjoy playing on video games, playing on my guitar, playing on 
 <sub>Widget made using [GitHub Streak](https://streak-stats.demolab.com/demo/) by [DemoLab](https://www.demolab.com/)</sub>
 
 # Creations
-* [FeedMaker](https://warrenwoodhouse.github.io/feedmaker)
-* [SliceMaker](https://warrenwoodhouse.github.io/slice)
-* [Blogger Templates](https://warrenwoodhouse.github.io/bloggertemplates)
-* [Audio Player Widgets](https://warrenwoodhouse.github.io/audioplayers)
-* [Clock Widgets](https://warrenwoodhouse.github.io/clocks)
+* [#FIAJ Fart in a Jar](https://warrenwoodhouse.github.io/games/fartinajar): Tap a jar to make it stink and smell toxic.
+* [Advanced Draughts (Checkers)](https://warrenwoodhouse.github.io/games/draughts): Play an advanced version of Draughts (Checkers) against an AI opponent or against another player via a local session.
+* [Simplified Caravan](https://warrenwoodhouse.github.io/games/simplifiedcaravan): Play a simplified version of Caravan, the infamous card game from Fallout: New Vegas.
+* [Warren Notes](https://warrenwoodhouse.github.io/notes): Warren Notes is a free, safe and secure private notetaking PWA app that supports Markdown files.
+* [PiNgStR](https://github.com/warrenwoodhouse/pingstr): PiNgStR is a website loading tool that makes your website load faster.
+* [FeedMaker](https://warrenwoodhouse.github.io/feedmaker): Create feeds from posts from websites that have no generated feed files.
+* [SliceMaker](https://warrenwoodhouse.github.io/slice): Create web slices for features or recent posts.
+* [Blogger Templates](https://warrenwoodhouse.github.io/bloggertemplates): Custom made web designs for your blogs on Blogger.
+* [Audio Player Widgets](https://warrenwoodhouse.github.io/audioplayers): Custom made audio players for your websites and blogs.
+* [Clock Widgets](https://warrenwoodhouse.github.io/clocks): Custom made clocks and countdown clocks for your websites and blogs.
 * [80s Cassette Player Widget](https://github.com/warrenwoodhouse/warrenwoodhouse/blob/master/bloggergadgets-cassetteplayer.md)
 * [Tesco Price Checker Widget](https://github.com/warrenwoodhouse/warrenwoodhouse/blob/master/bloggergadgets-tescopricechecker.md)
 * [Interactive & Static Maps](https://warrenwoodhouse.github.io/maps)
 * [Games](https://warrenwoodhouse.github.io/games)
 * [Favicons](https://github.com/warrenwoodhouse/favicons)
 * [Cursors](https://github.com/warrenwoodhouse/cursors)
-* [Autosave Checklist](https://github.com/warrenwoodhouse/checklist)
-* [LARP and Game Board Character Sheet](https://github.com/warrenwoodhouse/charactersheet)
+* [Autosave Checklist](https://github.com/warrenwoodhouse/checklist): A checklist that saves automatically via your phone or browser, allowing you to pick up where you left off even after closing the tab down on your browser. Can be added to your own websites and blogs.
+* [LARP and Game Board Character Sheet](https://github.com/warrenwoodhouse/charactersheet): A basic character sheet for LARPers and Game Board games using a spreadsheet format.
 * [Sidebar](https://github.com/warrenwoodhouse/sidebar)
 * [Fonts](https://github.com/warrenwoodhouse/fonts)
 
@@ -58,6 +63,7 @@ These templates can be copied so you can continue coding on your own repository.
 * [Sidebar](https://github.com/warrenwoodhouse/sidebar)
 * [Slice](https://github.com/warrenwoodhouse/slice)
 * [Checklist](https://github.com/warrenwoodhouse/checklist)
+* [License Agreement](https://github.com/warrenwoodhouse/license)
 
 # ZIP Files
 These ZIP Files are now available to download. These are available for free for personal use only. Should you wish to use them for commercial uses, please inform me directly by [CLICKING HERE](https://warrenwoodhouse.blogspot.com/contact).
