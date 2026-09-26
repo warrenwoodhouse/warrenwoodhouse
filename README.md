@@ -63,6 +63,7 @@ Things I’ve created over the years. You’ll also find external links here tha
 * [Flags](https://github.com/warrenwoodhouse/flags): Custom made flag designs.
 * [Buttons](https://github.com/warrenwoodhouse/buttons): Custom made button icons.
 * [Music](https://github.com/warrenwoodhouse/music): Songs by Warren Woodhouse.
+* [Calculator](https://warrenwoodhouse.github.io/calculator)
 
 ## GitHub Pages Themes
 * [Warren Woodhouse Theme](https://github.com/warrenwoodhouse/githubthemes/tree/main/warrenwoodhouse)
