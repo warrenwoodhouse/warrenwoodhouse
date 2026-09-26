@@ -1,8 +1,15 @@
-A collection of outdated codes that I've used on Blogger.
+A collection of outdated codes that I've used on Blogger and elsewhere.
 
 
-~~~~ Fixed Buttons ~~~~
+==== Google Data Schema Reference in XMLNS Meta Data ====
+<!-- DEPRECATED - Google Data Schema Reference <html xmlns:gd="http://schemas.google.com/g/2005"/> -->
 
+
+==== W3C Atom Feed Schema Reference XMLNS Meta Data ====
+<!-- DEPRECATED - W3C Atom Feed Schema Reference - <entry xmlns="http://www.w3.org/2005/Atom"/> -->
+
+
+==== Fixed Buttons ====
   <head>
   <!-- Fixed Buttons by Warren Woodhouse -->
   <!-- More codes at warrenwoodhouse.blogspot.com/codes -->
@@ -34,8 +41,7 @@ A collection of outdated codes that I've used on Blogger.
 </body>
 
 
-~~~~ Pop Up Banner ~~~~
-
+==== Pop Up Banner ====
 <head>
   <!-- Pop Up Banner by Warren Woodhouse -->
   <!-- More codes at warrenwoodhouse.blogspot.com/codes -->
@@ -90,8 +96,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
 </head>
 
 
-~~~~ App Banner ~~~~
-
+==== App Banner ====
 <head>
   <!-- App Banner by Warren Woodhouse -->
   <!-- More codes at warrenwoodhouse.blogspot.com/codes -->
@@ -150,8 +155,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
   </head>
 
 
-~~~~ Tumblr Share Button ~~~~
-
+==== Tumblr Share Button ====
 <!-- Add tumblr share button here
 
 data-posttype="link" data-tags="warrenwoodhouse,bookmarks,bookmark,links,link" data-title="Warren%20Woodhouse" data-caption="Warren%20Woodhouse" content="https://warrenwoodhouse.blogspot.com/"
@@ -159,8 +163,7 @@ data-posttype="link" data-tags="warrenwoodhouse,bookmarks,bookmark,links,link" d
 --/>
 
 
-~~~~ Featured Posts ~~~~
-
+==== Featured Posts ====
 <div id="featuredbwidget">
 <script type='text/javascript'>
 //<![CDATA[
@@ -177,8 +180,7 @@ function featuredbwidget(a){(function(e){var h={listURL:"",featuredNum:3,feature
 </script></div></ul>
 
 
-~~~~ Disqus Comment Board ~~~~
-
+==== Disqus Comment Board ====
 <b:widget id='HTML3' locked='false' mobile='yes' title='Comments' type='HTML' version='1'>
               <b:widget-settings>
                 <b:widget-setting name='content'><![CDATA[<!-- Disqus Gadget -->
