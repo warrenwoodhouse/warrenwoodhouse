@@ -65,7 +65,7 @@ Things I’ve created over the years. You’ll also find external links here tha
 * [Music](https://github.com/warrenwoodhouse/music): Songs by Warren Woodhouse.
 
 ## GitHub Pages Themes
-* [Warren Woodhouse Theme](https://github.com/warrenwoodhouse/githubthemes/warrenwoodhouse)
+* [Warren Woodhouse Theme](https://github.com/warrenwoodhouse/githubthemes/tree/main/warrenwoodhouse)
 
 # Pages
 * [Official Website](https://warrenwoodhouse.blogspot.com/)
