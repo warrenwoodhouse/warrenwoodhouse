@@ -39,7 +39,11 @@ Things I’ve created over the years. You’ll also find external links here tha
 * [Bebo Skins](https://warrenwoodhouse.blogspot.com/2008/05/beboskins.html#:~:text=Skins): Custom made profile web designs for your own profiles on Bebo (defunct).
 * [Bebo Mail Skins](https://warrenwoodhouse.blogspot.com/2008/05/beboskins.html#:~:text=Mail%20Skins): Custom made personal designs for your own Bebo Mail on Bebo (defunct).
 * [Google Mail Themes](https://warrenwoodhouse.blogspot.com/search/label/gmailthemes): Custom made personal designs for your own Google Mail.
+* [GitHub Pages Themes](https://github.com/warrenwoodhouse/githubthemes): Custom made web designs for your own Pages on GitHub.
 * [Zoom Virtual Backdrops](https://github.com/warrenwoodhouse/zoomvirtualbackdrops/releases/tag/v1): A library of virtual backdrops for use on Zoom.
+* Xbox 360 Wallpapers
+* Nintendo Wii Photos Channel Wallpapers
+* MySpace Layouts
 * [PDFs](https://github.com/warrenwoodhouse/pdfs): A large library of PDF Files scanned and archived by Warren Woodhouse.
 * [Gaming Telephone Directory](https://warrenwoodhouse.github.io/gamingtelephonedirectory): View a collection of telephone numbers, contact details, addresses and more from tons of video games.
 * [Hexadecimal Colour Chart](https://warrenwoodhouse.github.io/codes/colourchart): A full list of colours along with their Hexadecimal hash code and other various details.
@@ -59,6 +63,9 @@ Things I’ve created over the years. You’ll also find external links here tha
 * [Flags](https://github.com/warrenwoodhouse/flags): Custom made flag designs.
 * [Buttons](https://github.com/warrenwoodhouse/buttons): Custom made button icons.
 * [Music](https://github.com/warrenwoodhouse/music): Songs by Warren Woodhouse.
+
+## GitHub Pages Themes
+* [Warren Woodhouse Theme](https://github.com/warrenwoodhouse/githubthemes/warrenwoodhouse)
 
 # Pages
 * [Official Website](https://warrenwoodhouse.blogspot.com/)
