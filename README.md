@@ -22,6 +22,7 @@ Things I’ve created over the years. You’ll also find external links here tha
 * [Advanced Draughts (Checkers)](https://warrenwoodhouse.github.io/games/draughts): Play an advanced version of Draughts (Checkers) against an AI opponent or against another player via a local session.
 * [Simplified Caravan](https://warrenwoodhouse.github.io/games/simplifiedcaravan): Play a simplified version of Caravan, the infamous card game from Fallout: New Vegas.
 * [Twisty Cube](https://warrenwoodhouse.github.io/games/twistycube): Play an interactive version of the infamous Rubik’s Cube.
+* [Pong](https://warrenwoodhouse.github.io/games/pong): Play a simple and advanced version of Pong, complete with mobile functionality, reset match button, difficulty modes and more.
 * [MapThis!](https://warrenwoodhouse.github.io/maps/editor): A free to use map editor.
 * [MapThis! for MediaWiki](https://warrenwoodhouse.github.io/maps/editor/wiki): A free to use map editor for MediaWiki sites.
 * [Warren Notes](https://warrenwoodhouse.github.io/notes): Warren Notes is a free, safe and secure private notetaking PWA app that supports Markdown files.
@@ -63,7 +64,11 @@ Things I’ve created over the years. You’ll also find external links here tha
 * [Flags](https://github.com/warrenwoodhouse/flags): Custom made flag designs.
 * [Buttons](https://github.com/warrenwoodhouse/buttons): Custom made button icons.
 * [Music](https://github.com/warrenwoodhouse/music): Songs by Warren Woodhouse.
-* [Calculator](https://warrenwoodhouse.github.io/calculator)
+* [Calculator](https://warrenwoodhouse.github.io/calculator): An easy to use calculator.
+* Scientific Calculator (coming soon): A more advanced calculator for measuring scientific mathematics.
+* Calendar (work in progress): A simple and easy to use calendar app that lets you access, track and manage tasks, events and more.
+* PhotoFlame (coming soon): A simple and useful photo storage tool for sharing and storing photos publicly and privately.
+* MarkThis! (coming soon): A simple and easy to use bookmarker tool for privately storing bookmarks and web links.
 
 ## GitHub Pages Themes
 * [Warren Woodhouse Theme](https://github.com/warrenwoodhouse/githubthemes/tree/main/warrenwoodhouse)
