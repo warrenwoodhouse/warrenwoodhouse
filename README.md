@@ -6,6 +6,14 @@ Hello! My name is Warren Woodhouse and welcome to my GitHub profile. For more in
 # About
 I have Autism. I enjoy playing on video games, playing on my guitar, playing on my piano, watching films, reading books & taking photos.
 
+# Personal Achievements
+## Scout Badges
+![Scout Badge](https://github.com/warrenwoodhouse/badges/raw/refs/heads/main/badges-scouts-scoutbadge.png)
+![1st Gütersloh Scout Group Christmas Funday 2000 Badge](https://github.com/warrenwoodhouse/badges/raw/refs/heads/main/badges-scouts-1stguterslohscoutgroupchristmasfunday2000.png)
+![Jamboree on the Trail 4th Annual 2001 Badge](https://github.com/warrenwoodhouse/badges/raw/refs/heads/main/badges-scouts-jamboreeonthetrail4thannual2001.png)
+![Gütersloh Spring Camp 27th April to 29th April 2001 Badge](https://github.com/warrenwoodhouse/badges/raw/refs/heads/main/badges-scouts-guterslohspringcamp27thaprilto29thapril2001.png)
+![Intercamp Alsace 2001 Badge](https://github.com/warrenwoodhouse/badges/raw/refs/heads/main/badges-scouts-alsaceintercamp2001.png)
+
 # GitHub Streaks
 [![GitHub Streak](https://streak-stats.demolab.com?user=warrenwoodhouse&date_format=j%20M%5B%20Y%5D&background=FF000000&border=FF000000&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideNums=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&excludeDaysLabel=FF0000)](https://git.io/streak-stats)
 <sub>Widget made using [GitHub Streak](https://streak-stats.demolab.com/demo/) by [DemoLab](https://www.demolab.com/)</sub>
