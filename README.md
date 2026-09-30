@@ -61,11 +61,12 @@ Things I’ve created over the years. You’ll also find external links here tha
 * [LARP and Game Board Character Sheet](https://github.com/warrenwoodhouse/charactersheet): A basic character sheet for LARPers and Game Board games using a spreadsheet format.
 * [Sidebar](https://github.com/warrenwoodhouse/sidebar): A custom made sidebar created using HTML.
 * [Fonts](https://github.com/warrenwoodhouse/fonts): Famous fonts and other fonts all of which are created by Warren Woodhouse Fonts, Ænigmate Productions, Bajo la Luna Producciones, -BRK- Fonts, Norfolk Fonts and Disney Fonts that are all part of the Warren Woodhouse group.
-* [Flags](https://github.com/warrenwoodhouse/flags): Custom made flag designs.
-* [Buttons](https://github.com/warrenwoodhouse/buttons): Custom made button icons.
+* [Flags](https://github.com/warrenwoodhouse/flags): Custom made flag designs by Warren Woodhouse.
+* [Buttons](https://github.com/warrenwoodhouse/buttons): Custom made buttons by Warren Woodhouse.
 * [Music](https://github.com/warrenwoodhouse/music): Songs by Warren Woodhouse.
 * [Calculator](https://warrenwoodhouse.github.io/calculator): An easy to use calculator.
 * Scientific Calculator (coming soon): A more advanced calculator for measuring scientific mathematics.
+* [PlayStation Trophy Rarity Calculator](https://warrenwoodhouse.github.io/calculator/playstationtrophyrarity): An easy to use calculator that lets you work out the number of gamers who have unlocked a particular trophy based on the percentage earned (as shown in the PlayStation app and various tracking websites).
 * Calendar (work in progress): A simple and easy to use calendar app that lets you access, track and manage tasks, events and more.
 * PhotoFlame (coming soon): A simple and useful photo storage tool for sharing and storing photos publicly and privately.
 * MarkThis! (coming soon): A simple and easy to use bookmarker tool for privately storing bookmarks and web links.
