@@ -1,10 +1,10 @@
 # warrenwoodhouse
-Hello! My name is Warren Woodhouse and welcome to my GitHub profile. For more information about me please [CLICK HERE](https://warrenwoodhouse.blogspot.com/p/about.html).
+Hello! My name is Warren Woodhouse and welcome to my GitHub profile. I'm a Gamer and a poultry farmer with a penchant for 70s music and maps. For more information about me please [CLICK HERE](https://warrenwoodhouse.blogspot.com/p/about.html).
 
 [CLICK HERE](https://github.com/warrenwoodhouse/warrenwoodhouse/blob/master/RELEASE-NOTES.md) to read the Release Notes/Changelog for my GitHub.
 
 # About
-I have Autism. I enjoy playing on video games, playing on my guitar, playing on my piano, watching films, reading books & taking photos.
+I have Autism & ADHD. I enjoy playing on video games, playing on my guitar, playing on my piano, watching films, reading books & taking photos.
 
 # Personal Achievements
 ## Scout Badges
