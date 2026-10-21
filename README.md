@@ -21,6 +21,7 @@ I have Autism. I enjoy playing on video games, playing on my guitar, playing on 
 # Creations
 Things I’ve created over the years. You’ll also find external links here that link to pages where my contents are stored on other services, such as that of The Sims 4 Gallery, for instance.
 
+* [GitHub Commits Feed Generator](https://warrenwoodhouse.github.io/githubcommits): This free to use generator lets you create a custom feed showcasing the latest commits from a given GitHub account.
 * [Al Bhed Translator & Dictionary](https://warrenwoodhouse.github.io/translate/albhed): This free to use translator and dictionary allows you to translate the full language of Al Bhed from the Final Fantasy franchise.
 * [Simlish Translator & Dictionary](https://warrenwoodhouse.github.io/translate/simlish): This free to use translator and dictionary allows you to translate the full language of Simlish from The Sims franchise. This translator is still a work in progress.
 * [Newcastle upon Tyne UK’s Nexus Metro Texture Pack for Grand Theft Auto III](https://github.com/warrenwoodhouse/gta3/releases/tag/newcastleupontyneuknexusmetrotexturepack): Download and install this free texture pack for Grand Theft Auto III on the PC.
