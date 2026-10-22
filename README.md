@@ -21,6 +21,8 @@ I have Autism & ADHD. I enjoy playing on video games, playing on my guitar, play
 # Creations
 Things I’ve created over the years. You’ll also find external links here that link to pages where my contents are stored on other services, such as that of The Sims 4 Gallery, for instance.
 
+* [Warren Maps](https://warrenwoodhouse.github.io/maps)
+* [Poppy Appeal Widget](https://warrenwoodhouse.github.io/poppy)
 * [GitHub Commits Feed Generator](https://warrenwoodhouse.github.io/githubcommits): This free to use generator lets you create a custom feed showcasing the latest commits from a given GitHub account.
 * [Al Bhed Translator & Dictionary](https://warrenwoodhouse.github.io/translate/albhed): This free to use translator and dictionary allows you to translate the full language of Al Bhed from the Final Fantasy franchise.
 * [Simlish Translator & Dictionary](https://warrenwoodhouse.github.io/translate/simlish): This free to use translator and dictionary allows you to translate the full language of Simlish from The Sims franchise. This translator is still a work in progress.
