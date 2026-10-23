@@ -22,6 +22,9 @@ I have Autism & ADHD. I enjoy playing on video games, playing on my guitar, play
 ## Repo Sizes
 This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
 
+# Repo Sizes
+This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
+
 <!-- BEGIN REPO SIZES -->
 | Repo | Size |
 | --- | --- |
@@ -29,7 +32,7 @@ This section is automatically refreshed every 12 hours using the GitHub API and 
 | [app](https://github.com/warrenwoodhouse/app) | 3 KB |
 | [applenotes](https://github.com/warrenwoodhouse/applenotes) | 1.55 MB |
 | [appleshortcuts](https://github.com/warrenwoodhouse/appleshortcuts) | 7 KB |
-| [appletouchicons](https://github.com/warrenwoodhouse/appletouchicons) | 291.02 KB |
+| [appletouchicons](https://github.com/warrenwoodhouse/appletouchicons) | 298 KB |
 | [audioplayers](https://github.com/warrenwoodhouse/audioplayers) | 25 KB |
 | [badges](https://github.com/warrenwoodhouse/badges) | 612 KB |
 | [bastille-uprising-game](https://github.com/warrenwoodhouse/bastille-uprising-game) | 1 KB |
@@ -44,7 +47,7 @@ This section is automatically refreshed every 12 hours using the GitHub API and 
 | [community](https://github.com/warrenwoodhouse/community) | 4 KB |
 | [communityblogs](https://github.com/warrenwoodhouse/communityblogs) | 0 KB |
 | [cursors](https://github.com/warrenwoodhouse/cursors) | 9 KB |
-| [dashbrd](https://github.com/warrenwoodhouse/dashbrd) | 13.64 MB |
+| [dashbrd](https://github.com/warrenwoodhouse/dashbrd) | 13.61 MB |
 | [fallout3](https://github.com/warrenwoodhouse/fallout3) | 656 KB |
 | [farcry2](https://github.com/warrenwoodhouse/farcry2) | 7 KB |
 | [favicons](https://github.com/warrenwoodhouse/favicons) | 2.38 MB |
@@ -74,15 +77,15 @@ This section is automatically refreshed every 12 hours using the GitHub API and 
 | [js](https://github.com/warrenwoodhouse/js) | 4 KB |
 | [license](https://github.com/warrenwoodhouse/license) | 4 KB |
 | [logos](https://github.com/warrenwoodhouse/logos) | 1.33 MB |
-| [map](https://github.com/warrenwoodhouse/map) | 20.93 MB |
+| [map](https://github.com/warrenwoodhouse/map) | 20.95 MB |
 | [mapicons](https://github.com/warrenwoodhouse/mapicons) | 8.18 MB |
-| [maps](https://github.com/warrenwoodhouse/maps) | 115.15 MB |
-| [mastodon](https://github.com/warrenwoodhouse/mastodon) | 391.67 MB |
+| [maps](https://github.com/warrenwoodhouse/maps) | 118.97 MB |
+| [mastodon](https://github.com/warrenwoodhouse/mastodon) | 391.87 MB |
 | [minecraft](https://github.com/warrenwoodhouse/minecraft) | 5 KB |
 | [mods](https://github.com/warrenwoodhouse/mods) | 6 KB |
-| [music](https://github.com/warrenwoodhouse/music) | 5.48 MB |
-| [notes](https://github.com/warrenwoodhouse/notes) | 43 KB |
-| [pdfs](https://github.com/warrenwoodhouse/pdfs) | 29.54 MB |
+| [music](https://github.com/warrenwoodhouse/music) | 5.47 MB |
+| [notes](https://github.com/warrenwoodhouse/notes) | 53 KB |
+| [pdfs](https://github.com/warrenwoodhouse/pdfs) | 29.53 MB |
 | [photos](https://github.com/warrenwoodhouse/photos) | 5.54 MB |
 | [piczo](https://github.com/warrenwoodhouse/piczo) | 10 KB |
 | [pingstr](https://github.com/warrenwoodhouse/pingstr) | 17 KB |
@@ -101,21 +104,21 @@ This section is automatically refreshed every 12 hours using the GitHub API and 
 | [simcity3000](https://github.com/warrenwoodhouse/simcity3000) | 5 KB |
 | [site](https://github.com/warrenwoodhouse/site) | 4 KB |
 | [slice](https://github.com/warrenwoodhouse/slice) | 98 KB |
-| [source-sdk-2013](https://github.com/warrenwoodhouse/source-sdk-2013) | 675.15 MB |
+| [source-sdk-2013](https://github.com/warrenwoodhouse/source-sdk-2013) | 674.95 MB |
 | [spreadsheets](https://github.com/warrenwoodhouse/spreadsheets) | 142 KB |
 | [templates](https://github.com/warrenwoodhouse/templates) | 19 KB |
-| [textdocuments](https://github.com/warrenwoodhouse/textdocuments) | 192 KB |
+| [textdocuments](https://github.com/warrenwoodhouse/textdocuments) | 453 KB |
 | [themes](https://github.com/warrenwoodhouse/themes) | 0 KB |
 | [thesims](https://github.com/warrenwoodhouse/thesims) | 11 KB |
 | [thesims4](https://github.com/warrenwoodhouse/thesims4) | 20 KB |
 | [thps4](https://github.com/warrenwoodhouse/thps4) | 6 KB |
 | [translate](https://github.com/warrenwoodhouse/translate) | 111 KB |
 | [tumblrthemes](https://github.com/warrenwoodhouse/tumblrthemes) | 13 KB |
-| [videoinfo](https://github.com/warrenwoodhouse/videoinfo) | 9 KB |
+| [videoinfo](https://github.com/warrenwoodhouse/videoinfo) | 7 KB |
 | [wallpapers](https://github.com/warrenwoodhouse/wallpapers) | 4 KB |
 | [warren](https://github.com/warrenwoodhouse/warren) | 12 KB |
 | [warrencode](https://github.com/warrenwoodhouse/warrencode) | 1 KB |
-| [warrenwoodhouse](https://github.com/warrenwoodhouse/warrenwoodhouse) | 1.84 MB |
+| [warrenwoodhouse](https://github.com/warrenwoodhouse/warrenwoodhouse) | 1.86 MB |
 | [warrenwoodhouse.github.io](https://github.com/warrenwoodhouse/warrenwoodhouse.github.io) | 317 KB |
 | [warrenx](https://github.com/warrenwoodhouse/warrenx) | 8 KB |
 | [widgets](https://github.com/warrenwoodhouse/widgets) | 45 KB |
