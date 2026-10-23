@@ -14,9 +14,115 @@ I have Autism & ADHD. I enjoy playing on video games, playing on my guitar, play
 ![Gütersloh Spring Camp 27th April to 29th April 2001 Badge](https://github.com/warrenwoodhouse/badges/raw/refs/heads/main/badges-scouts-guterslohspringcamp27thaprilto29thapril2001.png)
 ![Intercamp Alsace 2001 Badge](https://github.com/warrenwoodhouse/badges/raw/refs/heads/main/badges-scouts-alsaceintercamp2001.png)
 
-# GitHub Streaks
+# Data
+## GitHub Streaks
 [![GitHub Streak](https://streak-stats.demolab.com?user=warrenwoodhouse&date_format=j%20M%5B%20Y%5D&background=FF000000&border=FF000000&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideNums=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&excludeDaysLabel=FF0000)](https://git.io/streak-stats)
 <sub>Widget made using [GitHub Streak](https://streak-stats.demolab.com/demo/) by [DemoLab](https://www.demolab.com/)</sub>
+
+## Repo Sizes
+This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
+
+<!-- BEGIN REPO SIZES -->
+| Repo | Size |
+| --- | --- |
+| [2016](https://github.com/warrenwoodhouse/2016) | 25 KB |
+| [app](https://github.com/warrenwoodhouse/app) | 3 KB |
+| [applenotes](https://github.com/warrenwoodhouse/applenotes) | 1.55 MB |
+| [appleshortcuts](https://github.com/warrenwoodhouse/appleshortcuts) | 7 KB |
+| [appletouchicons](https://github.com/warrenwoodhouse/appletouchicons) | 291.02 KB |
+| [audioplayers](https://github.com/warrenwoodhouse/audioplayers) | 25 KB |
+| [badges](https://github.com/warrenwoodhouse/badges) | 612 KB |
+| [bastille-uprising-game](https://github.com/warrenwoodhouse/bastille-uprising-game) | 1 KB |
+| [bloggertemplates](https://github.com/warrenwoodhouse/bloggertemplates) | 4.25 MB |
+| [buttons](https://github.com/warrenwoodhouse/buttons) | 2.71 MB |
+| [calculator](https://github.com/warrenwoodhouse/calculator) | 12 KB |
+| [charactersheet](https://github.com/warrenwoodhouse/charactersheet) | 8 KB |
+| [checklist](https://github.com/warrenwoodhouse/checklist) | 17 KB |
+| [cityhotspots](https://github.com/warrenwoodhouse/cityhotspots) | 7 KB |
+| [clocks](https://github.com/warrenwoodhouse/clocks) | 929 KB |
+| [codes](https://github.com/warrenwoodhouse/codes) | 138 KB |
+| [community](https://github.com/warrenwoodhouse/community) | 4 KB |
+| [communityblogs](https://github.com/warrenwoodhouse/communityblogs) | 0 KB |
+| [cursors](https://github.com/warrenwoodhouse/cursors) | 9 KB |
+| [dashbrd](https://github.com/warrenwoodhouse/dashbrd) | 13.64 MB |
+| [fallout3](https://github.com/warrenwoodhouse/fallout3) | 656 KB |
+| [farcry2](https://github.com/warrenwoodhouse/farcry2) | 7 KB |
+| [favicons](https://github.com/warrenwoodhouse/favicons) | 2.38 MB |
+| [feedmaker](https://github.com/warrenwoodhouse/feedmaker) | 262 KB |
+| [feeds](https://github.com/warrenwoodhouse/feeds) | 48 KB |
+| [flags](https://github.com/warrenwoodhouse/flags) | 6.04 MB |
+| [fonts](https://github.com/warrenwoodhouse/fonts) | 182 KB |
+| [footer](https://github.com/warrenwoodhouse/footer) | 11 KB |
+| [forums](https://github.com/warrenwoodhouse/forums) | 5 KB |
+| [gamemaps](https://github.com/warrenwoodhouse/gamemaps) | 5 KB |
+| [games](https://github.com/warrenwoodhouse/games) | 168 KB |
+| [gamesaves](https://github.com/warrenwoodhouse/gamesaves) | 3 KB |
+| [gaming](https://github.com/warrenwoodhouse/gaming) | 101 KB |
+| [gamingtelephonedirectory](https://github.com/warrenwoodhouse/gamingtelephonedirectory) | 637 KB |
+| [gifs](https://github.com/warrenwoodhouse/gifs) | 387 KB |
+| [githubcommits](https://github.com/warrenwoodhouse/githubcommits) | 23 KB |
+| [githubthemes](https://github.com/warrenwoodhouse/githubthemes) | 81 KB |
+| [githubthemes-template](https://github.com/warrenwoodhouse/githubthemes-template) | 94 KB |
+| [googlechromeapps](https://github.com/warrenwoodhouse/googlechromeapps) | 6 KB |
+| [googlechromethemes](https://github.com/warrenwoodhouse/googlechromethemes) | 5 KB |
+| [googleearth](https://github.com/warrenwoodhouse/googleearth) | 4 KB |
+| [groups](https://github.com/warrenwoodhouse/groups) | 4 KB |
+| [gta3](https://github.com/warrenwoodhouse/gta3) | 241 KB |
+| [gta5](https://github.com/warrenwoodhouse/gta5) | 5 KB |
+| [guides](https://github.com/warrenwoodhouse/guides) | 3.13 MB |
+| [index.html](https://github.com/warrenwoodhouse/index.html) | 0 KB |
+| [js](https://github.com/warrenwoodhouse/js) | 4 KB |
+| [license](https://github.com/warrenwoodhouse/license) | 4 KB |
+| [logos](https://github.com/warrenwoodhouse/logos) | 1.33 MB |
+| [map](https://github.com/warrenwoodhouse/map) | 20.93 MB |
+| [mapicons](https://github.com/warrenwoodhouse/mapicons) | 8.18 MB |
+| [maps](https://github.com/warrenwoodhouse/maps) | 115.15 MB |
+| [mastodon](https://github.com/warrenwoodhouse/mastodon) | 391.67 MB |
+| [minecraft](https://github.com/warrenwoodhouse/minecraft) | 5 KB |
+| [mods](https://github.com/warrenwoodhouse/mods) | 6 KB |
+| [music](https://github.com/warrenwoodhouse/music) | 5.48 MB |
+| [notes](https://github.com/warrenwoodhouse/notes) | 43 KB |
+| [pdfs](https://github.com/warrenwoodhouse/pdfs) | 29.54 MB |
+| [photos](https://github.com/warrenwoodhouse/photos) | 5.54 MB |
+| [piczo](https://github.com/warrenwoodhouse/piczo) | 10 KB |
+| [pingstr](https://github.com/warrenwoodhouse/pingstr) | 17 KB |
+| [planetcoaster](https://github.com/warrenwoodhouse/planetcoaster) | 4 KB |
+| [podcast](https://github.com/warrenwoodhouse/podcast) | 3.51 MB |
+| [podcasts](https://github.com/warrenwoodhouse/podcasts) | 4 KB |
+| [polls](https://github.com/warrenwoodhouse/polls) | 19 KB |
+| [poppy](https://github.com/warrenwoodhouse/poppy) | 221 KB |
+| [ps1](https://github.com/warrenwoodhouse/ps1) | 0 KB |
+| [ps2](https://github.com/warrenwoodhouse/ps2) | 0 KB |
+| [ps3](https://github.com/warrenwoodhouse/ps3) | 0 KB |
+| [ps4](https://github.com/warrenwoodhouse/ps4) | 0 KB |
+| [ps5](https://github.com/warrenwoodhouse/ps5) | 0 KB |
+| [sharefactorystickers](https://github.com/warrenwoodhouse/sharefactorystickers) | 68 KB |
+| [sidebar](https://github.com/warrenwoodhouse/sidebar) | 12 KB |
+| [simcity3000](https://github.com/warrenwoodhouse/simcity3000) | 5 KB |
+| [site](https://github.com/warrenwoodhouse/site) | 4 KB |
+| [slice](https://github.com/warrenwoodhouse/slice) | 98 KB |
+| [source-sdk-2013](https://github.com/warrenwoodhouse/source-sdk-2013) | 675.15 MB |
+| [spreadsheets](https://github.com/warrenwoodhouse/spreadsheets) | 142 KB |
+| [templates](https://github.com/warrenwoodhouse/templates) | 19 KB |
+| [textdocuments](https://github.com/warrenwoodhouse/textdocuments) | 192 KB |
+| [themes](https://github.com/warrenwoodhouse/themes) | 0 KB |
+| [thesims](https://github.com/warrenwoodhouse/thesims) | 11 KB |
+| [thesims4](https://github.com/warrenwoodhouse/thesims4) | 20 KB |
+| [thps4](https://github.com/warrenwoodhouse/thps4) | 6 KB |
+| [translate](https://github.com/warrenwoodhouse/translate) | 111 KB |
+| [tumblrthemes](https://github.com/warrenwoodhouse/tumblrthemes) | 13 KB |
+| [videoinfo](https://github.com/warrenwoodhouse/videoinfo) | 9 KB |
+| [wallpapers](https://github.com/warrenwoodhouse/wallpapers) | 4 KB |
+| [warren](https://github.com/warrenwoodhouse/warren) | 12 KB |
+| [warrencode](https://github.com/warrenwoodhouse/warrencode) | 1 KB |
+| [warrenwoodhouse](https://github.com/warrenwoodhouse/warrenwoodhouse) | 1.84 MB |
+| [warrenwoodhouse.github.io](https://github.com/warrenwoodhouse/warrenwoodhouse.github.io) | 317 KB |
+| [warrenx](https://github.com/warrenwoodhouse/warrenx) | 8 KB |
+| [widgets](https://github.com/warrenwoodhouse/widgets) | 45 KB |
+| [wiki](https://github.com/warrenwoodhouse/wiki) | 4 KB |
+| [wordpressthemes](https://github.com/warrenwoodhouse/wordpressthemes) | 4 KB |
+| [zoomvirtualbackdrops](https://github.com/warrenwoodhouse/zoomvirtualbackdrops) | 4 KB |
+<!-- END REPO SIZES -->
 
 # Creations
 Things I’ve created over the years. You’ll also find external links here that link to pages where my contents are stored on other services, such as that of The Sims 4 Gallery, for instance.
