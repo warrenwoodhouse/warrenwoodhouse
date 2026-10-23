@@ -1,0 +1,101 @@
+name: Update repo sizes
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Refresh Repo Sizes section
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 - <<'PY'
+          import json
+          import os
+          import re
+          import urllib.request
+
+          owner = "warrenwoodhouse"
+          token = os.environ["GH_TOKEN"]
+          headers = {
+              "Authorization": f"token {token}",
+              "Accept": "application/vnd.github+json",
+              "User-Agent": "repo-sizes-bot",
+          }
+
+          repos = []
+          page = 1
+          while True:
+              req = urllib.request.Request(
+                  f"https://api.github.com/users/{owner}/repos?per_page=100&page={page}",
+                  headers=headers,
+              )
+              with urllib.request.urlopen(req, timeout=30) as resp:
+                  data = json.load(resp)
+              if not data:
+                  break
+              repos.extend(item for item in data if not item.get("private"))
+              page += 1
+
+          repos = sorted(repos, key=lambda r: r["name"].lower())
+
+          lines = [
+              "# Repo Sizes",
+              "This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.",
+              "",
+              "<!-- BEGIN REPO SIZES -->",
+              "| Repo | Size |",
+              "| --- | --- |",
+          ]
+
+          for repo in repos:
+              size_kb = repo["size"]
+              if size_kb < 1024:
+                  size_text = f"{size_kb} KB"
+              else:
+                  size_text = f"{size_kb / 1024:.2f} MB"
+              lines.append(f"| [{repo['name']}]({repo['html_url']}) | {size_text} |")
+          lines.append("<!-- END REPO SIZES -->")
+
+          section = "\n".join(lines)
+
+          with open("README.md", "r", encoding="utf-8") as f:
+              readme = f.read()
+
+          pattern = r"<!-- BEGIN REPO SIZES -->.*?<!-- END REPO SIZES -->"
+          new_readme = re.sub(pattern, section, readme, flags=re.S)
+
+          if new_readme == readme:
+              # If the inject marker is missing, append the section before the ZIP Files heading
+              anchor = "# ZIP Files"
+              if anchor not in readme:
+                  raise SystemExit("README does not contain the ZIP Files section anchor.")
+              new_readme = readme.replace(anchor, f"{section}\n\n{anchor}", 1)
+
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(new_readme)
+          PY
+
+      - name: Commit and push updates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "No README changes to commit."
+            exit 0
+          fi
+          git commit -m "Update repo sizes in README"
+          git push origin HEAD:${GITHUB_REF_NAME:-master}
