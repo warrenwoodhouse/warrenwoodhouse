@@ -22,42 +22,6 @@ I have Autism & ADHD. I enjoy playing on video games, playing on my guitar, play
 ## Repo Sizes
 This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
 
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
 <!-- BEGIN REPO SIZES -->
 | Repo | Size |
 | --- | --- |
@@ -163,8 +127,8 @@ This section is automatically refreshed every 12 hours using the GitHub API and 
 # Creations
 Things I’ve created over the years. You’ll also find external links here that link to pages where my contents are stored on other services, such as that of The Sims 4 Gallery, for instance.
 
-* [Warren Maps](https://warrenwoodhouse.github.io/maps)
-* [Poppy Appeal Widget](https://warrenwoodhouse.github.io/poppy)
+* [Warren Maps](https://warrenwoodhouse.github.io/maps): Custom made interactive and static maps, you’ll also find a Maps Wiki here, Map Editors for Leaflet and MediaWiki as well as Map Icons as well. My Google MyMaps maps have been converted into Leaflet maps and migrated to here.
+* [Poppy Appeal Widget](https://warrenwoodhouse.github.io/poppy): Lets you add a Poppy to your website or blog for showing your support for the Poppy Appeal campaign, veterans of the armed services and their families of the British Royal Legion. This widget activates automatically annually between the 21st October and the 12th November, in line with Remembrance Week.
 * [GitHub Commits Feed Generator](https://warrenwoodhouse.github.io/githubcommits): This free to use generator lets you create a custom feed showcasing the latest commits from a given GitHub account.
 * [Al Bhed Translator & Dictionary](https://warrenwoodhouse.github.io/translate/albhed): This free to use translator and dictionary allows you to translate the full language of Al Bhed from the Final Fantasy franchise.
 * [Simlish Translator & Dictionary](https://warrenwoodhouse.github.io/translate/simlish): This free to use translator and dictionary allows you to translate the full language of Simlish from The Sims franchise. This translator is still a work in progress.
