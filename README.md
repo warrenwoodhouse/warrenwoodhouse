@@ -27,6 +27,9 @@ I have Autism & ADHD. I enjoy playing on video games, playing on my guitar, play
 ## Repo Sizes
 This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
 
+# Repo Sizes
+This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
+
 <!-- BEGIN REPO SIZES -->
 | Repo | Size |
 | --- | --- |
@@ -81,7 +84,7 @@ This section is automatically refreshed every 12 hours using the GitHub API and 
 | [logos](https://github.com/warrenwoodhouse/logos) | 1.33 MB |
 | [map](https://github.com/warrenwoodhouse/map) | 20.95 MB |
 | [mapicons](https://github.com/warrenwoodhouse/mapicons) | 8.18 MB |
-| [maps](https://github.com/warrenwoodhouse/maps) | 133.86 MB |
+| [maps](https://github.com/warrenwoodhouse/maps) | 133.96 MB |
 | [mastodon](https://github.com/warrenwoodhouse/mastodon) | 391.87 MB |
 | [minecraft](https://github.com/warrenwoodhouse/minecraft) | 5 KB |
 | [mods](https://github.com/warrenwoodhouse/mods) | 6 KB |
@@ -95,7 +98,7 @@ This section is automatically refreshed every 12 hours using the GitHub API and 
 | [podcast](https://github.com/warrenwoodhouse/podcast) | 3.51 MB |
 | [podcasts](https://github.com/warrenwoodhouse/podcasts) | 4 KB |
 | [polls](https://github.com/warrenwoodhouse/polls) | 19 KB |
-| [poppy](https://github.com/warrenwoodhouse/poppy) | 221 KB |
+| [poppy](https://github.com/warrenwoodhouse/poppy) | 223 KB |
 | [ps1](https://github.com/warrenwoodhouse/ps1) | 0 KB |
 | [ps2](https://github.com/warrenwoodhouse/ps2) | 0 KB |
 | [ps3](https://github.com/warrenwoodhouse/ps3) | 0 KB |
@@ -120,7 +123,7 @@ This section is automatically refreshed every 12 hours using the GitHub API and 
 | [wallpapers](https://github.com/warrenwoodhouse/wallpapers) | 4 KB |
 | [warren](https://github.com/warrenwoodhouse/warren) | 12 KB |
 | [warrencode](https://github.com/warrenwoodhouse/warrencode) | 1 KB |
-| [warrenwoodhouse](https://github.com/warrenwoodhouse/warrenwoodhouse) | 1.91 MB |
+| [warrenwoodhouse](https://github.com/warrenwoodhouse/warrenwoodhouse) | 1.95 MB |
 | [warrenwoodhouse.github.io](https://github.com/warrenwoodhouse/warrenwoodhouse.github.io) | 317 KB |
 | [warrenx](https://github.com/warrenwoodhouse/warrenx) | 8 KB |
 | [widgets](https://github.com/warrenwoodhouse/widgets) | 45 KB |
