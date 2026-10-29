@@ -6,8 +6,13 @@ Hello! My name is Warren Woodhouse and welcome to my GitHub profile. I'm a Gamer
 # About
 I have Autism & ADHD. I enjoy playing on video games, playing on my guitar, playing on my piano, watching films, reading books & taking photos.
 
-# Personal Achievements
-## Scout Badges
+## Supporting
+### Poppy Appeal
+[![Poppy Widget](https://raw.githubusercontent.com/warrenwoodhouse/poppy/refs/heads/main/button.png)](https://www.britishlegion.org.uk/get-involved/fundraise-for-us/poppy-appeal)<sub>Click on the Poppy to learn more about the Poppy Appeal and the Royal British Legion!</sub><br>
+<sub>Widget By: [T-Codes](https://warrenwoodhouse.blogspot.com/codes) on [Warren Woodhouse](https://warrenwoodhouse.blogspot.com/)</sub>
+
+## Personal Achievements
+### Scout Badges
 ![Scout Badge](https://github.com/warrenwoodhouse/badges/raw/refs/heads/main/badges-scouts-scoutbadge.png)
 ![1st Gütersloh Scout Group Christmas Funday 2000 Badge](https://github.com/warrenwoodhouse/badges/raw/refs/heads/main/badges-scouts-1stguterslohscoutgroupchristmasfunday2000.png)
 ![Jamboree on the Trail 4th Annual 2001 Badge](https://github.com/warrenwoodhouse/badges/raw/refs/heads/main/badges-scouts-jamboreeonthetrail4thannual2001.png)
