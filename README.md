@@ -1,5 +1,7 @@
 # warrenwoodhouse
-Hello! My name is Warren Woodhouse and welcome to my GitHub profile. I'm a Gamer and a poultry farmer with a penchant for 70s music and maps. For more information about me please [CLICK HERE](https://warrenwoodhouse.blogspot.com/p/about.html).
+Hello! My name is Warren Woodhouse and welcome to my GitHub profile. I'm a Gamer and a poultry farmer with a penchant for 70s music and maps. For more information about me please [CLICK HERE](https://warrenwoodhouse.github.io/).
+
+Check out my other Profile Page by [CLICKING HERE](https://warrenwoodhouse.blogspot.com/p/profile.html).
 
 [CLICK HERE](https://github.com/warrenwoodhouse/warrenwoodhouse/blob/master/RELEASE-NOTES.md) to read the Release Notes/Changelog for my GitHub.
 
