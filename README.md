@@ -135,6 +135,9 @@ This section is automatically refreshed every 12 hours using the [GitHub Actions
 Things I’ve created over the years. You’ll also find external links here that link to pages where my contents are stored on other services, such as that of The Sims 4 Gallery, for instance.
 
 * [Warren Maps](https://warrenwoodhouse.github.io/maps): Custom made interactive and static maps, you’ll also find a Maps Wiki here, Map Editors for Leaflet and MediaWiki as well as Map Icons as well. My Google MyMaps maps have been converted into Leaflet maps and migrated to here.
+* [T-Codes (formerly: The-Music-Codes, Piczo Zone and Piczo Pros)](https://warrenwoodhouse.blogspot.com/codes): Tutorials, How Tos and created content to help build your websites and blogs from the ground up. This website features an extensive collection of codes by me and ones I’ve acquired 20 years ago. You’ll also find widgets, plugins, web designs and more. Check it out! Also includes my archive of WidgetBox widgets which have all been converted for modern uses.
+* [Warren Game Guides](https://warrenwoodhouse.blogspot.com/gameguides): Check out my entire library of Game Guides that I’ve written over the years.
+* > [GTA V Guide: Markdown Version](https://warrenwoodhouse.github.io/guides/gtav): Hosted on GitHub. My entire original Notepad document converted into a Markdown file for easy reading. This guide features everything you need to earn the platinum trophy including a detailed guide for GTA Online for both the Xbox 360 edition and PS3 edition of the game. This guide has over 20,000 words and a custom made ASCII design of the GTA V logo in the header!
 * [Poppy Appeal Widget](https://warrenwoodhouse.github.io/poppy): Lets you add a Poppy to your website or blog for showing your support for the Poppy Appeal campaign, veterans of the armed services and their families of the British Royal Legion. This widget activates automatically annually between the 21st October and the 12th November, in line with Remembrance Week.
 * [GitHub Commits Feed Generator](https://warrenwoodhouse.github.io/githubcommits): This free to use generator lets you create a custom feed showcasing the latest commits from a given GitHub account.
 * [Al Bhed Translator & Dictionary](https://warrenwoodhouse.github.io/translate/albhed): This free to use translator and dictionary allows you to translate the full language of Al Bhed from the Final Fantasy franchise.
@@ -147,7 +150,7 @@ Things I’ve created over the years. You’ll also find external links here tha
 * [#FIAJ Fart in a Jar](https://warrenwoodhouse.github.io/games/fartinajar): Tap a jar to make it stink and smell toxic.
 * [Advanced Draughts (Checkers)](https://warrenwoodhouse.github.io/games/draughts): Play an advanced version of Draughts (Checkers) against an AI opponent or against another player via a local session.
 * [Simplified Caravan](https://warrenwoodhouse.github.io/games/simplifiedcaravan): Play a simplified version of Caravan, the infamous card game from Fallout: New Vegas.
-* [Twisty Cube](https://warrenwoodhouse.github.io/games/twistycube): Play an interactive version of the infamous Rubik’s Cube.
+* [Twisty Cube](https://warrenwoodhouse.github.io/games/twistycube): Play an interactive version of the infamous Rubik’s Cube. Work in progress.
 * [Pong](https://warrenwoodhouse.github.io/games/pong): Play a simple and advanced version of Pong, complete with mobile functionality, reset match button, difficulty modes and more.
 * [MapThis!](https://warrenwoodhouse.github.io/maps/editor): A free to use map editor.
 * [MapThis! for MediaWiki](https://warrenwoodhouse.github.io/maps/editor/wiki): A free to use map editor for MediaWiki sites.
@@ -155,22 +158,22 @@ Things I’ve created over the years. You’ll also find external links here tha
 * [WarrenX](https://github.com/warrenwoodhouse/warrenx) (currently in development): WarrenX is a free, safe, secure and reliable easy to use web browser that supports private browsing, robust loading times and flexible features.
 * [PiNgStR](https://github.com/warrenwoodhouse/pingstr): PiNgStR is a website loading tool that makes your website load faster.
 * [FeedMaker](https://warrenwoodhouse.github.io/feedmaker): Create feeds from posts from websites that have no generated feed files.
-* [SliceMaker](https://warrenwoodhouse.github.io/slice): Create web slices for features or recent posts.
+* [SliceMaker](https://warrenwoodhouse.github.io/slice): Create web slices for features or recent posts. Template repository.
 * [Blogger Templates](https://warrenwoodhouse.github.io/bloggertemplates): Custom made web designs for your blogs on Blogger.
 * [WordPress Themes](https://warrenwoodhouse.github.io/wordpressthemes): Custom made web designs for your blogs on WordPress.
 * [Tumblr Themes](https://warrenwoodhouse.github.io/tumblrthemes): Custom made web designs for your blogs on Tumblr.
-* Facebook Covers
-* Twitter / X Covers
-* YouTube Channel Arts
+* Facebook Covers (coming soon)
+* Twitter / X Covers (coming soon)
+* YouTube Channel Arts (coming soon)
 * [Piczo Layouts](https://warrenwoodhouse.blogspot.com/search/label/piczolayouts): Custom made web designs for your own websites on Piczo (defunct).
 * [Bebo Skins](https://warrenwoodhouse.blogspot.com/2008/05/beboskins.html#:~:text=Skins): Custom made profile web designs for your own profiles on Bebo (defunct).
 * [Bebo Mail Skins](https://warrenwoodhouse.blogspot.com/2008/05/beboskins.html#:~:text=Mail%20Skins): Custom made personal designs for your own Bebo Mail on Bebo (defunct).
 * [Google Mail Themes](https://warrenwoodhouse.blogspot.com/search/label/gmailthemes): Custom made personal designs for your own Google Mail.
 * [GitHub Pages Themes](https://github.com/warrenwoodhouse/githubthemes): Custom made web designs for your own Pages on GitHub.
 * [Zoom Virtual Backdrops](https://github.com/warrenwoodhouse/zoomvirtualbackdrops/releases/tag/v1): A library of virtual backdrops for use on Zoom.
-* Xbox 360 Wallpapers
-* Nintendo Wii Photos Channel Wallpapers
-* MySpace Layouts
+* Xbox 360 Wallpapers (coming soon)
+* Nintendo Wii Photos Channel Wallpapers (coming soon)
+* MySpace Layouts (coming soon)
 * [PDFs](https://github.com/warrenwoodhouse/pdfs): A large library of PDF Files scanned and archived by Warren Woodhouse.
 * [Gaming Telephone Directory](https://warrenwoodhouse.github.io/gamingtelephonedirectory): View a collection of telephone numbers, contact details, addresses and more from tons of video games.
 * [Hexadecimal Colour Chart](https://warrenwoodhouse.github.io/codes/colourchart): A full list of colours along with their Hexadecimal hash code and other various details.
@@ -179,13 +182,12 @@ Things I’ve created over the years. You’ll also find external links here tha
 * [80s Cassette Player Widget](https://github.com/warrenwoodhouse/warrenwoodhouse/blob/master/bloggergadgets-cassetteplayer.md): A widget for Blogger and other websites that lets you listen to 70s and 80s music using an 80s inspired Cassette Player.
 * [Tesco Price Checker Widget](https://github.com/warrenwoodhouse/warrenwoodhouse/blob/master/bloggergadgets-tescopricechecker.md): A widget for Blogger and other websites that lets you check the lowest prices at Tesco here in the United Kingdom.
 * [Piczo About Me Widget](https://github.com/warrenwoodhouse/warrenwoodhouse/blob/master/bloggergadgets-piczoaboutme.md): A widget for Blogger and other websites that lets you show your friends, fans and followers your interests and other tidbits.
-* [Interactive & Static Maps](https://warrenwoodhouse.github.io/maps): Custom made interactive maps and static maps created by Warren Woodhouse.
 * [Games](https://warrenwoodhouse.github.io/games): Video Games by Warren Woodhouse Games, GotGames Interactive, AeP Games and 798 Game Studios, which are all part of the Warren Woodhouse group.
 * [Favicons](https://github.com/warrenwoodhouse/favicons): Custom made favicons and animated favicons for use on your own websites and blogs.
 * [Cursors](https://github.com/warrenwoodhouse/cursors): Custom made cursors and animated cursors for use on your own websites and blogs.
-* [Autosave Checklist](https://github.com/warrenwoodhouse/checklist): A checklist that saves automatically via your phone or browser, allowing you to pick up where you left off even after closing the tab down on your browser. Can be added to your own websites and blogs.
-* [LARP and Game Board Character Sheet](https://github.com/warrenwoodhouse/charactersheet): A basic character sheet for LARPers and Game Board games using a spreadsheet format.
-* [Sidebar](https://github.com/warrenwoodhouse/sidebar): A custom made sidebar created using HTML.
+* [Autosave Checklist](https://github.com/warrenwoodhouse/checklist): A checklist that saves automatically via your phone or browser, allowing you to pick up where you left off even after closing the tab down on your browser. Can be added to your own websites and blogs. Template repository.
+* [LARP and Game Board Character Sheet](https://github.com/warrenwoodhouse/charactersheet): A basic character sheet for LARPers and Game Board games using a spreadsheet format. Template repository.
+* [Sidebar](https://github.com/warrenwoodhouse/sidebar): A custom made sidebar created using HTML. Template repository.
 * [Fonts](https://github.com/warrenwoodhouse/fonts): Famous fonts and other fonts all of which are created by Warren Woodhouse Fonts, Ænigmate Productions, Bajo la Luna Producciones, -BRK- Fonts, Norfolk Fonts and Disney Fonts that are all part of the Warren Woodhouse group.
 * [Flags](https://github.com/warrenwoodhouse/flags): Custom made flag designs by Warren Woodhouse.
 * [Buttons](https://github.com/warrenwoodhouse/buttons): Custom made buttons by Warren Woodhouse.
