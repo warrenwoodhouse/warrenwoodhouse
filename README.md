@@ -24,14 +24,8 @@ I have Autism & ADHD. I enjoy playing on video games, playing on my guitar, play
 [![GitHub Streak](https://streak-stats.demolab.com?user=warrenwoodhouse&date_format=j%20M%5B%20Y%5D&background=FF000000&border=FF000000&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideNums=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&excludeDaysLabel=FF0000)](https://git.io/streak-stats)
 <sub>Widget made using [GitHub Streak](https://streak-stats.demolab.com/demo/) by [DemoLab](https://www.demolab.com/)</sub>
 
-## Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
 # Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
+This section is automatically refreshed every 12 hours using the [GitHub Actions (Bot)](@github-actions[bot]) and shows the current size of every public repository I own.
 
 <!-- BEGIN REPO SIZES -->
 | Repo | Size |
