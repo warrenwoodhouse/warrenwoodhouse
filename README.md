@@ -25,7 +25,7 @@ I have Autism & ADHD. I enjoy playing on video games, playing on my guitar, play
 <sub>Widget made using [GitHub Streak](https://streak-stats.demolab.com/demo/) by [DemoLab](https://www.demolab.com/)</sub>
 
 # Repo Sizes
-This section is automatically refreshed every 12 hours using the [GitHub Actions (Bot)](@github-actions[bot]) and shows the current size of every public repository I own.
+This section is automatically refreshed every 12 hours using the [GitHub Actions (Bot)](https://github.com/actions) and shows the current size of every public repository I own.
 
 <!-- BEGIN REPO SIZES -->
 | Repo | Size |
