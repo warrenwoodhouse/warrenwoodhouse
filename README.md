@@ -37,6 +37,9 @@ This section is automatically refreshed every 12 hours using the [GitHub Actions
 # Repo Sizes
 This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
 
+# Repo Sizes
+This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
+
 <!-- BEGIN REPO SIZES -->
 | Repo | Size |
 | --- | --- |
@@ -84,6 +87,7 @@ This section is automatically refreshed every 12 hours using the GitHub API and 
 | [groups](https://github.com/warrenwoodhouse/groups) | 4 KB |
 | [gta3](https://github.com/warrenwoodhouse/gta3) | 241 KB |
 | [gta5](https://github.com/warrenwoodhouse/gta5) | 5 KB |
+| [gtav](https://github.com/warrenwoodhouse/gtav) | 363 KB |
 | [guides](https://github.com/warrenwoodhouse/guides) | 3.13 MB |
 | [index.html](https://github.com/warrenwoodhouse/index.html) | 0 KB |
 | [js](https://github.com/warrenwoodhouse/js) | 4 KB |
