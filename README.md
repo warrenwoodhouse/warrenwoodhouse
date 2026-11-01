@@ -43,6 +43,9 @@ This section is automatically refreshed every 12 hours using the GitHub API and 
 # Repo Sizes
 This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
 
+# Repo Sizes
+This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
+
 <!-- BEGIN REPO SIZES -->
 | Repo | Size |
 | --- | --- |
@@ -66,6 +69,7 @@ This section is automatically refreshed every 12 hours using the GitHub API and 
 | [communityblogs](https://github.com/warrenwoodhouse/communityblogs) | 0 KB |
 | [cursors](https://github.com/warrenwoodhouse/cursors) | 9 KB |
 | [dashbrd](https://github.com/warrenwoodhouse/dashbrd) | 13.61 MB |
+| [effectivepancake](https://github.com/warrenwoodhouse/effectivepancake) | 2 KB |
 | [fallout3](https://github.com/warrenwoodhouse/fallout3) | 656 KB |
 | [farcry2](https://github.com/warrenwoodhouse/farcry2) | 7 KB |
 | [favicons](https://github.com/warrenwoodhouse/favicons) | 2.38 MB |
@@ -84,6 +88,7 @@ This section is automatically refreshed every 12 hours using the GitHub API and 
 | [githubcommits](https://github.com/warrenwoodhouse/githubcommits) | 23 KB |
 | [githubthemes](https://github.com/warrenwoodhouse/githubthemes) | 81 KB |
 | [githubthemes-template](https://github.com/warrenwoodhouse/githubthemes-template) | 94 KB |
+| [gloriousspaceumbrella](https://github.com/warrenwoodhouse/gloriousspaceumbrella) | 2 KB |
 | [googlechromeapps](https://github.com/warrenwoodhouse/googlechromeapps) | 6 KB |
 | [googlechromethemes](https://github.com/warrenwoodhouse/googlechromethemes) | 5 KB |
 | [googleearth](https://github.com/warrenwoodhouse/googleearth) | 4 KB |
@@ -137,10 +142,10 @@ This section is automatically refreshed every 12 hours using the GitHub API and 
 | [wallpapers](https://github.com/warrenwoodhouse/wallpapers) | 4 KB |
 | [warren](https://github.com/warrenwoodhouse/warren) | 12 KB |
 | [warrencode](https://github.com/warrenwoodhouse/warrencode) | 1 KB |
-| [warrenwoodhouse](https://github.com/warrenwoodhouse/warrenwoodhouse) | 2.04 MB |
+| [warrenwoodhouse](https://github.com/warrenwoodhouse/warrenwoodhouse) | 1.67 MB |
 | [warrenwoodhouse.github.io](https://github.com/warrenwoodhouse/warrenwoodhouse.github.io) | 317 KB |
 | [warrenx](https://github.com/warrenwoodhouse/warrenx) | 8 KB |
-| [widgets](https://github.com/warrenwoodhouse/widgets) | 45 KB |
+| [widgets](https://github.com/warrenwoodhouse/widgets) | 46 KB |
 | [wiki](https://github.com/warrenwoodhouse/wiki) | 4 KB |
 | [wordpressthemes](https://github.com/warrenwoodhouse/wordpressthemes) | 4 KB |
 | [zoomvirtualbackdrops](https://github.com/warrenwoodhouse/zoomvirtualbackdrops) | 4 KB |
