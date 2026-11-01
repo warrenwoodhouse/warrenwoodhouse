@@ -34,18 +34,6 @@ I have Autism & ADHD. I enjoy playing on video games, playing on my guitar, play
 # Repo Sizes
 This section is automatically refreshed every 12 hours using the [GitHub Actions (Bot)](https://github.com/actions) and shows the current size of every public repository I own.
 
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
 <!-- BEGIN REPO SIZES -->
 | Repo | Size |
 | --- | --- |
@@ -155,6 +143,7 @@ This section is automatically refreshed every 12 hours using the GitHub API and 
 Things I’ve created over the years. You’ll also find external links here that link to pages where my contents are stored on other services, such as that of The Sims 4 Gallery, for instance.
 
 * [Warren Maps](https://warrenwoodhouse.github.io/maps): Custom made interactive and static maps, you’ll also find a Maps Wiki here, Map Editors for Leaflet and MediaWiki as well as Map Icons as well. My Google MyMaps maps have been converted into Leaflet maps and migrated to here.
+* [Amazon Silk Plugin for Leaflet](https://warrenwoodhouse.github.io/maps/plugins/amazonsilk): A free to use plugin for Leaflet, tailored to CRS.Simple maps however I’ll create an update soon so that it works for other map layouts. Maps will now work on the Amazon Silk browser on Fire TV with ease.
 * [T-Codes (formerly: The-Music-Codes, Piczo Zone and Piczo Pros)](https://warrenwoodhouse.blogspot.com/codes): Tutorials, How Tos and created content to help build your websites and blogs from the ground up. This website features an extensive collection of codes by me and ones I’ve acquired 20 years ago. You’ll also find widgets, plugins, web designs and more. Check it out! Also includes my archive of WidgetBox widgets which have all been converted for modern uses.
 * [Warren Game Guides](https://warrenwoodhouse.blogspot.com/gameguides): Check out my entire library of Game Guides that I’ve written over the years.
 * > [GTA V Guide: Markdown Version](https://warrenwoodhouse.github.io/guides/gtav): Hosted on GitHub. My entire original Notepad document converted into a Markdown file for easy reading. This guide features everything you need to earn the platinum trophy including a detailed guide for GTA Online for both the Xbox 360 edition and PS3 edition of the game. This guide has over 20,000 words and a custom made ASCII design of the GTA V logo in the header!
