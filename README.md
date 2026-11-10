@@ -79,10 +79,14 @@ This section is automatically refreshed every 12 hours using the GitHub API and 
 # Repo Sizes
 This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
 
+# Repo Sizes
+This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
+
 <!-- BEGIN REPO SIZES -->
 | Repo | Size |
 | --- | --- |
 | [2016](https://github.com/warrenwoodhouse/2016) | 25 KB |
+| [amazonsilkforleaflet](https://github.com/warrenwoodhouse/amazonsilkforleaflet) | 23 KB |
 | [app](https://github.com/warrenwoodhouse/app) | 3 KB |
 | [applenotes](https://github.com/warrenwoodhouse/applenotes) | 1.55 MB |
 | [appleshortcuts](https://github.com/warrenwoodhouse/appleshortcuts) | 7 KB |
@@ -176,7 +180,7 @@ This section is automatically refreshed every 12 hours using the GitHub API and 
 | [warren](https://github.com/warrenwoodhouse/warren) | 12 KB |
 | [warrencode](https://github.com/warrenwoodhouse/warrencode) | 1 KB |
 | [warrenwoodhouse](https://github.com/warrenwoodhouse/warrenwoodhouse) | 1.79 MB |
-| [warrenwoodhouse.github.io](https://github.com/warrenwoodhouse/warrenwoodhouse.github.io) | 317 KB |
+| [warrenwoodhouse.github.io](https://github.com/warrenwoodhouse/warrenwoodhouse.github.io) | 321 KB |
 | [warrenx](https://github.com/warrenwoodhouse/warrenx) | 8 KB |
 | [widgets](https://github.com/warrenwoodhouse/widgets) | 46 KB |
 | [wiki](https://github.com/warrenwoodhouse/wiki) | 4 KB |
