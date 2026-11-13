@@ -100,6 +100,9 @@ This section is automatically refreshed every 12 hours using the GitHub API and 
 # Repo Sizes
 This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
 
+# Repo Sizes
+This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
+
 <!-- BEGIN REPO SIZES -->
 | Repo | Size |
 | --- | --- |
@@ -197,7 +200,7 @@ This section is automatically refreshed every 12 hours using the GitHub API and 
 | [wallpapers](https://github.com/warrenwoodhouse/wallpapers) | 4 KB |
 | [warren](https://github.com/warrenwoodhouse/warren) | 12 KB |
 | [warrencode](https://github.com/warrenwoodhouse/warrencode) | 1 KB |
-| [warrenwoodhouse](https://github.com/warrenwoodhouse/warrenwoodhouse) | 1.83 MB |
+| [warrenwoodhouse](https://github.com/warrenwoodhouse/warrenwoodhouse) | 1.84 MB |
 | [warrenwoodhouse.github.io](https://github.com/warrenwoodhouse/warrenwoodhouse.github.io) | 321 KB |
 | [warrenx](https://github.com/warrenwoodhouse/warrenx) | 8 KB |
 | [widgets](https://github.com/warrenwoodhouse/widgets) | 46 KB |
