@@ -118,6 +118,9 @@ This section is automatically refreshed every 12 hours using the GitHub API and 
 # Repo Sizes
 This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
 
+# Repo Sizes
+This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
+
 <!-- BEGIN REPO SIZES -->
 | Repo | Size |
 | --- | --- |
@@ -139,14 +142,17 @@ This section is automatically refreshed every 12 hours using the GitHub API and 
 | [cityhotspots](https://github.com/warrenwoodhouse/cityhotspots) | 7 KB |
 | [clocks](https://github.com/warrenwoodhouse/clocks) | 929 KB |
 | [codes](https://github.com/warrenwoodhouse/codes) | 138 KB |
+| [colourchart](https://github.com/warrenwoodhouse/colourchart) | 14 KB |
 | [community](https://github.com/warrenwoodhouse/community) | 4 KB |
 | [communityblogs](https://github.com/warrenwoodhouse/communityblogs) | 0 KB |
+| [contact](https://github.com/warrenwoodhouse/contact) | 3 KB |
 | [cursors](https://github.com/warrenwoodhouse/cursors) | 9 KB |
 | [dashbrd](https://github.com/warrenwoodhouse/dashbrd) | 13.61 MB |
 | [effectivepancake](https://github.com/warrenwoodhouse/effectivepancake) | 2 KB |
 | [fallout3](https://github.com/warrenwoodhouse/fallout3) | 656 KB |
 | [farcry2](https://github.com/warrenwoodhouse/farcry2) | 7 KB |
 | [favicons](https://github.com/warrenwoodhouse/favicons) | 2.38 MB |
+| [feedback](https://github.com/warrenwoodhouse/feedback) | 3 KB |
 | [feedmaker](https://github.com/warrenwoodhouse/feedmaker) | 262 KB |
 | [feeds](https://github.com/warrenwoodhouse/feeds) | 48 KB |
 | [flags](https://github.com/warrenwoodhouse/flags) | 6.04 MB |
@@ -198,6 +204,7 @@ This section is automatically refreshed every 12 hours using the GitHub API and 
 | [ps4](https://github.com/warrenwoodhouse/ps4) | 0 KB |
 | [ps5](https://github.com/warrenwoodhouse/ps5) | 0 KB |
 | [sharefactorystickers](https://github.com/warrenwoodhouse/sharefactorystickers) | 68 KB |
+| [shields](https://github.com/warrenwoodhouse/shields) | 52 KB |
 | [sidebar](https://github.com/warrenwoodhouse/sidebar) | 12 KB |
 | [simcity3000](https://github.com/warrenwoodhouse/simcity3000) | 5 KB |
 | [site](https://github.com/warrenwoodhouse/site) | 4 KB |
@@ -217,8 +224,8 @@ This section is automatically refreshed every 12 hours using the GitHub API and 
 | [wallpapers](https://github.com/warrenwoodhouse/wallpapers) | 4 KB |
 | [warren](https://github.com/warrenwoodhouse/warren) | 12 KB |
 | [warrencode](https://github.com/warrenwoodhouse/warrencode) | 1 KB |
-| [warrenwoodhouse](https://github.com/warrenwoodhouse/warrenwoodhouse) | 1.86 MB |
-| [warrenwoodhouse.github.io](https://github.com/warrenwoodhouse/warrenwoodhouse.github.io) | 363 KB |
+| [warrenwoodhouse](https://github.com/warrenwoodhouse/warrenwoodhouse) | 1.88 MB |
+| [warrenwoodhouse.github.io](https://github.com/warrenwoodhouse/warrenwoodhouse.github.io) | 405 KB |
 | [warrenx](https://github.com/warrenwoodhouse/warrenx) | 8 KB |
 | [widgets](https://github.com/warrenwoodhouse/widgets) | 46 KB |
 | [wiki](https://github.com/warrenwoodhouse/wiki) | 4 KB |
