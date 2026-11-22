@@ -154,6 +154,9 @@ This section is automatically refreshed every 12 hours using the GitHub API and 
 # Repo Sizes
 This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
 
+# Repo Sizes
+This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
+
 <!-- BEGIN REPO SIZES -->
 | Repo | Size |
 | --- | --- |
@@ -178,7 +181,7 @@ This section is automatically refreshed every 12 hours using the GitHub API and 
 | [colourchart](https://github.com/warrenwoodhouse/colourchart) | 14 KB |
 | [community](https://github.com/warrenwoodhouse/community) | 4 KB |
 | [communityblogs](https://github.com/warrenwoodhouse/communityblogs) | 0 KB |
-| [contact](https://github.com/warrenwoodhouse/contact) | 3 KB |
+| [contact](https://github.com/warrenwoodhouse/contact) | 24 KB |
 | [cursors](https://github.com/warrenwoodhouse/cursors) | 9 KB |
 | [dashbrd](https://github.com/warrenwoodhouse/dashbrd) | 13.61 MB |
 | [effectivepancake](https://github.com/warrenwoodhouse/effectivepancake) | 2 KB |
@@ -212,11 +215,11 @@ This section is automatically refreshed every 12 hours using the GitHub API and 
 | [guides](https://github.com/warrenwoodhouse/guides) | 3.13 MB |
 | [index.html](https://github.com/warrenwoodhouse/index.html) | 0 KB |
 | [js](https://github.com/warrenwoodhouse/js) | 4 KB |
-| [license](https://github.com/warrenwoodhouse/license) | 4 KB |
+| [license](https://github.com/warrenwoodhouse/license) | 6 KB |
 | [logos](https://github.com/warrenwoodhouse/logos) | 1.33 MB |
 | [map](https://github.com/warrenwoodhouse/map) | 20.95 MB |
 | [mapicons](https://github.com/warrenwoodhouse/mapicons) | 8.18 MB |
-| [maps](https://github.com/warrenwoodhouse/maps) | 148.68 MB |
+| [maps](https://github.com/warrenwoodhouse/maps) | 149.06 MB |
 | [mastodon](https://github.com/warrenwoodhouse/mastodon) | 391.87 MB |
 | [minecraft](https://github.com/warrenwoodhouse/minecraft) | 5 KB |
 | [mods](https://github.com/warrenwoodhouse/mods) | 6 KB |
@@ -257,7 +260,7 @@ This section is automatically refreshed every 12 hours using the GitHub API and 
 | [wallpapers](https://github.com/warrenwoodhouse/wallpapers) | 4 KB |
 | [warren](https://github.com/warrenwoodhouse/warren) | 12 KB |
 | [warrencode](https://github.com/warrenwoodhouse/warrencode) | 1 KB |
-| [warrenwoodhouse](https://github.com/warrenwoodhouse/warrenwoodhouse) | 1.93 MB |
+| [warrenwoodhouse](https://github.com/warrenwoodhouse/warrenwoodhouse) | 1.95 MB |
 | [warrenwoodhouse.github.io](https://github.com/warrenwoodhouse/warrenwoodhouse.github.io) | 488 KB |
 | [warrenx](https://github.com/warrenwoodhouse/warrenx) | 8 KB |
 | [widgets](https://github.com/warrenwoodhouse/widgets) | 46 KB |
