@@ -6,9 +6,9 @@ Check out my other Profile Page by [CLICKING HERE](https://warrenwoodhouse.blogs
 [CLICK HERE](https://github.com/warrenwoodhouse/warrenwoodhouse/blob/master/RELEASE-NOTES.md) to read the Release Notes/Changelog for my GitHub.
 
 # Contact Me
-[CLICK HERE](https://discordapp.com/users/@warrenwoodhouse) to add me to Discord. Otherwise, you can contact me at the other services listed below:
+[CLICK HERE](https://discordapp.com/users/@warrenwoodhouse) to add me to Discord. Otherwise, you can contact me using my contact form by [CLICKING HERE](https://warrenwoodhouse.github.io/contact) or by adding me at the other services listed below:
 
-* [Facebook Messenger](https://messenger.com/t/warrenwoodhouse)
+* [Add Warren to your contacts on Facebook Messenger](https://messenger.com/t/warrenwoodhouse)
 
 # About
 I have Autism & ADHD. I enjoy playing on video games, playing on my guitar, playing on my piano, watching films, reading books & taking photos.
@@ -16,7 +16,7 @@ I have Autism & ADHD. I enjoy playing on video games, playing on my guitar, play
 ## Supporting
 ### Poppy Appeal
 [![Poppy Widget](https://raw.githubusercontent.com/warrenwoodhouse/poppy/refs/heads/main/button.png)](https://www.britishlegion.org.uk/get-involved/fundraise-for-us/poppy-appeal)<sub>Click on the Poppy to learn more about the Poppy Appeal and the Royal British Legion!</sub><br>
-<sub>Widget By: [T-Codes](https://warrenwoodhouse.blogspot.com/codes) on [Warren Woodhouse](https://warrenwoodhouse.blogspot.com/)</sub>
+<sub>Widget made using [Poppy Widget](https://warrenwoodhouse.github.io/poppy) by [Warren Woodhouse](https://warrenwoodhouse.github.io/)</sub>
 
 ## Personal Achievements
 ### Scout Badges
@@ -34,262 +34,23 @@ I have Autism & ADHD. I enjoy playing on video games, playing on my guitar, play
 # Repo Sizes
 This section is automatically refreshed every 12 hours using the [GitHub Actions (Bot)](https://github.com/actions) and shows the current size of every public repository I own.
 
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
-# Repo Sizes
-This section is automatically refreshed every 12 hours using the GitHub API and shows the current size of every public repository I own.
-
 <!-- BEGIN REPO SIZES -->
-| Repo | Size |
-| --- | --- |
-| [2016](https://github.com/warrenwoodhouse/2016) | 25 KB |
-| [_atproto.warrenwoodhouse.github.io](https://github.com/warrenwoodhouse/_atproto.warrenwoodhouse.github.io) | 2 KB |
-| [amazonsilkforleaflet](https://github.com/warrenwoodhouse/amazonsilkforleaflet) | 41 KB |
-| [app](https://github.com/warrenwoodhouse/app) | 3 KB |
-| [applenotes](https://github.com/warrenwoodhouse/applenotes) | 1.55 MB |
-| [appleshortcuts](https://github.com/warrenwoodhouse/appleshortcuts) | 7 KB |
-| [appletouchicons](https://github.com/warrenwoodhouse/appletouchicons) | 298 KB |
-| [audioplayers](https://github.com/warrenwoodhouse/audioplayers) | 25 KB |
-| [badges](https://github.com/warrenwoodhouse/badges) | 612 KB |
-| [bastille-uprising-game](https://github.com/warrenwoodhouse/bastille-uprising-game) | 1 KB |
-| [bloggertemplates](https://github.com/warrenwoodhouse/bloggertemplates) | 4.25 MB |
-| [buttons](https://github.com/warrenwoodhouse/buttons) | 2.71 MB |
-| [calculator](https://github.com/warrenwoodhouse/calculator) | 12 KB |
-| [charactersheet](https://github.com/warrenwoodhouse/charactersheet) | 8 KB |
-| [checklist](https://github.com/warrenwoodhouse/checklist) | 17 KB |
-| [cityhotspots](https://github.com/warrenwoodhouse/cityhotspots) | 7 KB |
-| [clocks](https://github.com/warrenwoodhouse/clocks) | 929 KB |
-| [codes](https://github.com/warrenwoodhouse/codes) | 138 KB |
-| [colourchart](https://github.com/warrenwoodhouse/colourchart) | 14 KB |
-| [community](https://github.com/warrenwoodhouse/community) | 4 KB |
-| [communityblogs](https://github.com/warrenwoodhouse/communityblogs) | 0 KB |
-| [contact](https://github.com/warrenwoodhouse/contact) | 24 KB |
-| [cursors](https://github.com/warrenwoodhouse/cursors) | 9 KB |
-| [dashbrd](https://github.com/warrenwoodhouse/dashbrd) | 13.61 MB |
-| [effectivepancake](https://github.com/warrenwoodhouse/effectivepancake) | 2 KB |
-| [fallout3](https://github.com/warrenwoodhouse/fallout3) | 656 KB |
-| [farcry2](https://github.com/warrenwoodhouse/farcry2) | 7 KB |
-| [favicons](https://github.com/warrenwoodhouse/favicons) | 2.38 MB |
-| [feedback](https://github.com/warrenwoodhouse/feedback) | 3 KB |
-| [feedmaker](https://github.com/warrenwoodhouse/feedmaker) | 262 KB |
-| [feeds](https://github.com/warrenwoodhouse/feeds) | 48 KB |
-| [flags](https://github.com/warrenwoodhouse/flags) | 6.04 MB |
-| [fonts](https://github.com/warrenwoodhouse/fonts) | 182 KB |
-| [footer](https://github.com/warrenwoodhouse/footer) | 11 KB |
-| [forums](https://github.com/warrenwoodhouse/forums) | 5 KB |
-| [gamemaps](https://github.com/warrenwoodhouse/gamemaps) | 5 KB |
-| [games](https://github.com/warrenwoodhouse/games) | 168 KB |
-| [gamesaves](https://github.com/warrenwoodhouse/gamesaves) | 3 KB |
-| [gaming](https://github.com/warrenwoodhouse/gaming) | 101 KB |
-| [gamingtelephonedirectory](https://github.com/warrenwoodhouse/gamingtelephonedirectory) | 637 KB |
-| [gifs](https://github.com/warrenwoodhouse/gifs) | 387 KB |
-| [githubcommits](https://github.com/warrenwoodhouse/githubcommits) | 23 KB |
-| [githubthemes](https://github.com/warrenwoodhouse/githubthemes) | 81 KB |
-| [githubthemes-template](https://github.com/warrenwoodhouse/githubthemes-template) | 94 KB |
-| [gloriousspaceumbrella](https://github.com/warrenwoodhouse/gloriousspaceumbrella) | 2 KB |
-| [googlechromeapps](https://github.com/warrenwoodhouse/googlechromeapps) | 6 KB |
-| [googlechromethemes](https://github.com/warrenwoodhouse/googlechromethemes) | 5 KB |
-| [googleearth](https://github.com/warrenwoodhouse/googleearth) | 4 KB |
-| [groups](https://github.com/warrenwoodhouse/groups) | 4 KB |
-| [gta3](https://github.com/warrenwoodhouse/gta3) | 241 KB |
-| [gta5](https://github.com/warrenwoodhouse/gta5) | 5 KB |
-| [gtav](https://github.com/warrenwoodhouse/gtav) | 363 KB |
-| [guides](https://github.com/warrenwoodhouse/guides) | 3.13 MB |
-| [index.html](https://github.com/warrenwoodhouse/index.html) | 0 KB |
-| [js](https://github.com/warrenwoodhouse/js) | 4 KB |
-| [license](https://github.com/warrenwoodhouse/license) | 6 KB |
-| [logos](https://github.com/warrenwoodhouse/logos) | 1.33 MB |
-| [map](https://github.com/warrenwoodhouse/map) | 20.95 MB |
-| [mapicons](https://github.com/warrenwoodhouse/mapicons) | 8.18 MB |
-| [maps](https://github.com/warrenwoodhouse/maps) | 149.06 MB |
-| [mastodon](https://github.com/warrenwoodhouse/mastodon) | 391.87 MB |
-| [minecraft](https://github.com/warrenwoodhouse/minecraft) | 5 KB |
-| [mods](https://github.com/warrenwoodhouse/mods) | 6 KB |
-| [music](https://github.com/warrenwoodhouse/music) | 5.47 MB |
-| [notes](https://github.com/warrenwoodhouse/notes) | 53 KB |
-| [pdfs](https://github.com/warrenwoodhouse/pdfs) | 29.53 MB |
-| [photos](https://github.com/warrenwoodhouse/photos) | 5.54 MB |
-| [piczo](https://github.com/warrenwoodhouse/piczo) | 10 KB |
-| [pingstr](https://github.com/warrenwoodhouse/pingstr) | 17 KB |
-| [planetcoaster](https://github.com/warrenwoodhouse/planetcoaster) | 4 KB |
-| [podcast](https://github.com/warrenwoodhouse/podcast) | 3.51 MB |
-| [podcasts](https://github.com/warrenwoodhouse/podcasts) | 4 KB |
-| [polls](https://github.com/warrenwoodhouse/polls) | 19 KB |
-| [poppy](https://github.com/warrenwoodhouse/poppy) | 223 KB |
-| [ps1](https://github.com/warrenwoodhouse/ps1) | 0 KB |
-| [ps2](https://github.com/warrenwoodhouse/ps2) | 0 KB |
-| [ps3](https://github.com/warrenwoodhouse/ps3) | 0 KB |
-| [ps4](https://github.com/warrenwoodhouse/ps4) | 0 KB |
-| [ps5](https://github.com/warrenwoodhouse/ps5) | 0 KB |
-| [sharefactorystickers](https://github.com/warrenwoodhouse/sharefactorystickers) | 68 KB |
-| [shields](https://github.com/warrenwoodhouse/shields) | 52 KB |
-| [sidebar](https://github.com/warrenwoodhouse/sidebar) | 12 KB |
-| [simcity3000](https://github.com/warrenwoodhouse/simcity3000) | 5 KB |
-| [site](https://github.com/warrenwoodhouse/site) | 4 KB |
-| [slice](https://github.com/warrenwoodhouse/slice) | 98 KB |
-| [social](https://github.com/warrenwoodhouse/social) | 3 KB |
-| [source-sdk-2013](https://github.com/warrenwoodhouse/source-sdk-2013) | 674.95 MB |
-| [spreadsheets](https://github.com/warrenwoodhouse/spreadsheets) | 142 KB |
-| [templates](https://github.com/warrenwoodhouse/templates) | 19 KB |
-| [textdocuments](https://github.com/warrenwoodhouse/textdocuments) | 791 KB |
-| [themes](https://github.com/warrenwoodhouse/themes) | 0 KB |
-| [thesims](https://github.com/warrenwoodhouse/thesims) | 11 KB |
-| [thesims4](https://github.com/warrenwoodhouse/thesims4) | 20 KB |
-| [thps4](https://github.com/warrenwoodhouse/thps4) | 6 KB |
-| [translate](https://github.com/warrenwoodhouse/translate) | 111 KB |
-| [tumblrthemes](https://github.com/warrenwoodhouse/tumblrthemes) | 13 KB |
-| [videoinfo](https://github.com/warrenwoodhouse/videoinfo) | 7 KB |
-| [wallpapers](https://github.com/warrenwoodhouse/wallpapers) | 4 KB |
-| [warren](https://github.com/warrenwoodhouse/warren) | 12 KB |
-| [warrencode](https://github.com/warrenwoodhouse/warrencode) | 1 KB |
-| [warrenwoodhouse](https://github.com/warrenwoodhouse/warrenwoodhouse) | 1.96 MB |
-| [warrenwoodhouse.github.io](https://github.com/warrenwoodhouse/warrenwoodhouse.github.io) | 488 KB |
-| [warrenx](https://github.com/warrenwoodhouse/warrenx) | 8 KB |
-| [widgets](https://github.com/warrenwoodhouse/widgets) | 46 KB |
-| [wiki](https://github.com/warrenwoodhouse/wiki) | 4 KB |
-| [wordpressthemes](https://github.com/warrenwoodhouse/wordpressthemes) | 4 KB |
-| [zoomvirtualbackdrops](https://github.com/warrenwoodhouse/zoomvirtualbackdrops) | 4 KB |
 <!-- END REPO SIZES -->
+
+<sub>Widget made using [GitHub Repo Sizes](https://warrenwoodhouse.github.io/widgets/github/reposizes) by [Warren Woodhouse](https://warrenwoodhouse.github.io/)</sub>
 
 # Creations
 Things I’ve created over the years. You’ll also find external links here that link to pages where my contents are stored on other services, such as that of The Sims 4 Gallery, for instance.
 
 * [Warren Maps](https://warrenwoodhouse.github.io/maps): Custom made interactive and static maps, you’ll also find a Maps Wiki here, Map Editors for Leaflet and MediaWiki as well as Map Icons as well. My Google MyMaps maps have been converted into Leaflet maps and migrated to here.
-* [Amazon Silk Plugin for Leaflet](https://github.com/warrenwoodhouse/maps/tree/main/plugins/amazonsilk): A free to use plugin for Leaflet, tailored to CRS.Simple maps however I’ll create an update soon so that it works for other map layouts. Maps will now work on the Amazon Silk browser on Fire TV with ease.
+* [Amazon Silk for Leaflet Plugin](https://warrenwoodhouse.github.io/amazonsilkforleaflet): A free to use plugin for Leaflet, tailored for various map layouts and includes keyboard support, accessibility support for disabled users and more.
 * [T-Codes (formerly: The-Music-Codes, Piczo Zone and Piczo Pros)](https://warrenwoodhouse.blogspot.com/codes): Tutorials, How Tos and created content to help build your websites and blogs from the ground up. This website features an extensive collection of codes by me and ones I’ve acquired 20 years ago. You’ll also find widgets, plugins, web designs and more. Check it out! Also includes my archive of WidgetBox widgets which have all been converted for modern uses.
 * [Warren Game Guides](https://warrenwoodhouse.blogspot.com/gameguides): Check out my entire library of Game Guides that I’ve written over the years.
 * > [GTA V Guide: Markdown Version](https://warrenwoodhouse.github.io/gtav): Hosted on GitHub. My entire original Notepad document converted into a Markdown file for easy reading. This guide features everything you need to earn the platinum trophy including a detailed guide for GTA Online for both the Xbox 360 edition and PS3 edition of the game. This guide has over 20,000 words and a custom made ASCII design of the GTA V logo in the header!
 * [Poppy Appeal Widget](https://warrenwoodhouse.github.io/poppy): Lets you add a Poppy to your website or blog for showing your support for the Poppy Appeal campaign, veterans of the armed services and their families of the British Royal Legion. This widget activates automatically annually between the 21st October and the 12th November, in line with Remembrance Week.
 * [GitHub Commits Feed Generator](https://warrenwoodhouse.github.io/githubcommits): This free to use generator lets you create a custom feed showcasing the latest commits from a given GitHub account.
 * [Al Bhed Translator & Dictionary](https://warrenwoodhouse.github.io/translate/albhed): This free to use translator and dictionary allows you to translate the full language of Al Bhed from the Final Fantasy franchise.
-* [Simlish Translator & Dictionary](https://warrenwoodhouse.github.io/translate/simlish): This free to use translator and dictionary allows you to translate the full language of Simlish from The Sims franchise. This translator is still a work in progress.
+* [Simlish Translator & Dictionary](https://warrenwoodhouse.github.io/translate/simlish): This free to use translator and dictionary allows you to translate the full language of Simlish from The Sims franchise. Work in progress.
 * [Newcastle upon Tyne UK’s Nexus Metro Texture Pack for Grand Theft Auto III](https://github.com/warrenwoodhouse/gta3/releases/tag/newcastleupontyneuknexusmetrotexturepack): Download and install this free texture pack for Grand Theft Auto III on the PC.
 * [SimCity 3000 Mods](https://github.com/warrenwoodhouse/simcity3000/releases/tag/v1): Mods by Warren Woodhouse for SimCity 3000 on the PC.
 * [Spreadsheets](https://github.com/warrenwoodhouse/spreadsheets/releases/tag/main): A library of publicly accessible Spreadsheets.
@@ -298,11 +59,12 @@ Things I’ve created over the years. You’ll also find external links here tha
 * [#FIAJ Fart in a Jar](https://warrenwoodhouse.github.io/games/fartinajar): Tap a jar to make it stink and smell toxic.
 * [Advanced Draughts (Checkers)](https://warrenwoodhouse.github.io/games/draughts): Play an advanced version of Draughts (Checkers) against an AI opponent or against another player via a local session.
 * [Simplified Caravan](https://warrenwoodhouse.github.io/games/simplifiedcaravan): Play a simplified version of Caravan, the infamous card game from Fallout: New Vegas.
+* [Caravan](https://warrenwoodhouse.github.io/games/caravan): Play a simple and advanced version of Caravan, the infamous card game from Fallout: New Vegas, complete with mobile functionality, reset match button, difficulty modes and two player mode. Work in progress.
 * [Twisty Cube](https://warrenwoodhouse.github.io/games/twistycube): Play an interactive version of the infamous Rubik’s Cube. Work in progress.
 * [Pong](https://warrenwoodhouse.github.io/games/pong): Play a simple and advanced version of Pong, complete with mobile functionality, reset match button, difficulty modes and more.
 * [MapThis!](https://warrenwoodhouse.github.io/maps/editor): A free to use map editor.
 * [MapThis! for MediaWiki](https://warrenwoodhouse.github.io/maps/editor/wiki): A free to use map editor for MediaWiki sites.
-* [Warren Notes](https://warrenwoodhouse.github.io/notes): Warren Notes is a free, safe and secure private notetaking PWA app that supports Markdown files.
+* [Warren Notes](https://warrenwoodhouse.github.io/notes): Warren Notes is a free, safe and secure private notetaking PWA app that supports Markdown files and uses AES-256 cryptographic security level.
 * [WarrenX](https://github.com/warrenwoodhouse/warrenx) (currently in development): WarrenX is a free, safe, secure and reliable easy to use web browser that supports private browsing, robust loading times and flexible features.
 * [PiNgStR](https://github.com/warrenwoodhouse/pingstr): PiNgStR is a website loading tool that makes your website load faster.
 * [FeedMaker](https://warrenwoodhouse.github.io/feedmaker): Create feeds from posts from websites that have no generated feed files.
@@ -324,12 +86,12 @@ Things I’ve created over the years. You’ll also find external links here tha
 * MySpace Layouts (coming soon)
 * [PDFs](https://github.com/warrenwoodhouse/pdfs): A large library of PDF Files scanned and archived by Warren Woodhouse.
 * [Gaming Telephone Directory](https://warrenwoodhouse.github.io/gamingtelephonedirectory): View a collection of telephone numbers, contact details, addresses and more from tons of video games.
-* [Hexadecimal Colour Chart](https://warrenwoodhouse.github.io/codes/colourchart): A full list of colours along with their Hexadecimal hash code and other various details.
+* [Hexadecimal Colour Chart](https://warrenwoodhouse.github.io/colourchart): A full list of colours along with their Hexadecimal hash code and other various details.
 * [Audio Player Widgets](https://warrenwoodhouse.github.io/audioplayers): Custom made audio players for your websites and blogs.
 * [Clock Widgets](https://warrenwoodhouse.github.io/clocks): Custom made clocks and countdown clocks for your websites and blogs.
-* [80s Cassette Player Widget](https://github.com/warrenwoodhouse/warrenwoodhouse/blob/master/bloggergadgets-cassetteplayer.md): A widget for Blogger and other websites that lets you listen to 70s and 80s music using an 80s inspired Cassette Player.
-* [Tesco Price Checker Widget](https://github.com/warrenwoodhouse/warrenwoodhouse/blob/master/bloggergadgets-tescopricechecker.md): A widget for Blogger and other websites that lets you check the lowest prices at Tesco here in the United Kingdom.
-* [Piczo About Me Widget](https://github.com/warrenwoodhouse/warrenwoodhouse/blob/master/bloggergadgets-piczoaboutme.md): A widget for Blogger and other websites that lets you show your friends, fans and followers your interests and other tidbits.
+* [80s Cassette Player Widget](https://warrenwoodhouse.github.io/audioplayers/cassetteplayer): A widget for Blogger and other websites that lets you listen to 70s and 80s music using an 80s inspired Cassette Player.
+* [Tesco Price Checker Widget](https://warrenwoodhouse.github.io/widgets/tesco/pricechecker): A widget for Blogger and other websites that lets you check the lowest prices at Tesco here in the United Kingdom.
+* [Piczo About Me Widget](https://warrenwoodhouse.github.io/widgets/piczo/aboutme): A widget for Blogger and other websites that lets you show your friends, fans and followers your interests and other tidbits.
 * [Games](https://warrenwoodhouse.github.io/games): Video Games by Warren Woodhouse Games, GotGames Interactive, AeP Games and 798 Game Studios, which are all part of the Warren Woodhouse group.
 * [Favicons](https://github.com/warrenwoodhouse/favicons): Custom made favicons and animated favicons for use on your own websites and blogs.
 * [Cursors](https://github.com/warrenwoodhouse/cursors): Custom made cursors and animated cursors for use on your own websites and blogs.
@@ -354,11 +116,11 @@ Things I’ve created over the years. You’ll also find external links here tha
 * [Official Website](https://warrenwoodhouse.blogspot.com/)
 * [Podcasts](https://youtube.com/user/warrenwoodhouse/podcasts)
 * [Archive](https://warrenwoodhouse.blogspot.com/archive)
-* [Homepage](https://warrenwoodhouse.github.io/warrenwoodhouse)
-* [About Me](https://warrenwoodhouse.blogspot.com/about)
+* [Profile Page](https://warrenwoodhouse.github.io/)
+* [About My Website](https://warrenwoodhouse.blogspot.com/about)
 * [Blog](https://warrenwoodhouse.blogspot.com/)
 * [T-Codes](https://warrenwoodhouse.github.io/codes)
-* [Colour Chart](https://warrenwoodhouse.github.io/codes/colourchart)
+* [Colour Chart](https://warrenwoodhouse.github.io/colourchart)
 * [Comments](https://warrenwoodhouse.github.io/warrenwoodhouse/comments)
 * [Videos](https://youtube.com/user/warrenwoodhouse)
 * [Music](https://warrenwoodhouse.blogspot.com/music)
@@ -431,6 +193,7 @@ These ZIP Files are now available to download. These are available for free for 
 [CLICK HERE](https://github.com/warrenwoodhouse?tab=overview&from=2026-01-01&to=2026-12-31) to see the full list of updates in 2026.
 
 ## Past - Changes
+* [2026](https://github.com/warrenwoodhouse?tab=overview&from=2026-01-01&to=2026-12-31)
 * [2025](https://github.com/warrenwoodhouse?tab=overview&from=2025-01-01&to=2025-12-31)
 * [2024](https://github.com/warrenwoodhouse?tab=overview&from=2024-01-01&to=2024-12-31)
 * [2023](https://github.com/warrenwoodhouse?tab=overview&from=2023-01-01&to=2023-12-31)
@@ -453,17 +216,17 @@ These ZIP Files are now available to download. These are available for free for 
 [CLICK HERE](https://warrenwoodhouse.blogspot.com/blogs) to see the full list of Blogs.
 
 # GitHub Pages
-* [Warren Woodhouse](https://warrenwoodhouse.github.io/warrenwoodhouse)
+* [Profile Page](https://warrenwoodhouse.github.io/)
 * [T-Codes](https://warrenwoodhouse.github.io/codes)
-* [Colour Chart](https://warrenwoodhouse.github.io/codes/colourchart)
+* [Colour Chart](https://warrenwoodhouse.github.io/colourchart)
 * [Comments](https://warrenwoodhouse.github.io/warrenwoodhouse/comments)
 
 # GitHub Projects
-* [PiNgStR](https://github.com/warrenwoodhouse/pingstr)
-* [FeedMaker](https://github.com/warrenwoodhouse/feedmaker)
-* [SliceMaker](https://github.com/warrenwoodhouse/slice)
-* [Blogger Templates](https://github.com/warrenwoodhouse/bloggertemplates)
-* [MapThis!](https://github.com/warrenwoodhouse/maps)
+* [PiNgStR](https://warrenwoodhouse.github.io/pingstr)
+* [FeedMaker](https://warrenwoodhouse.github.io/feedmaker)
+* [SliceMaker](https://warrenwoodhouse.github.io/slice)
+* [Blogger Templates](https://warrenwoodhouse.github.io/bloggertemplates)
+* [MapThis!](https://warrenwoodhouse.github.io/maps/editor)
 * PhotoFlame (currently in development)
 
 # Websites Misusing my Data from my GitHub using GitHub API
@@ -503,7 +266,7 @@ The template for the README file found on various repositories can be found by [
 You can find the license agreement by [CLICKING HERE](https://warrenwoodhouse.blogspot.com/terms).
 
 # What You Will Find on my GitHub
-My GitHub profile contains repositories such as archived content from all of my websites, mods that I've made for video games, PDFs, wallpapers, cursors, favicons, fonts and more.
+My GitHub profile contains repositories such as [maps](https://github.com/warrenwoodhouse/maps) I’ve made, archived content from all of my websites, [mods](https://github.com/warrenwoodhouse/mods) that I've made for video games, [PDFs](https://github.com/warrenwoodhouse/pdfs), [wallpapers](https://github.com/warrenwoodhouse/wallpapers), [cursors](https://github.com/warrenwoodhouse/cursors), [favicons](https://github.com/warrenwoodhouse/favicons), [fonts](https://github.com/warrenwoodhouse/fonts) and more.
 
 # Support
 You can find support by [CLICKING HERE](https://warrenwoodhouse.blogspot.com/support).
@@ -511,6 +274,7 @@ You can find support by [CLICKING HERE](https://warrenwoodhouse.blogspot.com/sup
 # Keep in Touch
 * [Subscribe on YouTube](https://youtube.com/user/warrenwoodhouse)
 * [Follow on Blogger](https://warrenwoodhouse.blogspot.com/)
+* [Follow on Blue Sky](https://warrenwoodhouse.bsky.social/)
 * [Follow on Twitter / X](https://twitter.com/warrenwoodhouse)
 * [Follow on Warren Woodhouse Blogs](https://warrenwoodhouse.blogspot.com/blogs)
 * [Follow on GIPHY](https://giphy.com/channel/warrenwoodhouse)
