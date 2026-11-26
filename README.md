@@ -38,6 +38,7 @@ This section is automatically refreshed every 12 hours using the [GitHub Actions
 
 
 
+
 <!-- BEGIN REPO SIZES -->
 | Repo | Size |
 | --- | --- |
@@ -75,7 +76,7 @@ This section is automatically refreshed every 12 hours using the [GitHub Actions
 | [feeds](https://github.com/warrenwoodhouse/feeds) | 48 KB |
 | [flags](https://github.com/warrenwoodhouse/flags) | 6.04 MB |
 | [fonts](https://github.com/warrenwoodhouse/fonts) | 182 KB |
-| [footer](https://github.com/warrenwoodhouse/footer) | 25 KB |
+| [footer](https://github.com/warrenwoodhouse/footer) | 50 KB |
 | [forums](https://github.com/warrenwoodhouse/forums) | 5 KB |
 | [gamemaps](https://github.com/warrenwoodhouse/gamemaps) | 5 KB |
 | [games](https://github.com/warrenwoodhouse/games) | 181 KB |
@@ -142,8 +143,8 @@ This section is automatically refreshed every 12 hours using the [GitHub Actions
 | [wallpapers](https://github.com/warrenwoodhouse/wallpapers) | 4 KB |
 | [warren](https://github.com/warrenwoodhouse/warren) | 12 KB |
 | [warrencode](https://github.com/warrenwoodhouse/warrencode) | 1 KB |
-| [warrenwoodhouse](https://github.com/warrenwoodhouse/warrenwoodhouse) | 2.00 MB |
-| [warrenwoodhouse.github.io](https://github.com/warrenwoodhouse/warrenwoodhouse.github.io) | 504 KB |
+| [warrenwoodhouse](https://github.com/warrenwoodhouse/warrenwoodhouse) | 2.01 MB |
+| [warrenwoodhouse.github.io](https://github.com/warrenwoodhouse/warrenwoodhouse.github.io) | 563 KB |
 | [warrenx](https://github.com/warrenwoodhouse/warrenx) | 8 KB |
 | [widgets](https://github.com/warrenwoodhouse/widgets) | 56 KB |
 | [wiki](https://github.com/warrenwoodhouse/wiki) | 14 KB |
